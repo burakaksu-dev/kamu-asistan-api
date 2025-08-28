@@ -12,7 +12,7 @@
   ],
 
   "stations": [
-    { "name": "TRT Radyo Haber(TEST)", "url": "https://radyo.trt.net.tr/kanallar/trt-radyo-haber" },
+    { "name": "TRT Radyo Haber", "url": "https://radyo.trt.net.tr/kanallar/trt-radyo-haber" },
     { "name": "NTV Radyo",       "url": "https://www.ntvradyo.com.tr/canli-dinle" },
     { "name": "24 Radyo",        "url": "https://www.24radyo.com/" }
   ]
