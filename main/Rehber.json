@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "tc_kimlik_karti_yenileme",
+    "category": "NÜFUS",
+    "title": "T.C. Kimlik Kartı Yenileme",
+    "steps": [
+      "E-Devlet, ALO 199 veya randevu.nvi.gov.tr üzerinden randevu alın.",
+      "Randevu saatinde nüfus müdürlüğüne gidin.",
+      "Gerekli belgeleri teslim edin, biyometrik verinizi verin.",
+      "Başvuru ücretini ödeyin.",
+      "Geçici kimlik belgenizi alın, yenisi PTT ile gönderilir."
+    ],
+    "requiredDocuments": [
+      "Eski kimlik kartı veya pasaport",
+      "1 adet biyometrik fotoğraf",
+      "Ücret ödeme dekontu"
+    ],
+    "duration": "Yaklaşık 1 hafta.",
+    "notes": [
+      "15 yaşından küçükler için veli başvurmalıdır.",
+      "90 gün içinde alınmayan kartlar iptal edilir."
+    ]
+  },
+  {
+    "id": "nufus_cuzdani_kaybi_durumunda_yenileme",
+    "category": "NÜFUS",
+    "title": "Nüfus Cüzdanı Kaybı Durumunda Yenileme",
+    "steps": [
+      "randevu.nvi.gov.tr veya ALO 199'dan randevu alın.",
+      "Nüfus müdürlüğüne giderek kayıp başvurusu yapın.",
+      "Kimlik tespiti için varsa ehliyet veya pasaport gösterin.",
+      "Biyometrik fotoğraf verin, geçici kimlik belgesi alın."
+    ],
+    "requiredDocuments": [
+      "Varsa başka bir belge (ehliyet, pasaport)",
+      "1 adet biyometrik fotoğraf"
+    ],
+    "duration": "1 hafta.",
+    "notes": [
+      "Kimliği olmayan kişi, muhtarlık tanıklığı ile işlem yapabilir."
+    ]
+  },
+  {
+    "id": "ikametgah_adres_degisikligi",
+    "category": "ADRES VE İKAMETGAH",
+    "title": "İkametgah (Adres) Değişikliği",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Adres Değişikliği Bildirimi' hizmetini seçin.",
+      "Yeni adresi girin, gerekirse belge yükleyin.",
+      "Başvuruyu onaylayın."
+    ],
+    "requiredDocuments": [
+      "Yeni adres bilgisi",
+      "Gerekirse kira kontratı veya tapu belgesi"
+    ],
+    "duration": "Anında tamamlanır.",
+    "notes": [
+      "Adres değişikliği bildirilmezse idari para cezası uygulanabilir."
+    ]
+  },
+  {
+    "id": "yeni_dogan_cocuk_icin_nufus_kaydi",
+    "category": "NÜFUS",
+    "title": "Yeni Doğan Çocuk İçin Nüfus Kaydı",
+    "steps": [
+      "Doğum belgesi alın (hastane verir).",
+      "15 gün içinde nüfus müdürlüğüne gidin.",
+      "Bebeğin kaydını yaptırın.",
+      "Yeni kimlik kartı başvurusunu aynı anda yapın."
+    ],
+    "requiredDocuments": [
+      "Doğum belgesi",
+      "Anne veya babanın kimliği"
+    ],
+    "duration": "Aynı gün kayıt yapılır.",
+    "notes": [
+      "Geç başvurularda para cezası uygulanabilir."
+    ]
+  },
+  {
+    "id": "vefat_bildirimi",
+    "category": "NÜFUS",
+    "title": "Vefat Bildirimi",
+    "steps": [
+      "Ölüm belgesi hastaneden alınır.",
+      "Nüfus müdürlüğüne ya da muhtarlığa bildirilir.",
+      "Kayıt güncellenir."
+    ],
+    "requiredDocuments": [
+      "Ölüm belgesi",
+      "Vefat edenin kimlik bilgileri"
+    ],
+    "duration": "1 iş günü.",
+    "notes": [
+      "Bildirim, mezarlık işlemleri için gereklidir."
+    ]
+  },
+  {
+    "id": "sgk_ise_giris_bildirimi",
+    "category": "SGK",
+    "title": "SGK İşe Giriş Bildirimi",
+    "steps": [
+      "İşveren, e-SGK sistemi üzerinden işe giriş bildirimi yapar.",
+      "Çalışan, e-Devlet üzerinden hizmet dökümünü kontrol eder.",
+      "Prim ödemeleri takip edilir."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası",
+      "İşe başlama tarihi",
+      "İşverenin imza sirküleri"
+    ],
+    "duration": "Anında görünür.",
+    "notes": [
+      "Geç bildirimde ceza uygulanır.",
+      "Çalışan, bilgilerini e-Devlet’ten doğrulamalıdır."
+    ]
+  },
+  {
+    "id": "sgk_hizmet_dokumu_alma",
+    "category": "SGK",
+    "title": "SGK Hizmet Dökümü Alma",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'SGK Tescil ve Hizmet Dökümü' hizmetini seçin.",
+      "PDF veya yazıcı çıktısı alın."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında alınır.",
+    "notes": [
+      "E-Devlet üzerinden barkodlu olarak alınabilir."
+    ]
+  },
+  {
+    "id": "sgk_prim_gun_sayisi_sorgulama",
+    "category": "SGK",
+    "title": "SGK Prim Gün Sayısı Sorgulama",
+    "steps": [
+      "E-Devlet'e giriş yapın.",
+      "'Hizmet Dökümü' sekmesine girin.",
+      "Toplam gün ve prim bilgilerinizi kontrol edin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında görünür.",
+    "notes": [
+      "Tüm hizmet kolları (4A, 4B, 4C) ayrı ayrı listelenir."
+    ]
+  },
+  {
+    "id": "sgk_prim_borcu_odeme",
+    "category": "SGK",
+    "title": "SGK Prim Borcu Ödeme",
+    "steps": [
+      "E-Devlet’ten borç sorgulaması yapın.",
+      "SGK prim borcu ödeme ekranına gidin (İnteraktif Vergi Dairesi).",
+      "Kredi kartı ile online ödeme yapın."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası",
+      "Borç türü (Bağ-Kur, isteğe bağlı vb.)"
+    ],
+    "duration": "Anında tahsil edilir.",
+    "notes": [
+      "Ödeme sonrası makbuz alınabilir."
+    ]
+  },
+  {
+    "id": "genel_saglik_sigortasi_gss_basvurusu",
+    "category": "SGK",
+    "title": "Genel Sağlık Sigortası (GSS) Başvurusu",
+    "steps": [
+      "E-Devlet'e giriş yapın.",
+      "'GSS Gelir Testi Başvurusu' sayfasına gidin.",
+      "Formu doldurun ve onaylayın.",
+      "Başvuru, Aile ve Sosyal Politikalar İl Müdürlüğü’ne düşer.",
+      "Test sonucu SGK’ya iletilir."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası",
+      "Adres ve gelir bilgileri"
+    ],
+    "duration": "1–2 hafta.",
+    "notes": [
+      "Gelir testine göre prim ödenip ödenmeyeceği belirlenir."
+    ]
+  },
+  {
+    "id": "kyk_burs_ve_kredi_basvurusu",
+    "category": "KYK VE BURS",
+    "title": "KYK Burs ve Kredi Başvurusu",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'KYK Burs/Kredi Başvurusu' sayfasını açın.",
+      "Kişisel, eğitim ve aile bilgilerinizi doldurun.",
+      "Başvurunuzu onaylayın ve takip edin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi",
+      "Öğrenci belgesi (sistemden çekilir)",
+      "Gelir bilgileri (beyan)"
+    ],
+    "duration": "Sonuçlar genelde 2–4 hafta içinde açıklanır.",
+    "notes": [
+      "Başvurular yılda bir kez, genelde Ekim–Kasım aylarında yapılır.",
+      "Kredi başvurusu otomatik yapılır, dileyen sonradan vazgeçebilir."
+    ]
+  },
+  {
+    "id": "kyk_ogrenim_kredisi_iptali",
+    "category": "KYK VE BURS",
+    "title": "KYK Öğrenim Kredisi İptali",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'GSB - Kredi İptal Başvurusu' ekranına girin.",
+      "Sebep seçin ve işlemi onaylayın.",
+      "İptal sonrası sistemde kredi silinir."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında işlem yapılır.",
+    "notes": [
+      "Kredi alındıktan sonra iptal edilirse geri ödeme yükümlülüğü olabilir."
+    ]
+  },
+  {
+    "id": "ogrenci_belgesi_alma_edevlet",
+    "category": "KYK VE BURS",
+    "title": "Öğrenci Belgesi Alma (e-Devlet)",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Yükseköğretim Kurulu Başkanlığı > Öğrenci Belgesi Sorgulama' seçin.",
+      "PDF veya e-imzalı çıktı alın."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında alınabilir.",
+    "notes": [
+      "Belge e-imzaladır, resmi işlemlerde geçerlidir."
+    ]
+  },
+  {
+    "id": "kyk_yurt_basvurusu",
+    "category": "KYK VE BURS",
+    "title": "KYK Yurt Başvurusu",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'KYK Yurt Başvurusu' sayfasına girin.",
+      "Öğrenci ve aile bilgilerinizi doldurun.",
+      "Başvuruyu tamamlayın ve sonucu bekleyin."
+    ],
+    "requiredDocuments": [
+      "Öğrenci belgesi",
+      "Aile adres ve gelir bilgileri"
+    ],
+    "duration": "Sonuçlar başvurudan sonra 2–3 hafta içinde açıklanır.",
+    "notes": [
+      "Yurt başvuruları genelde Ağustos–Eylül arasında yapılır."
+    ]
+  },
+  {
+    "id": "universite_mezunu_askerlik_tecili",
+    "category": "ASKERLİK",
+    "title": "Üniversite Mezunu Askerlik Tecili",
+    "steps": [
+      "E-Devlet'e giriş yapın.",
+      "'Askerlik Durum Belgesi Sorgulama' hizmetine girin.",
+      "'Tecil Talebi Oluştur' seçeneğini seçin.",
+      "Mezuniyet bilgilerinizi doğrulayın ve onaylayın."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi",
+      "YÖK sisteminde kayıtlı mezuniyet bilgisi"
+    ],
+    "duration": "Anında işlenir.",
+    "notes": [
+      "Tecil süresi genellikle 2 yıl olarak tanımlanır.",
+      "Mezuniyet bilgisi yoksa manuel başvuru gerekir."
+    ]
+  },
+  {
+    "id": "yoklama_basvurusu_ilk_yoklama",
+    "category": "ASKERLİK",
+    "title": "Yoklama Başvurusu (İlk Yoklama)",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Askerlik Yoklaması Başvurusu' hizmetini seçin.",
+      "Sağlık beyanı ve kişisel bilgilerinizi girin.",
+      "Başvuruyu tamamlayın, askerlik şubesine yönlendirme yapılabilir."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi",
+      "Varsa öğrenim belgesi"
+    ],
+    "duration": "Başvuru anında yapılır, sonuç 1–3 gün içinde görünür.",
+    "notes": [
+      "Yoklama sonrası sevk ve celp bilgileri belirlenir."
+    ]
+  },
+  {
+    "id": "askerlik_durum_belgesi_alma",
+    "category": "ASKERLİK",
+    "title": "Askerlik Durum Belgesi Alma",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Askerlik Durum Belgesi Sorgulama' hizmetini açın.",
+      "Belgeyi PDF olarak indirin veya paylaşın."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında alınabilir.",
+    "notes": [
+      "Belge barkodludur ve resmi işlemlerde geçerlidir."
+    ]
+  },
+  {
+    "id": "askerlik_terhis_belgesi_alma",
+    "category": "ASKERLİK",
+    "title": "Askerlik Terhis Belgesi Alma",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Terhis Belgesi Sorgulama' hizmetine gidin.",
+      "Barkodlu belgeyi PDF olarak indirin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Terhis belgesi iş başvurularında veya askerlik ispatında kullanılır."
+    ]
+  },
+  {
+    "id": "konut_satisi_tapu_devri_islemi",
+    "category": "TAPU",
+    "title": "Konut Satışı (Tapu Devri) İşlemi",
+    "steps": [
+      "Web Tapu sisteminden satış başvurusu oluşturun.",
+      "Tapu müdürlüğü randevu saatini belirler.",
+      "Alıcı ve satıcı randevuda hazır bulunur.",
+      "Harç ve döner sermaye ödenir.",
+      "İmzalar atılır ve yeni tapu belgesi düzenlenir."
+    ],
+    "requiredDocuments": [
+      "Tapu belgesi",
+      "Kimlik belgesi",
+      "Vergi numarası",
+      "Alıcının IBAN bilgisi",
+      "Zorunlu Deprem Sigortası (DASK)"
+    ],
+    "duration": "1–3 iş günü.",
+    "notes": [
+      "Tapu harcı, satış bedelinin %4’ü olarak hesaplanır.",
+      "Satış işlemi e-Devlet’ten takip edilebilir."
+    ]
+  },
+  {
+    "id": "tapu_randevusu_alma_web_tapu",
+    "category": "TAPU",
+    "title": "Tapu Randevusu Alma (Web Tapu)",
+    "steps": [
+      "webtapu.tkgm.gov.tr adresine giriş yapın.",
+      "Kimliğinizle başvurunuzu oluşturun.",
+      "Randevu talebinizin kabulünü bekleyin.",
+      "Belirtilen saatte tapu müdürlüğüne gidin."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası",
+      "Tapu bilgileri"
+    ],
+    "duration": "1–2 gün.",
+    "notes": [
+      "Web Tapu başvuruları birçok şehirde zorunludur.",
+      "Alım-satım, bağış, intikal gibi işlemler için geçerlidir."
+    ]
+  },
+  {
+    "id": "tapu_kaydi_sorgulama_edevlet",
+    "category": "TAPU",
+    "title": "Tapu Kaydı Sorgulama (e-Devlet)",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Tapu Bilgileri Sorgulama' hizmetine gidin.",
+      "Adınıza kayıtlı taşınmazları görüntüleyin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Yalnızca kendi adınıza kayıtlı taşınmazlar görüntülenir."
+    ]
+  },
+  {
+    "id": "gayrimenkul_uzerindeki_ipotek_durumu_sorgulama",
+    "category": "TAPU",
+    "title": "Gayrimenkul Üzerindeki İpotek Durumu Sorgulama",
+    "steps": [
+      "E-Devlet’te Tapu ve Kadastro Genel Müdürlüğü hizmetlerine gidin.",
+      "'İpotek Bilgileri Sorgulama' hizmetini açın.",
+      "İpotek varsa detaylarını inceleyin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Sadece kendi adınıza kayıtlı taşınmazlar için geçerlidir."
+    ]
+  },
+  {
+    "id": "umuma_mahsus_bordo_pasaport_basvurusu",
+    "category": "NÜFUS",
+    "title": "Umuma Mahsus (Bordo) Pasaport Başvurusu",
+    "steps": [
+      "randevu.nvi.gov.tr veya ALO 199 üzerinden randevu alın.",
+      "Belirtilen saatte nüfus müdürlüğüne gidin.",
+      "Başvuru belgelerinizi teslim edin ve parmak izi verin.",
+      "Harç ve defter bedelini yatırın.",
+      "Pasaport, PTT ile adresinize gönderilir."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik kartı",
+      "2 adet biyometrik fotoğraf",
+      "Harç ve defter bedeli ödeme dekontu",
+      "Varsa eski pasaport"
+    ],
+    "duration": "3–7 iş günü (yoğunluğa göre).",
+    "notes": [
+      "Harçsız pasaport hakkı olan öğrenciler belge ibraz etmelidir."
+    ]
+  },
+  {
+    "id": "pasaport_yenileme_islemi",
+    "category": "NÜFUS",
+    "title": "Pasaport Yenileme İşlemi",
+    "steps": [
+      "Eski pasaportunuz ile randevu alın.",
+      "Kimlik, fotoğraf ve ödeme dekontu ile müracaat edin.",
+      "Yeni pasaport aynı süreçle hazırlanır ve gönderilir."
+    ],
+    "requiredDocuments": [
+      "Eski pasaport",
+      "Kimlik kartı",
+      "Biyometrik fotoğraf",
+      "Harç ve defter bedeli dekontu"
+    ],
+    "duration": "3–7 iş günü.",
+    "notes": [
+      "Eski pasaport iptal edilerek size iade edilir."
+    ]
+  },
+  {
+    "id": "yurt_disi_cikis_harci_odeme",
+    "category": "YURTDIŞI",
+    "title": "Yurt Dışı Çıkış Harcı Ödeme",
+    "steps": [
+      "E-Devlet veya gib.gov.tr üzerinden ödeme yapın.",
+      "Alternatif olarak havaalanında nakit veya kredi kartı ile ödeme yapın.",
+      "Banka makbuzunu pasaport kontrolünde ibraz edin."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası",
+      "Pasaport"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "2025 yılı itibarıyla çıkış harcı 300 TL’dir.",
+      "18 yaş altı ve bazı özel durumlar muaf tutulabilir."
+    ]
+  },
+  {
+    "id": "vize_basvurusu_icin_randevu_alma_schengen_ornegi",
+    "category": "YURTDIŞI",
+    "title": "Vize Başvurusu İçin Randevu Alma (Schengen Örneği)",
+    "steps": [
+      "İlgili ülkenin resmi vize randevu sistemine girin (ör. iDATA, VFS Global).",
+      "Kişisel bilgilerinizi doldurun, tarih seçin.",
+      "Randevu onayı e-posta ile gönderilir.",
+      "Randevu günü gerekli belgelerle gidin."
+    ],
+    "requiredDocuments": [
+      "Pasaport",
+      "Biyometrik fotoğraf",
+      "Vize başvuru formu",
+      "Uçuş/konaklama bilgileri",
+      "Seyahat sağlık sigortası",
+      "Banka hesap dökümü"
+    ],
+    "duration": "Yoğunluğa göre 1–3 hafta.",
+    "notes": [
+      "Her ülkenin vize prosedürü farklı olabilir, resmi kaynaklar kontrol edilmelidir."
+    ]
+  },
+  {
+    "id": "yurt_disinda_adres_bildirimi_konsolosluk",
+    "category": "YURTDIŞI",
+    "title": "Yurt Dışında Adres Bildirimi (Konsolosluk)",
+    "steps": [
+      "Yurt dışındaki en yakın konsoloslukla iletişime geçin.",
+      "Adres beyan formunu doldurun.",
+      "Kimliğinizle birlikte başvurun.",
+      "Sistem üzerinde adresiniz güncellenir."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik kartı",
+      "Adres kanıtı (kira sözleşmesi, fatura vb.)"
+    ],
+    "duration": "1–3 iş günü.",
+    "notes": [
+      "Adres kaydı olmadan oy kullanamazsınız.",
+      "İkamet belgeleri posta ile de gönderilebilir."
+    ]
+  },
+  {
+    "id": "evlilik_basvurusu_nikah_islemleri",
+    "category": "BELEDİYE",
+    "title": "Evlilik Başvurusu (Nikâh İşlemleri)",
+    "steps": [
+      "Bağlı olduğunuz belediyenin evlendirme dairesine gidin.",
+      "Evlenme beyannamesi ve sağlık raporunu teslim edin.",
+      "Nikâh günü ve saati belirlenir.",
+      "Nikâh günü çiftler ve 2 şahit hazır bulunur.",
+      "Nikâh kıyılır, evlilik cüzdanı teslim edilir."
+    ],
+    "requiredDocuments": [
+      "Nüfus cüzdanı (aslı ve fotokopisi)",
+      "Sağlık raporu (aile hekimi)",
+      "Evlenme beyannamesi (belediyeden alınır)",
+      "2 adet vesikalık fotoğraf (her birey için)",
+      "Harç ödeme dekontu"
+    ],
+    "duration": "1–2 hafta (yoğunluğa göre).",
+    "notes": [
+      "Yabancı uyruklular için ek belgeler istenebilir.",
+      "Aynı belediyeye bağlı olmayan çiftler için izin belgesi gerekir."
+    ]
+  },
+  {
+    "id": "nikah_salonlari_ve_randevu_bilgileri_sorgulama",
+    "category": "BELEDİYE",
+    "title": "Nikâh Salonları ve Randevu Bilgileri Sorgulama",
+    "steps": [
+      "Belediyenizin resmi web sitesine girin.",
+      "Evlendirme hizmetleri bölümüne gidin.",
+      "Nikâh salonlarının yer, ücret ve randevu bilgilerine ulaşın.",
+      "Telefon veya online sistem üzerinden randevu alın."
+    ],
+    "requiredDocuments": [],
+    "duration": "Anında bilgi alınabilir.",
+    "notes": [
+      "Bazı belediyelerde online randevu sistemi mevcuttur.",
+      "Ücretler salon ve saat seçimine göre değişir."
+    ]
+  },
+  {
+    "id": "ikametgah_belgesi_alma_edevlet_veya_muhtarlik",
+    "category": "ADRES VE İKAMETGAH",
+    "title": "İkametgâh Belgesi Alma (e-Devlet veya Muhtarlık)",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Yerleşim Yeri (İkametgâh) Belgesi Sorgulama' hizmetine girin.",
+      "PDF veya e-imzalı belge alın.",
+      "Alternatif olarak bağlı olduğunuz muhtarlıktan da alınabilir."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi veya nüfus cüzdanı"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "E-Devlet belgesi resmi geçerliliğe sahiptir.",
+      "Muhtarlıktan alınan belgeler bazen fiziki imza gerektirir."
+    ]
+  },
+  {
+    "id": "imar_durumu_ve_parsel_bilgisi_sorgulama",
+    "category": "BELEDİYE",
+    "title": "İmar Durumu ve Parsel Bilgisi Sorgulama",
+    "steps": [
+      "İlgili belediyenin resmi web sitesine girin.",
+      "'İmar Durumu' veya 'Plan Bilgi Sistemi' bölümüne gidin.",
+      "Ada, parsel veya tapu bilgileriyle sorgulama yapın."
+    ],
+    "requiredDocuments": [
+      "Ada-parsel bilgisi veya tapu bilgisi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Bazı belediyelerde e-imar uygulaması vardır.",
+      "Bireysel parsellerin yapılaşma koşulları görüntülenebilir."
+    ]
+  },
+  {
+    "id": "emlak_vergisi_odeme",
+    "category": "BELEDİYE",
+    "title": "Emlak Vergisi Ödeme",
+    "steps": [
+      "Belediyenizin web sitesine girin veya vezneye gidin.",
+      "Vergi T.C. kimlik numaranız veya sicil numaranız ile borcunuzu sorgulayın.",
+      "Kredi kartı veya nakit ile ödemenizi yapın."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası veya emlak sicil bilgisi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "İlk taksit genellikle Mart–Mayıs, ikinci taksit Kasım aylarında ödenir.",
+      "Gecikme durumunda faiz uygulanır."
+    ]
+  },
+  {
+    "id": "emeklilik_basvurusu_4a_ssk",
+    "category": "SGK",
+    "title": "Emeklilik Başvurusu (4A - SSK)",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Gelir, Aylık, Ödenek Talep Belgesi' hizmetine girin.",
+      "4A (SSK) seçeneğini seçerek formu doldurun.",
+      "Talebinizi onaylayın, takip numarası alın."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi",
+      "Sigortalılık süresi ve prim gün sayısı yeterli olmalı"
+    ],
+    "duration": "1–2 ay (yoğunluğa göre).",
+    "notes": [
+      "Emeklilik şartları (yaş, gün, yıl) dolmadan başvuru yapılamaz.",
+      "Başvuru sonucu e-Devlet'ten takip edilebilir."
+    ]
+  },
+  {
+    "id": "emekli_maasi_sorgulama",
+    "category": "SGK",
+    "title": "Emekli Maaşı Sorgulama",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'4A/4B/4C Emekli Aylığı Bilgisi' hizmetine girin.",
+      "Maaş tutarı ve ödeme günlerini görüntüleyin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Bankaya yatan maaş günü ve detayları da gösterilir."
+    ]
+  },
+  {
+    "id": "ehliyet_alma_ilk_defa_b_sinifi",
+    "category": "NÜFUS",
+    "title": "Ehliyet Alma (İlk Defa, B Sınıfı)",
+    "steps": [
+      "MEB onaylı bir sürücü kursuna kayıt olun.",
+      "Sağlık raporu alın (aile hekimi veya özel hastane).",
+      "Teorik sınava girin, en az 70 puan alın.",
+      "Direksiyon eğitimini tamamlayıp sınavdan geçin.",
+      "Sertifika aldıktan sonra nüfus müdürlüğünden randevu alın.",
+      "Belgelerle başvuru yapın, ehliyetiniz adresinize gönderilir."
+    ],
+    "requiredDocuments": [
+      "Kimlik kartı",
+      "Sürücü olur sağlık raporu",
+      "Sürücü kursu sertifikası",
+      "2 adet biyometrik fotoğraf",
+      "Harç ve değerli kâğıt dekontu"
+    ],
+    "duration": "1–2 ay.",
+    "notes": [
+      "Ehliyet başvurusu sonrası 15 gün geçerli geçici belge verilir."
+    ]
+  },
+  {
+    "id": "ehliyet_yenileme",
+    "category": "NÜFUS",
+    "title": "Ehliyet yenileme.",
+    "steps": [
+      "Randevu.nvi.gov.tr adresinden randevu alın.",
+      "Nüfus müdürlüğüne belirtilen belgelerle gidin.",
+      "Biyometrik veri verin ve ücret ödeyin.",
+      "Yeni ehliyetiniz PTT ile size teslim edilir."
+    ],
+    "requiredDocuments": [
+      "Mevcut ehliyet",
+      "Kimlik kartı",
+      "1 biyometrik fotoğraf",
+      "Sürücü sağlık raporu",
+      "Harç ödeme dekontu"
+    ],
+    "duration": "Genellikle 1 hafta içinde teslim edilir.",
+    "notes": [
+      "Eski tip ehliyetlerin geçerlilik süresi sınırlıdır. Zamanında yenilenmesi gerekir."
+    ]
+  },
+  {
+    "id": "trafik_cezasi_sorgulama_ve_odeme",
+    "category": "TRAFİK VE EMNİYET",
+    "title": "Trafik Cezası Sorgulama ve Ödeme",
+    "steps": [
+      "E-Devlet’e veya gib.gov.tr’ye giriş yapın.",
+      "'Trafik Cezası Sorgulama ve Ödeme' hizmetine girin.",
+      "T.C. kimlik numarası veya plaka ile sorgulama yapın.",
+      "Kredi kartıyla online ödeme yapın."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası veya plaka numarası"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "15 gün içinde ödenirse %25 indirim uygulanır."
+    ]
+  },
+  {
+    "id": "arac_ruhsati_kaybi_ve_yenileme",
+    "category": "TRAFİK VE EMNİYET",
+    "title": "Araç Ruhsatı Kaybı ve Yenileme",
+    "steps": [
+      "Noterden sıra alın.",
+      "Araç tescil belgesi için yeniden başvuru yapın.",
+      "Gerekli ücretleri ödeyin.",
+      "Yeni ruhsat aynı gün verilir."
+    ],
+    "requiredDocuments": [
+      "Kimlik kartı",
+      "Araç tescil plakası bilgisi",
+      "Ruhsat kayıp dilekçesi",
+      "Zorunlu trafik sigortası poliçesi"
+    ],
+    "duration": "Aynı gün.",
+    "notes": [
+      "Yetkili kişi ruhsatı alacaksa noter vekaleti gerekir."
+    ]
+  },
+  {
+    "id": "dava_dilekcesi_verme",
+    "category": "ADLİYE VE MAHKEME",
+    "title": "Dava Dilekçesi Verme",
+    "steps": [
+      "Yetkili adliyeye gidin veya UYAP Vatandaş Portal’a giriş yapın.",
+      "Dava dilekçenizi hazırlayın.",
+      "Gerekli harç ve masrafları ödeyin.",
+      "Dilekçenizi ilgili mahkemeye teslim edin."
+    ],
+    "requiredDocuments": [
+      "Dava dilekçesi",
+      "Kimlik belgesi",
+      "Vekâletname (varsa avukat aracılığıyla)"
+    ],
+    "duration": "Başvuru günü kabul edilir, dava süreci değişkendir.",
+    "notes": [
+      "Dilekçede açık talepler ve deliller belirtilmelidir.",
+      "E-Devlet ile UYAP üzerinden de başvuru yapılabilir."
+    ]
+  },
+  {
+    "id": "mahkeme_dosyasi_sorgulama",
+    "category": "ADLİYE VE MAHKEME",
+    "title": "Mahkeme Dosyası Sorgulama",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'UYAP Mahkeme Dava Dosyası Sorgulama' hizmetine girin.",
+      "Açık davalarınızı ve detaylarını görüntüleyin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Yalnızca tarafı olduğunuz davaları görebilirsiniz."
+    ]
+  },
+  {
+    "id": "adli_sicil_kaydi_alma",
+    "category": "ADLİYE VE MAHKEME",
+    "title": "Adli Sicil Kaydı Alma (Sabıka Kaydı)",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'Adli Sicil Kaydı Sorgulama' hizmetine girin.",
+      "Belge türünü seçin (devlet, özel kurum vs.).",
+      "PDF olarak kaydedin veya yazdırın."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Belge, resmi işlemlerde geçerlidir.",
+      "Adli sicil kaydı yoksa 'Sicil kaydı bulunmamaktadır' ifadesi yer alır."
+    ]
+  },
+  {
+    "id": "icra_dosyasi_sorgulama",
+    "category": "ADLİYE VE MAHKEME",
+    "title": "İcra Dosyası Sorgulama",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'UYAP İcra Dosyası Sorgulama' hizmetine girin.",
+      "Aktif veya kapalı dosyaları görüntüleyin."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Yalnızca tarafı olduğunuz icra dosyalarını görüntüleyebilirsiniz."
+    ]
+  },
+  {
+    "id": "mahkeme_tarih_sorgulama",
+    "category": "ADLİYE VE MAHKEME",
+    "title": "Mahkeme Duruşma Tarihi Sorgulama",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "'UYAP Duruşma Bilgileri Sorgulama' hizmetine girin.",
+      "Yaklaşan duruşma tarihlerinizi görün."
+    ],
+    "requiredDocuments": [
+      "E-Devlet şifresi"
+    ],
+    "duration": "Anında.",
+    "notes": [
+      "Bildirimler genellikle SMS veya e-posta ile de yapılır."
+    ]
+  },
+  {
+    "id": "afet_cadir_basvurusu",
+    "category": "AFET VE ACİL DURUM",
+    "title": "AFAD Üzerinden Çadır Talebi",
+    "steps": [
+      "AFAD İl Müdürlüğüne başvurun veya muhtarlık üzerinden bilgi alın.",
+      "Afetzede olduğunuza dair belge sağlayın.",
+      "Başvuru formunu doldurun ve teslim edin.",
+      "Yetkililer tarafından değerlendirme yapılır ve çadır tahsis edilir."
+    ],
+    "requiredDocuments": [
+      "Kimlik belgesi",
+      "Afet sonrası mağduriyet belgesi (jandarma, belediye vb.)"
+    ],
+    "duration": "Genellikle 1-3 gün içinde sonuçlanır.",
+    "notes": [
+      "AFAD başvurularını e-Devlet üzerinden de takip edebilirsiniz."
+    ]
+  },
+  {
+    "id": "adliye-uzlastirma-nedir",
+    "title": "Uzlaştırma",
+    "category": "ADLİYE VE MAHKEME",
+    "steps": [
+      "Uzlaştırma, taraflar arasında ceza yargılaması başlamadan veya başladıktan sonra anlaşma sağlanmasıdır.",
+      "Savcılık veya mahkeme, dosyayı uzlaştırma bürosuna gönderir.",
+      "Uzlaştırmacı, taraflarla görüşerek anlaşma zemini arar.",
+      "Anlaşma sağlanırsa dava düşer; sağlanamazsa yargılama devam eder."
+    ],
+    "duration": "Ortalama 1-4 hafta",
+    "notes": [
+      "Uzlaştırma, sadece belirli suçlar için geçerlidir. Tarafların rızası aranır."
+    ],
+    "requiredDocuments": []
+  },
+  {
+    "id": "afet-toplanma-alani",
+    "title": "Afet Toplanma Alanı Sorgulama",
+    "category": "AFET VE ACİL DURUM",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "Arama çubuğuna 'Afet ve Acil Durum Toplanma Alanları' yazın.",
+      "Bulunduğunuz il ve ilçe bilgisini girin.",
+      "Sorgulama sonucunda en yakın toplanma alanlarını harita üzerinden görüntüleyin."
+    ],
+    "duration": "1 dakika",
+    "notes": [
+      "Toplanma alanınızı önceden öğrenmeniz önemlidir."
+    ],
+    "requiredDocuments": []
+  },
+  {
+    "id": "afet-ilkyardim",
+    "title": "Acil Durumda İlkyardım",
+    "category": "AFET VE ACİL DURUM",
+    "steps": [
+      "Kendinizi ve çevrenizi güvence altına alın.",
+      "112 Acil'i arayarak yardım isteyin.",
+      "Kaza geçiren kişinin bilinci yerindeyse konuşun, değilse ABC kontrolü yapın (A: hava yolu, B: solunum, C: dolaşım).",
+      "Kanama varsa tampon uygulayın. Solunumu durmuşsa suni solunum ve kalp masajı uygulayın.",
+      "Kırık ya da çıkık varsa sabitleyin. Gereksiz hareket ettirmeyin."
+    ],
+    "duration": "Olay anına bağlı",
+    "notes": [
+      "İlk yardım eğitimi almak hayat kurtarır."
+    ],
+    "requiredDocuments": []
+  },
+  {
+    "id": "afet-hazirlik-cantasi",
+    "title": "Afet Acil Durum Çantası Hakkında",
+    "category": "AFET VE ACİL DURUM",
+    "steps": [
+      "Her birey için ayrı bir çanta oluşturun.",
+      "Kimlik fotokopisi, su, hazır gıda, düdük, el feneri, yedek pil, ilk yardım kiti, çakı, yedek kıyafet, hijyen malzemeleri koyun.",
+      "Çanta kolay ulaşılabilir bir yerde tutulmalıdır.",
+      "Yiyecek ve ilaçların son kullanma tarihlerini düzenli kontrol edin."
+    ],
+    "duration": "Ortalama 30-60 dakika",
+    "notes": [
+      "Çanta düzenli aralıklarla güncellenmelidir."
+    ],
+    "requiredDocuments": []
+  },
+  {
+    "id": "afet-hasar-tespiti",
+    "title": "Afet Sonrası Hasar Tespiti",
+    "category": "AFET VE ACİL DURUM",
+    "steps": [
+      "Binada ciddi hasar varsa içeri girmeyin.",
+      "AFAD ve Çevre Şehircilik İl Müdürlüğü’ne başvuruda bulunun.",
+      "Başvuru sonrası ekipler incelemeye gelir.",
+      "Rapor sonucu binanın durumu belirlenir (oturulabilir, hasarlı, yıkılacak vs.)."
+    ],
+    "duration": "3-15 gün",
+    "notes": [
+      "Hasar tespiti sonrası yardım başvuruları yapılabilir."
+    ],
+    "requiredDocuments": [
+      "Kimlik",
+      "Tapu veya kira sözleşmesi"
+    ]
+  },
+  {
+    "id": "afet-yardim-basvurusu",
+    "title": "Afet Yardımı Başvurusu",
+    "category": "AFET VE ACİL DURUM",
+    "steps": [
+      "AFAD veya e-Devlet üzerinden başvuru yapılabilir.",
+      "Kimlik bilgileri ve hasar durumu beyan edilir.",
+      "İlgili belgeler eklenerek başvuru tamamlanır.",
+      "Değerlendirme sonrası ödeme yapılır veya yardım sağlanır."
+    ],
+    "duration": "3-10 iş günü",
+    "notes": [
+      "Başvurular sadece afetten etkilenen bölgeler için alınır."
+    ],
+    "requiredDocuments": [
+      "Kimlik",
+      "Hasar tespit raporu",
+      "Adres bilgisi"
+    ]
+  },
+  {
+    "id": "vergi-gelir-beyannamesi",
+    "title": "Gelir Vergisi Beyannamesi Verme",
+    "category": "VERGİ",
+    "steps": [
+      "Gelir İdaresi Başkanlığı’nın (GİB) web sitesine girin: https://www.gib.gov.tr",
+      "Hazır Beyan Sistemi’ne T.C. kimlik numaranız ve şifrenizle giriş yapın.",
+      "İlgili yılı seçerek beyanname formunu doldurun.",
+      "Sistemde hesaplanan vergiyi kontrol edin ve onaylayın.",
+      "Vergi tutarını belirlenen süre içinde ödeyin."
+    ],
+    "duration": "Ortalama 10-20 dakika",
+    "notes": [
+      "Son beyan tarihi Mart ayıdır."
+    ],
+    "requiredDocuments": [
+      "T.C. kimlik numarası",
+      "Gelir belgeleri"
+    ]
+  },
+  {
+    "id": "vergi-mtv-odeme",
+    "title": "Motorlu Taşıtlar Vergisi (MTV) Ödeme",
+    "category": "VERGİ",
+    "steps": [
+      "İnteraktif Vergi Dairesi'ne (ivd.gib.gov.tr) giriş yapın.",
+      "Plaka ve T.C. kimlik numarasıyla araç bilgilerini girin.",
+      "Borç durumunuzu görüntüleyin ve ödeme işlemini başlatın.",
+      "Kredi kartı ile çevrimiçi ödeme yapabilirsiniz."
+    ],
+    "duration": "5-10 dakika",
+    "notes": [
+      "Ocak ve Temmuz aylarında ödenir."
+    ],
+    "requiredDocuments": [
+      "Plaka numarası",
+      "T.C. kimlik numarası"
+    ]
+  },
+  {
+    "id": "vergi-borc-sorgulama",
+    "title": "Vergi Borcu Sorgulama",
+    "category": "VERGİ",
+    "steps": [
+      "E-Devlet’e giriş yapın.",
+      "Arama çubuğuna 'vergi borcu' yazın ve ilgili hizmete tıklayın.",
+      "Vergi türünü seçerek borç bilgilerinizi görüntüleyin."
+    ],
+    "duration": "1 dakika",
+    "notes": [
+      "Tüm vergi borçları tek ekranda listelenir."
+    ],
+    "requiredDocuments": []
+  },
+  {
+    "id": "vergi-taksitlendirme",
+    "title": "Vergi Borcu Taksitlendirme Nasıl Yapılır?",
+    "category": "VERGİ",
+    "steps": [
+      "Vergi Dairesi’ne giderek ya da ivd.gib.gov.tr üzerinden online başvuru yapın.",
+      "Taksit sayısını ve ödeme planınızı belirtin.",
+      "Başvurunuz değerlendirildikten sonra onaylanır.",
+      "Taksitli ödemeye başlayabilirsiniz."
+    ],
+    "duration": "1-3 gün",
+    "notes": [
+      "Yasal faiz uygulanabilir. Vade sayısı dosyaya göre değişir."
+    ],
+    "requiredDocuments": [
+      "Kimlik",
+      "Borç bilgisi"
+    ]
+  }
+]
