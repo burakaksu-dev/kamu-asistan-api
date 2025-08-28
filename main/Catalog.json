@@ -1,0 +1,335 @@
+{
+  "categories": [
+    {
+      "id": "sgk",
+      "title": "SGK",
+      "info_cards": [
+        { "title": "Emeklilik Yaşı", "body": "Kadınlar 58, erkekler 60 yaşında emekli olabilir. Ancak prim günü ve sigortalılık süresi şarttır." },
+        { "title": "Prim Gün Şartı", "body": "Emeklilik için genellikle en az 5000 prim günü gereklidir. Eksik günler emekliliği geciktirir." },
+        { "title": "Doğum Borçlanması", "body": "Kadınlar, doğum sonrası her çocuk için 2 yıla kadar prim borçlanması yapabilir." },
+        { "title": "Askerlik Borçlanması", "body": "Erkekler askerlik sürelerini borçlanarak prim günü kazanabilir, bu da emeklilik yaşını öne çekebilir." },
+        { "title": "EYT Şartları", "body": "EYT kapsamında yaş şartı aranmaz; ancak prim günü ve sigortalılık süresi şarttır." },
+        { "title": "Malulen Emeklilik", "body": "Çalışamayacak derecede sağlık sorunu olanlar, en az 1800 gün primle malulen emekli olabilir." },
+        { "title": "Engelli Emekliliği", "body": "En az %40 engelli bireyler daha az prim ve yaşla emeklilik hakkı kazanabilir." },
+        { "title": "İşsizlik Ödeneği", "body": "Son 3 yılda en az 600 gün primi olan ve son 120 gün çalışanlar işsizlik maaşı alabilir." },
+        { "title": "İşe Başlangıç Tarihi", "body": "Sigorta başlangıç tarihiniz, emeklilik yaşınızı ve prim şartınızı belirler." },
+        { "title": "Prim Eksikliği", "body": "Eksik primler doğum, askerlik veya yurtdışı borçlanmasıyla tamamlanabilir." }
+      ],
+      "popular_links": [
+        { "title": "Hizmet Dökümü (4A)", "url": "https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu" },
+        { "title": "Emeklilik Başvurusu", "url": "https://www.turkiye.gov.tr/sgk-emeklilik-basvurusu" },
+        { "title": "SGK Sicil No", "url": "https://www.turkiye.gov.tr/sgk-sicil-no" },
+        { "title": "İşe Giriş Bildirgesi", "url": "https://www.turkiye.gov.tr/sgk-ise-giris-bildirgesi" },
+        { "title": "E-Bildirge Sistemi", "url": "https://www.turkiye.gov.tr/sgk-e-bildirge" },
+        { "title": "Malulen Emeklilik", "url": "https://www.turkiye.gov.tr/sgk-malulen-emeklilik" },
+        { "title": "Engelli Emekliliği", "url": "https://www.turkiye.gov.tr/sgk-engelli-emekliligi" },
+        { "title": "Borçlanma Başvurusu", "url": "https://www.turkiye.gov.tr/sgk-borclanma-basvurusu" },
+        { "title": "Yurtdışı Borçlanması", "url": "https://www.turkiye.gov.tr/sgk-yurtdisi-borclanma" },
+        { "title": "İşsizlik Ödeneği Başvurusu", "url": "https://www.turkiye.gov.tr/sgk-issizlik-odenegi" }
+      ]
+    },
+    {
+      "id": "vergi",
+      "title": "Vergi",
+      "info_cards": [
+        { "title": "Gelir Vergisi", "body": "Ücret, kira, faiz, serbest meslek gibi gelirler üzerinden ödenir. Beyanname verme süresi Mart'tır." },
+        { "title": "KDV (Katma Değer Vergisi)", "body": "Mal ve hizmet satışlarında uygulanan dolaylı vergidir. Oranı genellikle %1, %10 veya %20'dir." },
+        { "title": "MTV (Motorlu Taşıtlar Vergisi)", "body": "Araç sahipleri Ocak ve Temmuz aylarında iki taksitle öder. Araç yaşı ve motor hacmine göre değişir." },
+        { "title": "Emlak Vergisi", "body": "Ev, arsa gibi taşınmazlar için her yıl Mayıs ve Kasım aylarında ödenir. Ödeme belediyeye yapılır." },
+        { "title": "Vergi Cezası", "body": "Beyanda bulunmayan veya geç ödeyen mükelleflere ceza ve faiz uygulanır." },
+        { "title": "Vergi Affı/Yapılandırma", "body": "Devlet, gecikmiş borçlar için yapılandırma ve taksitlendirme imkanı sunabilir." },
+        { "title": "Geçici Vergi", "body": "Serbest meslek ve ticari kazanç sahipleri, yıllık vergiyi 3 aylık dönemlerde peşin öder." },
+        { "title": "Basit Usul", "body": "Küçük esnaf için kolaylaştırılmış vergi sistemidir. Belirli ciro sınırı altında uygulanır." },
+        { "title": "Damga Vergisi", "body": "Kira sözleşmesi, senet gibi resmi belgeler için sabit oranlı vergidir." },
+        { "title": "Beyanname Verme Zorunluluğu", "body": "Bazı gelir türleri için yıllık vergi beyannamesi verilmesi zorunludur. Süreler kaçırılmamalıdır." }
+      ],
+      "popular_links": [
+        { "title": "Vergi Borcu Sorgulama", "url": "https://www.turkiye.gov.tr/gib-vergi-borcu-sorgu" },
+        { "title": "Gelir Vergisi Beyanı", "url": "https://ivd.gib.gov.tr" },
+        { "title": "E-Beyanname Girişi", "url": "https://ebeyanname.gib.gov.tr" },
+        { "title": "Araç MTV Sorgulama", "url": "https://www.turkiye.gov.tr/gib-motorlu-tasitlar-vergisi" },
+        { "title": "İşyeri Açılış Bildirimi", "url": "https://www.turkiye.gov.tr/gib-is-yeri-acilis-bildirimi" },
+        { "title": "Vergi Kimlik Numarası Öğrenme", "url": "https://www.turkiye.gov.tr/vergi-kimlik-no-sorgulama" },
+        { "title": "İnteraktif Vergi Dairesi", "url": "https://ivd.gib.gov.tr" },
+        { "title": "Emlak Vergisi Ödeme", "url": "https://www.turkiye.gov.tr/belediye-emlak-vergisi-sorgulama" },
+        { "title": "GİB Duyurular", "url": "https://www.gib.gov.tr" },
+        { "title": "e-Devlet GİB Ana Sayfa", "url": "https://www.turkiye.gov.tr/gib" }
+      ]
+    },
+    {
+      "id": "tapu",
+      "title": "Tapu",
+      "info_cards": [
+        { "title": "Tapu Devri Nedir?", "body": "Bir taşınmazın (ev, arsa vs.) resmi olarak başka bir kişiye devredilmesidir. Tapu müdürlüklerinde yapılır." },
+        { "title": "E-Devlet’ten Tapu Sorgulama", "body": "Kendi adınıza kayıtlı taşınmazları ve tapu bilgilerini e-Devlet’ten ücretsiz sorgulayabilirsiniz." },
+        { "title": "İpotekli Taşınmaz Satışı", "body": "İpotekli taşınmaz satılabilir ancak alıcı, ipotek borcunu da devralabilir. Detaylı inceleme önemlidir." },
+        { "title": "Kat Mülkiyeti ve Kat İrtifakı", "body": "Kat irtifakı inşaat halindeyken, kat mülkiyeti yapı kullanma izni sonrası alınır. Daire alımında önemlidir." },
+        { "title": "Tapuda Cins Değişikliği", "body": "Arsanın üzerine bina yapılması gibi durumlarda tapu kaydı güncellenir. Yapı ruhsatı gereklidir." },
+        { "title": "Veraset ve İntikal İşlemleri", "body": "Vefat edenin taşınmazları mirasçılara devredilir. Önce veraset ilamı çıkarılır, sonra tapu devri yapılır." },
+        { "title": "Rayiç Bedel Nedir?", "body": "Belediyenin belirlediği taşınmaz değeri. Tapu harcı bu bedel üzerinden hesaplanır." },
+        { "title": "Tapu Harcı", "body": "Alıcı ve satıcı, satış bedelinin %2’si oranında harç öder. Genellikle eşit paylaşılır." },
+        { "title": "Kadastro Nedir?", "body": "Taşınmazların sınırlarının belirlenip tapu siciline kaydedilmesidir. Harita ve plan işlerini kapsar." },
+        { "title": "Hisseli Tapu", "body": "Bir taşınmazın birden fazla kişiye ait olmasıdır. Satış ve kullanımda tüm hissedarların onayı gerekir." }
+      ],
+      "popular_links": [
+        { "title": "Tapu Harcı Sorgulama", "url": "https://www.tapu.gov.tr/harc-sorgulama" },
+        { "title": "Kadastro Bilgi Sistemi", "url": "https://www.kadastro.gov.tr" },
+        { "title": "Tapu Randevu Sistemi", "url": "https://randevu.tapu.gov.tr" },
+        { "title": "Tapu ve Kadastro Genel Müdürlüğü", "url": "https://www.tapu.gov.tr" },
+        { "title": "E-Devlet Tapu Hizmetleri", "url": "https://www.turkiye.gov.tr/tapu-hizmetleri" },
+        { "title": "İmar Planı Sorgulama", "url": "https://imar.turkiye.gov.tr" },
+        { "title": "Tapu İşlem Ücretleri", "url": "https://www.tapu.gov.tr/ucretler" },
+        { "title": "Kadastro Kanunları", "url": "https://www.mevzuat.gov.tr/kadastro" },
+        { "title": "Arazi Ölçüm Talimatları", "url": "https://www.tapu.gov.tr/olcum-talimatlari" },
+        { "title": "Tapu İptal İşlemleri", "url": "https://www.tapu.gov.tr/iptal-islemleri" }
+      ]
+    },
+    {
+      "id": "askerlik",
+      "title": "Askerlik",
+      "info_cards": [
+        { "title": "Askerlik Sorgulama", "body": "Yoklama, celp dönemi ve sevk bilgilerinizi e-Devlet üzerinden öğrenebilirsiniz." },
+        { "title": "Yoklama İşlemi", "body": "18 yaşını dolduran erkek vatandaşların askerlik öncesi kimlik ve sağlık kontrolleridir. Yoklama işlemi e-Devlet’ten yapılabilir." },
+        { "title": "Tecil Nedir?", "body": "Eğitim, sağlık gibi nedenlerle askerlik hizmetinin geçici olarak ertelenmesidir. Belirli şartlar ve süreler vardır." },
+        { "title": "Bedelli Askerlik", "body": "Belirli bir ücret karşılığında kısa süreli askerlik yapma hakkıdır. Başvurular e-Devlet üzerinden yapılır." },
+        { "title": "Askerlik Yerleri Ne Zaman Açıklanır?", "body": "Celp döneminden yaklaşık 10-15 gün önce e-Devlet üzerinden açıklanır. SMS ile de bilgilendirme yapılabilir." },
+        { "title": "Askerlik Muafiyeti", "body": "Sağlık, engellilik veya diğer özel durumlar nedeniyle askerlikten muafiyet alınabilir. Sağlık kurulu raporu gereklidir." },
+        { "title": "Yedek Subay ve Astsubay", "body": "Lisans ve önlisans mezunları için uzun dönem askerlik seçenekleridir. Sınıflandırma sonucu belirlenir." },
+        { "title": "Askerlik Süresi", "body": "Er statüsünde 6 ay, yedek subay/astsubay olarak 12 aydır. Bedelli askerlik süresi farklıdır." },
+        { "title": "Yurt Dışı Askerlik Hizmeti", "body": "Yurt dışında en az 3 yıl çalışan Türk vatandaşları dövizle askerlik yapma hakkına sahiptir." },
+        { "title": "Sevk Belgesi Nedir?", "body": "Askere gitmeden önce alınması gereken resmî belgedir. e-Devlet üzerinden çıkarılabilir." }
+      ],
+      "popular_links": [
+        { "title": "Askerlik Durum Sorgulama", "url": "https://www.turkiye.gov.tr/askerlik-durum-sorgulama" },
+        { "title": "Bedelli Askerlik Başvurusu", "url": "https://www.turkiye.gov.tr/bedelli-askerlik-basvurusu" },
+        { "title": "Tecil Başvurusu", "url": "https://www.turkiye.gov.tr/askerlik-tecil-basvurusu" },
+        { "title": "Askerlik Şubesi", "url": "https://www.turkiye.gov.tr/askerlik-subesi" },
+        { "title": "Yedek Subaylık Başvurusu", "url": "https://www.turkiye.gov.tr/yedek-subaylik-basvurusu" },
+        { "title": "Askerlik Kanunu", "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1111" },
+        { "title": "Askerlik Muafiyet Başvurusu", "url": "https://www.turkiye.gov.tr/askerlik-muafiyet-basvurusu" },
+        { "title": "Askerlik Sağlık Raporu", "url": "https://www.turkiye.gov.tr/askerlik-saglik-raporu" },
+        { "title": "Terhis İşlemleri", "url": "https://www.turkiye.gov.tr/terhis-islemleri" },
+        { "title": "E-Devlet Ana Sayfa", "url": "https://www.turkiye.gov.tr" }
+      ]
+    },
+    {
+      "id": "kyk",
+      "title": "KYK ve Burs",
+      "info_cards": [
+        { "title": "KYK Burs Başvurusu", "body": "Burs başvuruları genellikle her yıl Ekim ayında e-Devlet üzerinden yapılır. Başvuru süresine dikkat etmek çok önemlidir." },
+        { "title": "Burs ve Kredi Arasındaki Fark", "body": "Burs geri ödemesizdir, kredi ise mezuniyetten sonra geri ödenir. Aynı anda hem burs hem kredi alınamaz." },
+        { "title": "KYK Kredi Geri Ödeme", "body": "Kredi ödemeleri mezuniyetten 2 yıl sonra başlar. e-Devlet ve Gelir İdaresi üzerinden ödeme planı görüntülenebilir." },
+        { "title": "Ödeme Taksitlendirme", "body": "KYK kredi borçları için taksitlendirme veya yapılandırma seçenekleri zaman zaman sunulur. Gelir İdaresi Başkanlığı (GİB) sisteminden takip edilebilir." },
+        { "title": "KYK Yurt Başvurusu", "body": "KYK yurt başvuruları e-Devlet’ten yapılır. Yerleştirme sonuçları Gençlik ve Spor Bakanlığı tarafından açıklanır." },
+        { "title": "Yurt Kayıt İşlemleri", "body": "Yurt hakkı kazanan öğrenciler belirtilen süre içinde e-Devlet’ten kayıt işlemlerini tamamlamalıdır." },
+        { "title": "KYK Burs Sonucu Nereden Öğrenilir?", "body": "Burs ve kredi sonuçları Gençlik ve Spor Bakanlığı'nın resmi sitesi ve e-Devlet üzerinden duyurulur." },
+        { "title": "Ara Sınıflar Burs Alabilir mi?", "body": "Ara sınıflar da başarı kriterlerine göre burs başvurusu yapabilir. Koşullar ve kontenjanlar her yıl değişebilir." },
+        { "title": "Özel Burslara Nereden Başvurulur?", "body": "Vakıf ve dernek bursları farklı tarihlerde açılır. Üniversite duyuruları ve burs platformları takip edilmelidir." },
+        { "title": "KYK Borç Silinmesi", "body": "Bazı dönemlerde kredi borçlarının faizleri silinebilir veya yapılandırma yapılabilir. Resmî açıklamalar takip edilmelidir." }
+      ],
+      "popular_links": [
+        { "title": "KYK Başvuru Sayfası", "url": "https://www.turkiye.gov.tr/kyk-basvuru" },
+        { "title": "KYK Kredi ve Burs Sorgulama", "url": "https://www.turkiye.gov.tr/kyk-kredi-burs-sorgulama" },
+        { "title": "KYK Yurt Başvurusu", "url": "https://www.turkiye.gov.tr/kyk-yurt-basvuru" },
+        { "title": "KYK Borç Sorgulama", "url": "https://www.turkiye.gov.tr/kyk-borc-sorgulama" },
+        { "title": "Burs Başvuru Takvimi", "url": "https://www.turkiye.gov.tr/burs-basvuru-takvimi" },
+        { "title": "Burs Sonuçları", "url": "https://www.turkiye.gov.tr/burs-sonuclari" },
+        { "title": "KYK Yurt Kuralları", "url": "https://www.turkiye.gov.tr/kyk-yurt-kurallari" },
+        { "title": "Burs İtiraz İşlemleri", "url": "https://www.turkiye.gov.tr/burs-itiraz-islemleri" },
+        { "title": "E-Devlet Ana Sayfa", "url": "https://www.turkiye.gov.tr" },
+        { "title": "KYK Kredi Geri Ödeme", "url": "https://www.turkiye.gov.tr/kyk-kredi-geri-odeme" }
+      ]
+    },
+    {
+      "id": "adres",
+      "title": "Adres ve İkametgah",
+      "info_cards": [
+        { "title": "Adres Değişikliği Bildirimi", "body": "Taşındıktan sonra 20 gün içinde nüfus müdürlüğü veya e-Devlet üzerinden adres değişikliği bildirimi yapılmalıdır." },
+        { "title": "e-Devlet’ten Adres Değişikliği", "body": "e-Devlet’teki 'Adres Değişikliği Bildirimi' hizmetiyle yeni adres online olarak bildirilebilir. Onay sonrası geçerlidir." },
+        { "title": "Geç Bildirim Cezası", "body": "Adres değişikliği 20 gün içinde bildirilmezse idari para cezası uygulanır (2025 itibarıyla yaklaşık 1280 TL)." },
+        { "title": "Yerleşim Yeri Belgesi", "body": "İkametgah belgesi e-Devlet’ten ücretsiz alınabilir. Resmi işlemlerde sıklıkla istenir." },
+        { "title": "İkametgâh Nerede Olmalı?", "body": "Resmi işlemler için yaşanılan adresle kayıtlı ikamet adresi aynı olmalıdır. Aksi takdirde cezai işlem uygulanabilir." },
+        { "title": "Aile Yanında Kalırken Adres", "body": "Kişi ailesiyle yaşıyorsa adres bildirirken birlikte oturduğunu belgeleyebilir. Sistem bu eşleşmeyi kontrol eder." },
+        { "title": "Adrese Dayalı Nüfus Sistemi", "body": "Tüm resmi kurumlar adres bilgilerini bu sistemden kontrol eder. Hatalı adres sorun yaratabilir." },
+        { "title": "İkinci Adres Bildirimi", "body": "İkamet adresi dışında geçici bir adreste kalınıyorsa, geçici adres olarak da sisteme bildirilebilir." },
+        { "title": "İkametgâhı Başkasının Yanına Almak", "body": "Birinin yanına ikamet alınacaksa ev sahibi onayı veya kira sözleşmesi gerekebilir. Bazı durumlarda belge istenir." },
+        { "title": "Adres Gizliliği Talebi", "body": "Şiddet mağdurları gibi durumlarda adres bilgisi gizli tutulabilir. Nüfus müdürlüklerinden talep edilebilir." }
+      ],
+      "popular_links": [
+        { "title": "İkametgah Belgesi Başvurusu", "url": "https://www.turkiye.gov.tr/ikametgah-belgesi-basvuru" },
+        { "title": "Adres Değişikliği Bildirimi", "url": "https://www.turkiye.gov.tr/adres-degisikligi-bildirim" },
+        { "title": "Nüfus Müdürlüğü Randevu", "url": "https://randevu.nvi.gov.tr" },
+        { "title": "E-Devlet Ana Sayfa", "url": "https://www.turkiye.gov.tr" },
+        { "title": "Adres Kayıt Sistemi", "url": "https://www.nvi.gov.tr/AdresKayitSistemi" },
+        { "title": "İkametgah Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/ikametgah-belgesi-sorgulama" },
+        { "title": "Adres Bildirim Formu", "url": "https://www.turkiye.gov.tr/adres-bildirim-formu" },
+        { "title": "Geçici İkametgah Başvurusu", "url": "https://www.turkiye.gov.tr/gecici-ikametgah-basvurusu" },
+        { "title": "Nüfus Cüzdanı Güncelleme", "url": "https://www.turkiye.gov.tr/nufus-cuzdani-guncelleme" },
+        { "title": "İkametgah Belgesi Yenileme", "url": "https://www.turkiye.gov.tr/ikametgah-belgesi-yenileme" }
+      ]
+    },
+    {
+      "id": "nufus",
+      "title": "Nüfus",
+      "info_cards": [
+        { "title": "Kimlik Kartı Başvurusu", "body": "Yeni kimlik kartı başvuruları nüfus müdürlüklerinden veya https://randevu.nvi.gov.tr üzerinden yapılır." },
+        { "title": "Kimlik Yenileme Ücreti", "body": "2025 yılı için kimlik yenileme ücreti 130 TL’dir. Ödeme vergi daireleri veya online sistem üzerinden yapılabilir." },
+        { "title": "Doğum Bildirimi", "body": "Doğumdan sonra en geç 30 gün içinde nüfus müdürlüğüne bildirilmelidir. Geç bildirimde idari ceza uygulanabilir." },
+        { "title": "Adres Kayıt Sistemi", "body": "İkamet adresiniz nüfus sistemine kayıtlı değilse birçok kamu hizmetinden faydalanmanız engellenebilir. e-Devlet’ten kontrol edilebilir." },
+        { "title": "Nüfus Kayıt Örneği", "body": "Tam ve vukuatlı nüfus kayıt örneği e-Devlet’ten ücretsiz alınabilir. Resmî işlemlerde sıkça talep edilir." },
+        { "title": "Evlenme Bildirimi", "body": "Evlilik sonrası nüfus kaydı otomatik güncellenir ancak kontrol edilmesi önerilir." },
+        { "title": "Boşanma Bildirimi", "body": "Boşanma kesinleştikten sonra nüfus kaydı mahkeme kararı ile güncellenir. e-Devlet’ten takip edilebilir." },
+        { "title": "Soyadı Değişikliği", "body": "Evlenme, boşanma veya mahkeme kararı sonrası soyadı değişikliği yapılabilir. Yeni kimlik kartı başvurusu gereklidir." },
+        { "title": "Vesikalık Fotoğraf Gerekir mi?", "body": "Yeni kimlik başvurularında biyometrik, 6 aydan eski olmayan vesikalık fotoğraf gereklidir." },
+        { "title": "Doğum Tarihi Düzeltme", "body": "Doğum tarihi ancak mahkeme kararı ile düzeltilebilir. Nüfus müdürlükleri doğrudan değişiklik yapamaz." }
+      ],
+      "popular_links": [
+        { "title": "Nüfus Müdürlüğü Randevu", "url": "https://randevu.nvi.gov.tr" },
+        { "title": "E-Devlet Nüfus Hizmetleri", "url": "https://www.turkiye.gov.tr/nvi" },
+        { "title": "Kimlik Kartı Başvurusu", "url": "https://www.turkiye.gov.tr/kimlik-karti-basvuru" },
+        { "title": "Nüfus Kayıt Sureti Sorgulama", "url": "https://www.turkiye.gov.tr/nufus-kayit-sureti-sorgulama" },
+        { "title": "Adres Değişikliği Bildirimi", "url": "https://www.turkiye.gov.tr/adres-degisikligi-bildirim" },
+        { "title": "Yeni Doğan Kayıt İşlemleri", "url": "https://www.turkiye.gov.tr/yeni-dogan-kayit" },
+        { "title": "Vefat Bildirimi", "url": "https://www.turkiye.gov.tr/vefat-bildirimi" },
+        { "title": "Evlilik Kaydı", "url": "https://www.turkiye.gov.tr/evlilik-kaydi" },
+        { "title": "Boşanma Kaydı", "url": "https://www.turkiye.gov.tr/bosanma-kaydi" },
+        { "title": "Kimlik Kartı Yenileme", "url": "https://www.turkiye.gov.tr/kimlik-karti-yenileme" }
+      ]
+    },
+    {
+      "id": "adliye",
+      "title": "Adliye ve Mahkeme",
+      "info_cards": [
+        { "title": "Dava Dosyası Sorgulama", "body": "Açık olan davalarınızı e-Devlet üzerinden UYAP Vatandaş Portal aracılığıyla sorgulayabilirsiniz." },
+        { "title": "Mahkeme Tebligatı", "body": "Adınıza açılan davalarda tebligatlar PTT ile yapılır. e-Tebligat sistemine kayıtlıysanız, tebligatlar e-posta veya SMS ile de gelir." },
+        { "title": "Adli Sicil Kaydı", "body": "Sabıka kaydı olarak bilinir. e-Devlet’ten ‘Kendisi için’ seçeneğiyle ücretsiz ve anında alınabilir." },
+        { "title": "Tanık Olarak Çağrılma", "body": "Mahkemeden tanık olarak çağrıldıysanız gitmek zorundasınız. Katılmamak idari para cezasına neden olabilir." },
+        { "title": "Uzaklaştırma Kararı", "body": "Aile içi şiddet, tehdit veya taciz durumlarında mahkemeden hızlı uzaklaştırma kararı alınabilir. Kararın ihlali ceza gerektirir." },
+        { "title": "İcra Takibi Başlatma", "body": "Alacağınız varsa icra takibi için icra müdürlüğüne başvurabilirsiniz. Bazı işlemler e-Devlet’ten yapılabilir." },
+        { "title": "Duruşma Günü Sorgulama", "body": "Mahkemenin belirlediği duruşma günü e-Devlet’te dava dosyası altında görünür. Duruşmalara katılım zorunlu olabilir." },
+        { "title": "Avukat Zorunluluğu Var mı?", "body": "Bazı hukuk davalarında avukat zorunlu değildir; ancak ceza davalarında sanık için avukat zorunludur. Ücretsiz avukat talepleri baroya yapılabilir." },
+        { "title": "Mahkemeye Gitmeden Boşanma", "body": "Anlaşmalı boşanmalarda genellikle tek celsede boşanma mümkündür. Protokol hazırlanmalı ve her iki taraf da duruşmaya katılmalıdır." },
+        { "title": "Ceza Mahkemesi Nedir?", "body": "Suç işleyen kişilere ceza veren mahkemelerdir. En yaygın türleri Asliye Ceza ve Ağır Ceza mahkemeleridir." }
+      ],
+      "popular_links": [
+        { "title": "Adli Sicil Kaydı Sorgulama", "url": "https://www.turkiye.gov.tr/adli-sicil-kaydi" },
+        { "title": "Dava Dosyası Sorgulama", "url": "https://www.turkiye.gov.tr/davadosya-sorgu" },
+        { "title": "UYAP Vatandaş Girişi", "url": "https://vatandas.uyap.gov.tr" },
+        { "title": "İcra Dosyası Görüntüleme", "url": "https://www.turkiye.gov.tr/icra-dosyasi-sorgu" },
+        { "title": "Avukat Bilgileri Sorgulama", "url": "https://www.turkiye.gov.tr/baro-avukat-sorgulama" },
+        { "title": "Ceza Mahkemesi Kararı Görüntüleme", "url": "https://www.turkiye.gov.tr/mahkeme-kararlari" },
+        { "title": "Adli Yardım Başvurusu", "url": "https://www.turkiye.gov.tr/adli-yardim-basvurusu" },
+        { "title": "Elektronik Tebligat Sistemi", "url": "https://www.turkiye.gov.tr/elektronik-tebligat" },
+        { "title": "Tanık Bilgilendirme Sistemi", "url": "https://www.turkiye.gov.tr/tanik-bilgilendirme" },
+        { "title": "İfade Çağrısı Sorgulama", "url": "https://www.turkiye.gov.tr/ifade-cagrisi-sorgulama" }
+      ]
+    },
+    {
+      "id": "trafik",
+      "title": "Trafik ve Emniyet",
+      "info_cards": [
+        { "title": "Trafik Cezası Sorgulama", "body": "Adınıza kesilen trafik cezalarını e-Devlet veya Gelir İdaresi Başkanlığı (GİB) üzerinden sorgulayabilirsiniz." },
+        { "title": "Ehliyet Puan Sorgulama", "body": "Trafik ihlalleri sonucu ceza puanınız e-Devlet’ten takip edilebilir. 100 puanın altına düşerseniz ehliyetinize geçici el konabilir." },
+        { "title": "Araç Plakasına Yazılan Ceza", "body": "Araç plakasına yazılan cezalar araç sahibine aittir, aracı kullanan kişi fark etmeksizin ödenmesi gerekir." },
+        { "title": "EDS Cezası Nedir?", "body": "Elektronik Denetleme Sistemi (EDS) ile hız, kırmızı ışık ihlali gibi trafik kuralları otomatik tespit edilip ceza kesilir." },
+        { "title": "İtiraz Nasıl Yapılır?", "body": "Haksız olduğunu düşündüğünüz trafik cezalarına, tebligat tarihinden itibaren 15 gün içinde Sulh Ceza Hakimliği'ne başvurarak itiraz edebilirsiniz." },
+        { "title": "Trafik Kazası Tutanak", "body": "Maddi hasarlı kazalarda taraflar anlaşırsa kaza tespit tutanağını kendileri doldurabilir; polis çağırmak zorunlu değildir." },
+        { "title": "Araç Ruhsatı Yenileme", "body": "Ruhsat kaybı veya değişiklik durumunda noterden yeni ruhsat çıkarılır. e-Devlet’ten ruhsat yenileme başvurusu yapılamaz." },
+        { "title": "Emniyet Genel Müdürlüğü Sorgulama", "body": "Araç, ehliyet ve ceza sorgulamalarını Emniyet Genel Müdürlüğü’nün resmi sitesi veya e-Devlet üzerinden gerçekleştirebilirsiniz." },
+        { "title": "HGS/OGS Cezaları", "body": "Hızlı Geçiş Sistemi (HGS) ve Otomatik Geçiş Sistemi (OGS) ihlallerini e-Devlet üzerinden sorgulayıp ödeme yapabilirsiniz." }
+      ],
+      "popular_links": [
+        { "title": "Trafik Cezası Sorgulama", "url": "https://www.turkiye.gov.tr/emniyet-trafik-cezasi-sorgulama" },
+        { "title": "Ehliyet Başvuru Takibi", "url": "https://www.turkiye.gov.tr/nvi-surucu-belgesi-basvuru" },
+        { "title": "Plaka Sorgulama", "url": "https://www.turkiye.gov.tr/arac-sorgulama" },
+        { "title": "Çalıntı Araç Sorgulama", "url": "https://www.turkiye.gov.tr/emniyet-calinan-arac" },
+        { "title": "Sürücü Belgesi Yenileme", "url": "https://www.turkiye.gov.tr/surucu-belgesi-yenileme" },
+        { "title": "Trafik Sigortası Sorgulama", "url": "https://www.turkiye.gov.tr/trafik-sigortasi-sorgulama" },
+        { "title": "Kaza Tespit Tutanağı İndir", "url": "https://www.turkiye.gov.tr/kaza-tespit-formu" },
+        { "title": "GBT Sorgulama Başvuru", "url": "https://www.turkiye.gov.tr/genel-bilgi-toplama-basvuru" },
+        { "title": "Emniyet Genel Müdürlüğü", "url": "https://www.egm.gov.tr" },
+        { "title": "Polis Merkezi Başvuru Noktaları", "url": "https://www.turkiye.gov.tr/polis-merkezleri" }
+      ]
+    },
+    {
+      "id": "belediye",
+      "title": "Belediye İşlemleri",
+      "info_cards": [
+        { "title": "Belediye Vergileri", "body": "Emlak, ÇTV (Çevre Temizlik Vergisi) ve ilan-reklam vergileri gibi vergiler belediye tarafından tahsil edilir." },
+        { "title": "İmar Durumu Öğrenme", "body": "Tapu ve belediyeden arsanızın imar planı ve kullanım durumunu sorgulayabilirsiniz." },
+        { "title": "Belediye Ruhsatları", "body": "İşyeri açma ruhsatı, yapı ruhsatı gibi işlemler belediye üzerinden yürütülür." },
+        { "title": "Çöp ve Atık Toplama Hizmetleri", "body": "Belediyeler tarafından düzenli olarak çöp toplama ve geri dönüşüm hizmetleri sağlanır." },
+        { "title": "Su Aboneliği İşlemleri", "body": "Yeni taşınanlar için su aboneliği başvurusu belediyeye yapılır, sayaç okuma ve fatura işlemleri takip edilir." },
+        { "title": "Belediye Destek ve Sosyal Hizmetler", "body": "Engelli, yaşlı ve dar gelirli vatandaşlara yönelik sosyal destek programları mevcuttur." },
+        { "title": "Toplu Taşıma ve Ulaşım Hizmetleri", "body": "Belediye tarafından işletilen otobüs, metro ve dolmuş gibi ulaşım araçlarının tarifeleri ve güzergahları." },
+        { "title": "Park ve Yeşil Alanlar", "body": "Belediyeler tarafından şehirde park, bahçe ve rekreasyon alanları düzenlenir ve bakımı yapılır." },
+        { "title": "Online Belediye Hizmetleri", "body": "E-belediye portalları üzerinden birçok işlem online olarak gerçekleştirilebilir." }
+      ],
+      "popular_links": [
+        { "title": "e-Belediye Bilgi Sistemi", "url": "https://www.turkiye.gov.tr/belediye-bilgi-sistemi" },
+        { "title": "Emlak Vergisi Ödeme", "url": "https://www.turkiye.gov.tr/emlak-vergisi-sorgulama" },
+        { "title": "İmar Durumu Sorgulama", "url": "https://www.turkiye.gov.tr/imar-durumu-sorgulama" },
+        { "title": "Nikah Başvuru Ekranı", "url": "https://www.turkiye.gov.tr/nikah-islemleri" },
+        { "title": "Belediye Sosyal Yardım Başvurusu", "url": "https://www.turkiye.gov.tr/sosyal-yardim-basvuru" },
+        { "title": "Ruhsat Başvuruları", "url": "https://www.turkiye.gov.tr/ruhsat-basvurulari" },
+        { "title": "Belediye Harç Sorgulama", "url": "https://www.turkiye.gov.tr/belediye-harc-sorgulama" },
+        { "title": "Su Aboneliği İşlemleri", "url": "https://www.turkiye.gov.tr/su-aboneligi" },
+        { "title": "İmar Barışı Başvurusu", "url": "https://www.turkiye.gov.tr/imar-barisi" },
+        { "title": "Yıkım İzni Sorgulama", "url": "https://www.turkiye.gov.tr/yikim-izni" }
+      ]
+    },
+    {
+      "id": "yurtdisi",
+      "title": "Yurt Dışı İşlemleri",
+      "info_cards": [
+        { "title": "Pasaport Başvurusu", "body": "Nüfus müdürlüklerinden veya konsolosluklardan pasaport başvurusu yapılabilir. Gerekli belgeler: nüfus cüzdanı, biyometrik fotoğraf, başvuru formu." },
+        { "title": "Vize İşlemleri", "body": "Gidilecek ülkeye göre farklı vize türleri ve başvuru şartları vardır. Konsolosluk veya büyükelçiliklerden bilgi alınmalıdır." },
+        { "title": "Yurtdışı Seyahat Sağlık Sigortası", "body": "Bazı ülkeler, girişte sağlık sigortası belgesi talep eder. Seyahatten önce sigorta yaptırmak önemlidir." },
+        { "title": "Yurtdışında Oturma İzni", "body": "Çalışma, eğitim veya uzun süreli kalışlar için ilgili ülkenin oturma izni prosedürleri takip edilmelidir." },
+        { "title": "Diplomatik Temsilcilikler", "body": "Yurtdışında konsolosluk ve büyükelçilikler, vatandaşlara pasaport, noter onayı gibi hizmetler sunar." },
+        { "title": "Yurtdışı Oy Kullanma", "body": "Seçim dönemlerinde yurtdışında oy kullanma işlemleri, Yüksek Seçim Kurulu tarafından düzenlenir." },
+        { "title": "İkametgah Bildirimi", "body": "Yurtdışına çıkışlarda ikametgah değişikliği bildirimlerinin yapılması gerekmektedir." },
+        { "title": "Yurtdışı Eğitim Destekleri", "body": "Devlet destekli burs ve eğitim programları hakkında bilgi ve başvurular ilgili kurumlardan alınabilir." }
+      ],
+      "popular_links": [
+        { "title": "Yurtdışı Çıkış Harcı Sorgulama", "url": "https://www.turkiye.gov.tr/gib-yurtdisi-cikis-harci-sorgulama" },
+        { "title": "Pasaport Başvurusu", "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru" },
+        { "title": "Vize Bilgilendirme", "url": "https://www.konsolosluk.gov.tr/VizeBilgilendirme" },
+        { "title": "Konsolosluk Randevu Sistemi", "url": "https://www.konsolosluk.gov.tr" },
+        { "title": "Yurtdışı Seçmen Sorgulama", "url": "https://www.ysk.gov.tr" },
+        { "title": "E-Devlet Yurtdışı Hizmetler", "url": "https://www.turkiye.gov.tr/yurtdisi-hizmetler" },
+        { "title": "Yurtdışı Askerlik Başvurusu", "url": "https://www.turkiye.gov.tr/mill-savunma-yurtdisi-askerlik" },
+        { "title": "Çifte Vatandaşlık İşlemleri", "url": "https://www.konsolosluk.gov.tr/Vatandaslik" },
+        { "title": "Evlilik Bildirimi", "url": "https://www.turkiye.gov.tr/evlilik-bildirimi" },
+        { "title": "Diploma Denkliği Başvurusu", "url": "https://denklik.yok.gov.tr" }
+      ]
+    },
+    {
+      "id": "afet",
+      "title": "Afet ve Acil Durum",
+      "info_cards": [
+        { "title": "Deprem Anında Yapılması Gerekenler", "body": "Sarsıntı başladığında sakin olun, masa veya sağlam mobilyanın altına girin, başınızı koruyun." },
+        { "title": "Deprem Sonrası İlk Yardım", "body": "Yaralıları dikkatlice tahliye edin, açık alanlara çıkın, gaz ve elektrik vanalarını kapatın." },
+        { "title": "Acil Durum Çantası", "body": "Su, temel ilaçlar, yiyecek, battaniye, el feneri, radyo ve önemli belgeleri içeren bir çanta hazırlayın." },
+        { "title": "Sel Durumunda Güvenlik Önlemleri", "body": "Yüksek yerlere çıkın, elektrik kaynaklarından uzak durun ve sel uyarılarını takip edin." },
+        { "title": "Yangın Anında Ne Yapılmalı?", "body": "Dumanın olduğu ortamdan uzaklaşın, yere yakın hareket edin, yangın söndürücü kullanın." },
+        { "title": "Acil Durum İletişim Numaraları", "body": "112 Acil Çağrı" },
+        { "title": "Aile Afet Planı", "body": "Aile bireyleriyle toplanma noktaları ve iletişim planı oluşturun." },
+        { "title": "AFAD Mobil Uygulaması", "body": "Acil durumlarda bilgi almak için AFAD'ın resmi mobil uygulamasını kullanabilirsiniz." },
+        { "title": "Doğal Gaz Kaçağına Karşı Önlem", "body": "Gaz kokusu alırsanız vanaları kapatın, elektrik açma-kapama yapmayın, derhal dışarı çıkın." }
+      ],
+      "popular_links": [
+        { "title": "AFAD Resmi Sitesi", "url": "https://www.afad.gov.tr" },
+        { "title": "Afet Acil Toplanma Alanı Sorgulama", "url": "https://www.turkiye.gov.tr/icisleri-toplanma-alanlari" },
+        { "title": "AFAD Gönüllülük Başvurusu", "url": "https://gonullu.afad.gov.tr" },
+        { "title": "Afet Bilgi Merkezi", "url": "https://www.afad.gov.tr/afet-egitim" },
+        { "title": "112 Acil Çağrı Bilgilendirme", "url": "https://www.112.gov.tr" },
+        { "title": "Deprem Bilgi Sayfası", "url": "https://deprem.afad.gov.tr" },
+        { "title": "Afet ve Risk Azaltma Planları", "url": "https://www.afad.gov.tr/irap" },
+        { "title": "Afet Çantası Önerileri", "url": "https://www.afad.gov.tr/afet-cantasi" },
+        { "title": "Acil Durum Numaraları Listesi", "url": "https://www.turkiye.gov.tr/acil-durum-numaralari" },
+        { "title": "Yangın Güvenliği Eğitimi", "url": "https://www.afad.gov.tr/yangin-egitimi" }
+      ]
+    }
+  ]
+}
