@@ -16,12 +16,12 @@
     "answer": "e-Devlet'te 'SGK > 4B Borç Durumu' sayfasından Bağ-Kur prim borcunuzu sorgulayabilirsiniz. https://www.turkiye.gov.tr/4b-borc-durumu",
     "category": "SGK",
     "tfidf": {
-      "bağ": 0.166667,
-      "kur": 0.166667,
-      "4b": 0.166667,
-      "prim": 0.166667,
-      "borcumu": 0.166667,
-      "sorgularım": 0.166667
+      "bağ": 0.167,
+      "kur": 0.167,
+      "4b": 0.167,
+      "prim": 0.167,
+      "borcumu": 0.167,
+      "sorgularım": 0.165
     }
   },
   {
@@ -29,9 +29,9 @@
     "answer": "e-Devlet'te 'SGK > Ne Zaman Emekli Olabilirim' hizmetini kullanarak yaş, yıl ve prim bilgilerinize göre tahmini emeklilik tarihinizi öğrenebilirsiniz. https://www.turkiye.gov.tr/sgk-ne-zaman-emekli-olabilirim",
     "category": "SGK",
     "tfidf": {
-      "zaman": 0.333333,
-      "emekli": 0.333333,
-      "olabilirim": 0.333333
+      "zaman": 0.333,
+      "emekli": 0.333,
+      "olabilirim": 0.334
     }
   },
   {
@@ -50,12 +50,12 @@
     "answer": "e-Devlet'te '4A İşe Giriş Çıkış Bildirgesi' hizmetiyle sigortalı işe giriş tarihlerinizi kontrol edebilirsiniz. https://www.turkiye.gov.tr/sgk-4a-ise-giris-cikis-bilgisi",
     "category": "SGK",
     "tfidf": {
-      "şe": 0.166667,
-      "giriş": 0.166667,
-      "bildirgem": 0.166667,
-      "zaman": 0.166667,
-      "yapılmış": 0.166667,
-      "görebilirim": 0.166667
+      "şe": 0.167,
+      "giriş": 0.167,
+      "bildirgem": 0.167,
+      "zaman": 0.167,
+      "yapılmış": 0.167,
+      "görebilirim": 0.165
     }
   },
   {
@@ -75,9 +75,9 @@
     "answer": "e-Devlet'te 'SGK > Doğum Borçlanması Başvurusu' hizmetini kullanarak başvurunuzu yapabilirsiniz. https://www.turkiye.gov.tr/sgk-dogum-borclanmasi",
     "category": "SGK",
     "tfidf": {
-      "doğum": 0.333333,
-      "borçlanması": 0.333333,
-      "yapılır": 0.333333
+      "doğum": 0.333,
+      "borçlanması": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -85,9 +85,9 @@
     "answer": "e-Devlet'ten 'SGK > Askerlik Borçlanması Başvurusu' ekranı üzerinden başvurunuzu tamamlayabilirsiniz. https://www.turkiye.gov.tr/sgk-askerlik-borclanmasi",
     "category": "SGK",
     "tfidf": {
-      "askerlik": 0.333333,
-      "borçlanması": 0.333333,
-      "yapılır": 0.333333
+      "askerlik": 0.333,
+      "borçlanması": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -106,9 +106,9 @@
     "answer": "e-Devlet'te 'Emekli Aylık Bilgisi' hizmeti ile aylık miktarınızı görüntüleyebilirsiniz. https://www.turkiye.gov.tr/4a-emekli-aylik-bilgisi",
     "category": "SGK",
     "tfidf": {
-      "emekli": 0.333333,
-      "aylığım": 0.333333,
-      "bağlandı": 0.333333
+      "emekli": 0.333,
+      "aylığım": 0.333,
+      "bağlandı": 0.334
     }
   },
   {
@@ -116,12 +116,12 @@
     "answer": "İşveren, iş kazasını 3 iş günü içinde e-Devlet üzerinden SGK’ya bildirmelidir. https://www.turkiye.gov.tr/sgk-is-kazasi-ve-meslek-hastaligi-bildirimi",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.166667,
-      "ya": 0.166667,
-      "iş": 0.166667,
-      "kazası": 0.166667,
-      "bildirimi": 0.166667,
-      "yapılır": 0.166667
+      "sgk": 0.167,
+      "ya": 0.167,
+      "iş": 0.167,
+      "kazası": 0.167,
+      "bildirimi": 0.167,
+      "yapılır": 0.165
     }
   },
   {
@@ -156,12 +156,12 @@
     "answer": "e-Devlet'te 'Provizyon Sorgulama' hizmetiyle aktif sağlık güvencenizi ve provizyon durumunuzu kontrol edebilirsiniz. https://www.turkiye.gov.tr/sgk-provizyon-sorgulama",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.166667,
-      "dan": 0.166667,
-      "sağlık": 0.166667,
-      "provizyonu": 0.166667,
-      "aldım": 0.166667,
-      "sorgularım": 0.166667
+      "sgk": 0.167,
+      "dan": 0.167,
+      "sağlık": 0.167,
+      "provizyonu": 0.167,
+      "aldım": 0.167,
+      "sorgularım": 0.165
     }
   },
   {
@@ -205,9 +205,9 @@
     "answer": "e-Devlet'teki 'SGK > Kart ile Prim Ödeme' hizmetiyle ödeme yapılabilir. https://www.turkiye.gov.tr/sosyal-guvenlik-sosyal-guvenlik-kurumu-kart-ile-prim-odeme-uygulamasi",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.333333,
-      "prim": 0.333333,
-      "ödememi": 0.333333
+      "sgk": 0.333,
+      "prim": 0.333,
+      "ödememi": 0.334
     }
   },
   {
@@ -215,13 +215,13 @@
     "answer": "Evet, yurtdışı borçlanması yaparak yurtdışındaki çalışma sürelerini SGK emekliliğine dahil edebilirsiniz. Başvuru e-Devlet'ten yapılabilir. https://www.turkiye.gov.tr/sgk-yurtdisi-borclanma-basvurusu",
     "category": "SGK",
     "tfidf": {
-      "yurtdışında": 0.142857,
-      "geçen": 0.142857,
-      "süreleri": 0.142857,
-      "sgk": 0.142857,
-      "emekliliğine": 0.142857,
-      "saydırabilir": 0.142857,
-      "miyim": 0.142857
+      "yurtdışında": 0.143,
+      "geçen": 0.143,
+      "süreleri": 0.143,
+      "sgk": 0.143,
+      "emekliliğine": 0.143,
+      "saydırabilir": 0.143,
+      "miyim": 0.142
     }
   },
   {
@@ -240,13 +240,13 @@
     "answer": "Evet, emekli olduktan sonra çalışabilirsiniz. Ancak Sosyal Güvenlik Destek Primi (SGDP) kesintisi uygulanır.",
     "category": "SGK",
     "tfidf": {
-      "emekli": 0.142857,
-      "olduktan": 0.142857,
-      "sonra": 0.142857,
-      "çalışmaya": 0.142857,
-      "devam": 0.142857,
-      "edebilir": 0.142857,
-      "miyim": 0.142857
+      "emekli": 0.143,
+      "olduktan": 0.143,
+      "sonra": 0.143,
+      "çalışmaya": 0.143,
+      "devam": 0.143,
+      "edebilir": 0.143,
+      "miyim": 0.142
     }
   },
   {
@@ -254,9 +254,9 @@
     "answer": "e-Devlet’te 'SGK > Emeklilik Başvurusu' hizmetinden online başvuru yapılabilir. https://www.turkiye.gov.tr/sgk-emeklilik-basvurusu",
     "category": "SGK",
     "tfidf": {
-      "emeklilik": 0.333333,
-      "başvurusu": 0.333333,
-      "yapılır": 0.333333
+      "emeklilik": 0.333,
+      "başvurusu": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -264,12 +264,12 @@
     "answer": "e-Devlet’te 'Emekli Aylığı Bilgisi' bölümünden kontrol edebilir, SMS bilgilendirmesi için SGK’ya başvurabilirsiniz.",
     "category": "SGK",
     "tfidf": {
-      "emekli": 0.166667,
-      "maaşı": 0.166667,
-      "bağlandığında": 0.166667,
-      "bilgilendirme": 0.166667,
-      "alır": 0.166667,
-      "mıyım": 0.166667
+      "emekli": 0.167,
+      "maaşı": 0.167,
+      "bağlandığında": 0.167,
+      "bilgilendirme": 0.167,
+      "alır": 0.167,
+      "mıyım": 0.165
     }
   },
   {
@@ -277,12 +277,12 @@
     "answer": "e-Devlet’te '4A Hizmet Dökümü' ekranında aktif işveren bilgileri yer alır. https://www.turkiye.gov.tr/4a-hizmet-dokumu",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.166667,
-      "kayıtlı": 0.166667,
-      "işyerinde": 0.166667,
-      "çalışıyor": 0.166667,
-      "muyum": 0.166667,
-      "görebilirim": 0.166667
+      "sgk": 0.167,
+      "kayıtlı": 0.167,
+      "işyerinde": 0.167,
+      "çalışıyor": 0.167,
+      "muyum": 0.167,
+      "görebilirim": 0.165
     }
   },
   {
@@ -290,13 +290,13 @@
     "answer": "Evet, 'SGK > Emekli Aylığı Bilgisi' bölümünden net maaş, kesintiler ve banka bilgileri görülebilir.",
     "category": "SGK",
     "tfidf": {
-      "devlet": 0.142857,
-      "üzerinden": 0.142857,
-      "emekli": 0.142857,
-      "aylığı": 0.142857,
-      "kesintilerimi": 0.142857,
-      "görebilir": 0.142857,
-      "miyim": 0.142857
+      "devlet": 0.143,
+      "üzerinden": 0.143,
+      "emekli": 0.143,
+      "aylığı": 0.143,
+      "kesintilerimi": 0.143,
+      "görebilir": 0.143,
+      "miyim": 0.142
     }
   },
   {
@@ -316,9 +316,9 @@
     "answer": "e-Devlet’te 'SGK Tescil Kaydı Tespiti' ekranından kontrol edebilirsiniz. https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.333333,
-      "tescil": 0.333333,
-      "kaydım": 0.333333
+      "sgk": 0.333,
+      "tescil": 0.333,
+      "kaydım": 0.334
     }
   },
   {
@@ -326,13 +326,13 @@
     "answer": "e-Devlet’te 'Ölüm Aylığı Talep Başvurusu' hizmetinden yapılır. https://www.turkiye.gov.tr/sgk-olum-ayligi-talep-basvurusu",
     "category": "SGK",
     "tfidf": {
-      "vefat": 0.142857,
-      "eden": 0.142857,
-      "yakınım": 0.142857,
-      "ölüm": 0.142857,
-      "aylığı": 0.142857,
-      "başvurusu": 0.142857,
-      "yapılır": 0.142857
+      "vefat": 0.143,
+      "eden": 0.143,
+      "yakınım": 0.143,
+      "ölüm": 0.143,
+      "aylığı": 0.143,
+      "başvurusu": 0.143,
+      "yapılır": 0.142
     }
   },
   {
@@ -340,13 +340,13 @@
     "answer": "Eşi, çocukları (bazı şartlarla), anne-baba ölüm aylığı alabilir. Şartlar SGK tarafından belirlenir.",
     "category": "SGK",
     "tfidf": {
-      "vefat": 0.142857,
-      "eden": 0.142857,
-      "kişinin": 0.142857,
-      "sgk": 0.142857,
-      "maaşını": 0.142857,
-      "kimler": 0.142857,
-      "alabilir": 0.142857
+      "vefat": 0.143,
+      "eden": 0.143,
+      "kişinin": 0.143,
+      "sgk": 0.143,
+      "maaşını": 0.143,
+      "kimler": 0.143,
+      "alabilir": 0.142
     }
   },
   {
@@ -354,9 +354,9 @@
     "answer": "Anne veya babadan dolayı SGK’dan yetim aylığı bağlanabilir. e-Devlet’ten başvuru yapılabilir. https://www.turkiye.gov.tr/sgk-olum-ayligi-talep-basvurusu",
     "category": "SGK",
     "tfidf": {
-      "yetim": 0.333333,
-      "aylığı": 0.333333,
-      "alınır": 0.333333
+      "yetim": 0.333,
+      "aylığı": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -376,12 +376,12 @@
     "answer": "ALO 170 üzerinden SGK’ya başvuruda bulunabilir, işveren hakkında inceleme başlatılmasını talep edebilirsiniz.",
     "category": "SGK",
     "tfidf": {
-      "çalıştığım": 0.166667,
-      "süre": 0.166667,
-      "zarfında": 0.166667,
-      "eksik": 0.166667,
-      "prim": 0.166667,
-      "yatırılmış": 0.166667
+      "çalıştığım": 0.167,
+      "süre": 0.167,
+      "zarfında": 0.167,
+      "eksik": 0.167,
+      "prim": 0.167,
+      "yatırılmış": 0.165
     }
   },
   {
@@ -389,9 +389,9 @@
     "answer": "İşverenlerin çalışanları için verdiği dijital prim bildirgesidir. e-Bildirge sisteminden SGK’ya iletilir.",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.333333,
-      "bildirge": 0.333333,
-      "nedir": 0.333333
+      "sgk": 0.333,
+      "bildirge": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -399,12 +399,12 @@
     "answer": "Prim ve işe giriş tarihine göre değişir. e-Devlet’te 'Ne Zaman Emekli Olurum' uygulaması ile öğrenebilirsiniz.",
     "category": "SGK",
     "tfidf": {
-      "kadın": 0.166667,
-      "sigortalılar": 0.166667,
-      "emeklilikte": 0.166667,
-      "yaş": 0.166667,
-      "şartı": 0.166667,
-      "nedir": 0.166667
+      "kadın": 0.167,
+      "sigortalılar": 0.167,
+      "emeklilikte": 0.167,
+      "yaş": 0.167,
+      "şartı": 0.167,
+      "nedir": 0.165
     }
   },
   {
@@ -423,13 +423,13 @@
     "answer": "e-Devlet’te 'SGK > Kart ile Prim Ödeme' hizmetini kullanarak online ödeme yapabilirsiniz. https://www.turkiye.gov.tr/sgk-kart-ile-prim-odeme",
     "category": "SGK",
     "tfidf": {
-      "sgk": 0.142857,
-      "4b": 0.142857,
-      "bağ": 0.142857,
-      "kur": 0.142857,
-      "prim": 0.142857,
-      "ödemesini": 0.142857,
-      "yaparım": 0.142857
+      "sgk": 0.143,
+      "4b": 0.143,
+      "bağ": 0.143,
+      "kur": 0.143,
+      "prim": 0.143,
+      "ödemesini": 0.143,
+      "yaparım": 0.142
     }
   },
   {
@@ -459,12 +459,12 @@
     "answer": "Evet. İşverenin işe giriş bildirgesi vermesiyle, 1 gün bile sigortalı çalışmak mümkündür.",
     "category": "SGK",
     "tfidf": {
-      "sigortalı": 0.166667,
-      "işte": 0.166667,
-      "gün": 0.166667,
-      "çalışsam": 0.166667,
-      "sigorta": 0.166667,
-      "başlatılır": 0.166667
+      "sigortalı": 0.167,
+      "işte": 0.167,
+      "gün": 0.167,
+      "çalışsam": 0.167,
+      "sigorta": 0.167,
+      "başlatılır": 0.165
     }
   },
   {
@@ -472,12 +472,12 @@
     "answer": "4C’liler (memurlar), kadro durumu ve yıl esas alınarak emekli edilir. İşlem e-Devlet’ten takip edilebilir.",
     "category": "SGK",
     "tfidf": {
-      "4c": 0.166667,
-      "emekli": 0.166667,
-      "sandığı": 0.166667,
-      "emeklilik": 0.166667,
-      "işlemleri": 0.166667,
-      "yürür": 0.166667
+      "4c": 0.167,
+      "emekli": 0.167,
+      "sandığı": 0.167,
+      "emeklilik": 0.167,
+      "işlemleri": 0.167,
+      "yürür": 0.165
     }
   },
   {
@@ -497,12 +497,12 @@
     "answer": "e-Devlet’te 'GİB > MTV Sorgulama ve Ödeme' hizmetinden araç plakanızla MTV borcunuzu öğrenebilir, ödeme yapabilirsiniz. https://www.turkiye.gov.tr/gib-mtv-sorgulama",
     "category": "Vergi",
     "tfidf": {
-      "motorlu": 0.166667,
-      "taşıtlar": 0.166667,
-      "vergisi": 0.166667,
-      "mtv": 0.166667,
-      "borcumu": 0.166667,
-      "sorgularım": 0.166667
+      "motorlu": 0.167,
+      "taşıtlar": 0.167,
+      "vergisi": 0.167,
+      "mtv": 0.167,
+      "borcumu": 0.167,
+      "sorgularım": 0.165
     }
   },
   {
@@ -510,9 +510,9 @@
     "answer": "Gerçek kişilerin elde ettiği kazanç ve iratlar üzerinden alınan vergidir. Gelir İdaresi Başkanlığı tarafından tahsil edilir.",
     "category": "Vergi",
     "tfidf": {
-      "gelir": 0.333333,
-      "vergisi": 0.333333,
-      "nedir": 0.333333
+      "gelir": 0.333,
+      "vergisi": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -575,9 +575,9 @@
     "answer": "Belediyelerin e-belediye sistemlerinden ya da e-Devlet’te bazı belediyelerin sayfasından emlak vergisi borcu görülebilir.",
     "category": "Vergi",
     "tfidf": {
-      "emlak": 0.333333,
-      "vergisi": 0.333333,
-      "borcumu": 0.333333
+      "emlak": 0.333,
+      "vergisi": 0.333,
+      "borcumu": 0.334
     }
   },
   {
@@ -607,9 +607,9 @@
     "answer": "Katma Değer Vergisi beyannameleri GİB’in e-Beyanname sistemi üzerinden elektronik ortamda verilir. https://ebeyanname.gib.gov.tr",
     "category": "Vergi",
     "tfidf": {
-      "kdv": 0.333333,
-      "beyannamesi": 0.333333,
-      "verilir": 0.333333
+      "kdv": 0.333,
+      "beyannamesi": 0.333,
+      "verilir": 0.334
     }
   },
   {
@@ -639,9 +639,9 @@
     "answer": "Aracın muayenesi yapılmaz, faiz işler, trafik tescil işlemleri durdurulabilir.",
     "category": "Vergi",
     "tfidf": {
-      "mtv": 0.333333,
-      "ödenmezse": 0.333333,
-      "olur": 0.333333
+      "mtv": 0.333,
+      "ödenmezse": 0.333,
+      "olur": 0.334
     }
   },
   {
@@ -661,12 +661,12 @@
     "answer": "Hayır, TC kimlik numarası ile borç sorgulayıp ödeyebilirsiniz. Kayıt opsiyoneldir.",
     "category": "Vergi",
     "tfidf": {
-      "vergi": 0.166667,
-      "borcunu": 0.166667,
-      "ödemek": 0.166667,
-      "gi": 0.166667,
-      "kayıt": 0.166667,
-      "gerekir": 0.166667
+      "vergi": 0.167,
+      "borcunu": 0.167,
+      "ödemek": 0.167,
+      "gi": 0.167,
+      "kayıt": 0.167,
+      "gerekir": 0.165
     }
   },
   {
@@ -674,9 +674,9 @@
     "answer": "Devletin geçmiş vergi borçlarının faizlerini silmesi veya borcu yeniden yapılandırmasıdır.",
     "category": "Vergi",
     "tfidf": {
-      "vergi": 0.333333,
-      "affı": 0.333333,
-      "nedir": 0.333333
+      "vergi": 0.333,
+      "affı": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -706,12 +706,12 @@
     "answer": "Evet. Kira geliriniz belirli tutarın üzerindeyse GİB üzerinden beyanname vermeniz gerekir. https://www.gib.gov.tr",
     "category": "Vergi",
     "tfidf": {
-      "kiraya": 0.166667,
-      "verdiğim": 0.166667,
-      "ev": 0.166667,
-      "beyanname": 0.166667,
-      "vermem": 0.166667,
-      "gerekir": 0.166667
+      "kiraya": 0.167,
+      "verdiğim": 0.167,
+      "ev": 0.167,
+      "beyanname": 0.167,
+      "vermem": 0.167,
+      "gerekir": 0.165
     }
   },
   {
@@ -731,9 +731,9 @@
     "answer": "Vergi levhası GİB portalı üzerinden veya e-Devlet'ten dijital olarak alınabilir. https://www.turkiye.gov.tr/gib-vergi-levhasi-sorgulama",
     "category": "Vergi",
     "tfidf": {
-      "vergi": 0.333333,
-      "levhasını": 0.333333,
-      "alabilirim": 0.333333
+      "vergi": 0.333,
+      "levhasını": 0.333,
+      "alabilirim": 0.334
     }
   },
   {
@@ -741,12 +741,12 @@
     "answer": "İlgili vergi dairesine başvurarak ya da GİB üzerinden işe başlama bildirimi ile kaydınızı yaptırabilirsiniz.",
     "category": "Vergi",
     "tfidf": {
-      "yeni": 0.166667,
-      "işletme": 0.166667,
-      "açtım": 0.166667,
-      "vergi": 0.166667,
-      "kaydımı": 0.166667,
-      "yaptırırım": 0.166667
+      "yeni": 0.167,
+      "işletme": 0.167,
+      "açtım": 0.167,
+      "vergi": 0.167,
+      "kaydımı": 0.167,
+      "yaptırırım": 0.165
     }
   },
   {
@@ -763,9 +763,9 @@
     "answer": "Yıllık cirosu belirli tutarın üzerinde olan firmalar için e-Fatura zorunludur. Detaylar GİB’te yer alır.",
     "category": "Vergi",
     "tfidf": {
-      "fatura": 0.333333,
-      "kimler": 0.333333,
-      "zorunludur": 0.333333
+      "fatura": 0.333,
+      "kimler": 0.333,
+      "zorunludur": 0.334
     }
   },
   {
@@ -773,13 +773,13 @@
     "answer": "Aracın satış tarihi esas alınır. Satış öncesindeki MTV eski sahibine, sonrasındaki MTV yeni sahibine aittir.",
     "category": "Vergi",
     "tfidf": {
-      "araç": 0.142857,
-      "satışı": 0.142857,
-      "sonrası": 0.142857,
-      "mtv": 0.142857,
-      "yi": 0.142857,
-      "kim": 0.142857,
-      "öder": 0.142857
+      "araç": 0.143,
+      "satışı": 0.143,
+      "sonrası": 0.143,
+      "mtv": 0.143,
+      "yi": 0.143,
+      "kim": 0.143,
+      "öder": 0.142
     }
   },
   {
@@ -809,9 +809,9 @@
     "answer": "Ticari faaliyette bulunan tüm tüzel kişiler için e-Tebligat zorunludur. Bireysel kullanıcılar için isteğe bağlıdır.",
     "category": "Vergi",
     "tfidf": {
-      "elektronik": 0.333333,
-      "tebligat": 0.333333,
-      "zorunlu": 0.333333
+      "elektronik": 0.333,
+      "tebligat": 0.333,
+      "zorunlu": 0.334
     }
   },
   {
@@ -819,9 +819,9 @@
     "answer": "Fatura alıcısı e-Fatura sistemine kayıtlı değilse düzenlenen dijital fatura türüdür. GİB e-Arşiv ile gönderilir.",
     "category": "Vergi",
     "tfidf": {
-      "arşiv": 0.333333,
-      "fatura": 0.333333,
-      "nedir": 0.333333
+      "arşiv": 0.333,
+      "fatura": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -829,12 +829,12 @@
     "answer": "Hayır. Kira geliri elde edilmediyse beyan vermeniz gerekmez. Ancak emsal kira bedeli kontrolü yapılır.",
     "category": "Vergi",
     "tfidf": {
-      "kira": 0.166667,
-      "beyanı": 0.166667,
-      "vermem": 0.166667,
-      "gerekir": 0.166667,
-      "evim": 0.166667,
-      "boşsa": 0.166667
+      "kira": 0.167,
+      "beyanı": 0.167,
+      "vermem": 0.167,
+      "gerekir": 0.167,
+      "evim": 0.167,
+      "boşsa": 0.165
     }
   },
   {
@@ -842,13 +842,13 @@
     "answer": "e-Devlet'te 'Adıma Kayıtlı Ceza Sorgulama' hizmetiyle öğrenebilirsiniz. https://www.turkiye.gov.tr/emniyet-adima-kayitli-ceza-sorgulama",
     "category": "Vergi",
     "tfidf": {
-      "adıma": 0.142857,
-      "kayıtlı": 0.142857,
-      "vergi": 0.142857,
-      "borcu": 0.142857,
-      "dışında": 0.142857,
-      "trafik": 0.142857,
-      "cezası": 0.142857
+      "adıma": 0.143,
+      "kayıtlı": 0.143,
+      "vergi": 0.143,
+      "borcu": 0.143,
+      "dışında": 0.143,
+      "trafik": 0.143,
+      "cezası": 0.142
     }
   },
   {
@@ -867,12 +867,12 @@
     "answer": "GİB İnteraktif Vergi Dairesi üzerinden giriş yaparak beyanname oluşturabilirsiniz. https://ivd.gib.gov.tr",
     "category": "Vergi",
     "tfidf": {
-      "şahıs": 0.166667,
-      "şirketim": 0.166667,
-      "gelir": 0.166667,
-      "vergisi": 0.166667,
-      "beyannamesi": 0.166667,
-      "verilir": 0.166667
+      "şahıs": 0.167,
+      "şirketim": 0.167,
+      "gelir": 0.167,
+      "vergisi": 0.167,
+      "beyannamesi": 0.167,
+      "verilir": 0.165
     }
   },
   {
@@ -938,12 +938,12 @@
     "answer": "e-Devlet'te 'Tapu Bilgileri Sorgulama' hizmetiyle adınıza kayıtlı taşınmazların tapu bilgilerini görebilirsiniz. https://www.turkiye.gov.tr/tapu-bilgileri-sorgulama",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.166667,
-      "sorgulama": 0.166667,
-      "işlemini": 0.166667,
-      "devlet": 0.166667,
-      "üzerinden": 0.166667,
-      "yaparım": 0.166667
+      "tapu": 0.167,
+      "sorgulama": 0.167,
+      "işlemini": 0.167,
+      "devlet": 0.167,
+      "üzerinden": 0.167,
+      "yaparım": 0.165
     }
   },
   {
@@ -951,9 +951,9 @@
     "answer": "e-Devlet'te 'Tapu Bilgileri Sorgulama' hizmeti üzerinden adınıza kayıtlı tüm gayrimenkulleri görüntüleyebilirsiniz.",
     "category": "Tapu",
     "tfidf": {
-      "adıma": 0.333333,
-      "kayıtlı": 0.333333,
-      "taşınmaz": 0.333333
+      "adıma": 0.333,
+      "kayıtlı": 0.333,
+      "taşınmaz": 0.334
     }
   },
   {
@@ -1025,12 +1025,12 @@
     "answer": "Hayır, Zorunlu Deprem Sigortası (DASK) olmadan tapu satışı yapılamaz.",
     "category": "Tapu",
     "tfidf": {
-      "dask": 0.166667,
-      "sigortası": 0.166667,
-      "olmadan": 0.166667,
-      "tapu": 0.166667,
-      "devri": 0.166667,
-      "yapılabilir": 0.166667
+      "dask": 0.167,
+      "sigortası": 0.167,
+      "olmadan": 0.167,
+      "tapu": 0.167,
+      "devri": 0.167,
+      "yapılabilir": 0.165
     }
   },
   {
@@ -1038,9 +1038,9 @@
     "answer": "Evet. Taşınmaz üzerinde kredi borcu veya ipotek varsa bu tapuda görünür.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.333333,
-      "ipotekli": 0.333333,
-      "olabilir": 0.333333
+      "tapu": 0.333,
+      "ipotekli": 0.333,
+      "olabilir": 0.334
     }
   },
   {
@@ -1048,9 +1048,9 @@
     "answer": "Evet, ancak ipotek alacaklısının (genellikle banka) onayı gerekir.",
     "category": "Tapu",
     "tfidf": {
-      "potekli": 0.333333,
-      "ev": 0.333333,
-      "satılabilir": 0.333333
+      "potekli": 0.333,
+      "ev": 0.333,
+      "satılabilir": 0.334
     }
   },
   {
@@ -1058,9 +1058,9 @@
     "answer": "Bir taşınmazın birden fazla kişi adına kayıtlı olması durumudur. Hissedarlar oranlara göre pay sahibidir.",
     "category": "Tapu",
     "tfidf": {
-      "hisseli": 0.333333,
-      "tapu": 0.333333,
-      "nedir": 0.333333
+      "hisseli": 0.333,
+      "tapu": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -1080,12 +1080,12 @@
     "answer": "Evet. e-Devlet'teki 'Web Tapu Başvuru Sorgulama' hizmetiyle başvuru ve randevu işlemleri yapılabilir. https://www.turkiye.gov.tr/tapu-web-tapu-basvuru-sorgulama",
     "category": "Tapu",
     "tfidf": {
-      "devlet": 0.166667,
-      "üzerinden": 0.166667,
-      "tapu": 0.166667,
-      "randevusu": 0.166667,
-      "alabilir": 0.166667,
-      "miyim": 0.166667
+      "devlet": 0.167,
+      "üzerinden": 0.167,
+      "tapu": 0.167,
+      "randevusu": 0.167,
+      "alabilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -1093,9 +1093,9 @@
     "answer": "Tapu harcı vergi dairesine veya internet bankacılığı ile 'Tapu Harcı Tahsilatı' ekranından ödenebilir.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.333333,
-      "harcı": 0.333333,
-      "ödenir": 0.333333
+      "tapu": 0.333,
+      "harcı": 0.333,
+      "ödenir": 0.334
     }
   },
   {
@@ -1103,13 +1103,13 @@
     "answer": "Evet, noterden alınmış geçerli vekaletname ile işlemler vekil tarafından yapılabilir.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.142857,
-      "işlemlerini": 0.142857,
-      "başka": 0.142857,
-      "biri": 0.142857,
-      "benim": 0.142857,
-      "adıma": 0.142857,
-      "yapabilir": 0.142857
+      "tapu": 0.143,
+      "işlemlerini": 0.143,
+      "başka": 0.143,
+      "biri": 0.143,
+      "benim": 0.143,
+      "adıma": 0.143,
+      "yapabilir": 0.142
     }
   },
   {
@@ -1151,11 +1151,11 @@
     "answer": "Kat mülkiyeti tamamlanmış yapılarda olur. Kat irtifakı ise inşaat halindeyken düzenlenir.",
     "category": "Tapu",
     "tfidf": {
-      "kat": 0.333333,
-      "mülkiyeti": 0.166667,
-      "irtifakı": 0.166667,
-      "farkı": 0.166667,
-      "nedir": 0.166667
+      "kat": 0.333,
+      "mülkiyeti": 0.167,
+      "irtifakı": 0.167,
+      "farkı": 0.167,
+      "nedir": 0.166
     }
   },
   {
@@ -1174,9 +1174,9 @@
     "answer": "Taşınmazın devrine rıza gösterildiğini ifade eden resmi bir belgedir. Özellikle evli çiftler arasında kullanılır.",
     "category": "Tapu",
     "tfidf": {
-      "tapuda": 0.333333,
-      "muvafakatname": 0.333333,
-      "nedir": 0.333333
+      "tapuda": 0.333,
+      "muvafakatname": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -1218,12 +1218,12 @@
     "answer": "Satış bedeli üzerinden %4 oranında tapu harcı alınır. Bunun yarısı alıcı, yarısı satıcı tarafından ödenir.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.166667,
-      "devir": 0.166667,
-      "işleminde": 0.166667,
-      "alım": 0.166667,
-      "satım": 0.166667,
-      "vergisi": 0.166667
+      "tapu": 0.167,
+      "devir": 0.167,
+      "işleminde": 0.167,
+      "alım": 0.167,
+      "satım": 0.167,
+      "vergisi": 0.165
     }
   },
   {
@@ -1242,12 +1242,12 @@
     "answer": "Evet. Alıcı ve satıcının aynı anda Tapu Müdürlüğü’nde hazır bulunması gerekir. Vekaletname varsa vekil gidebilir.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.166667,
-      "işlemi": 0.166667,
-      "tarafların": 0.166667,
-      "birlikte": 0.166667,
-      "gitmesi": 0.166667,
-      "zorunlu": 0.166667
+      "tapu": 0.167,
+      "işlemi": 0.167,
+      "tarafların": 0.167,
+      "birlikte": 0.167,
+      "gitmesi": 0.167,
+      "zorunlu": 0.165
     }
   },
   {
@@ -1288,9 +1288,9 @@
     "answer": "Hayır. e-Devlet veya Web Tapu sisteminden yapılan sorgulamalar ücretsizdir.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.333333,
-      "sorgulaması": 0.333333,
-      "ücretli": 0.333333
+      "tapu": 0.333,
+      "sorgulaması": 0.333,
+      "ücretli": 0.334
     }
   },
   {
@@ -1310,13 +1310,13 @@
     "answer": "Evet. Hisseli tapuda satış için tüm hissedarların onayı veya vekaleti gerekir.",
     "category": "Tapu",
     "tfidf": {
-      "ortak": 0.142857,
-      "tapu": 0.142857,
-      "satışında": 0.142857,
-      "tüm": 0.142857,
-      "hissedarların": 0.142857,
-      "onayı": 0.142857,
-      "gerekir": 0.142857
+      "ortak": 0.143,
+      "tapu": 0.143,
+      "satışında": 0.143,
+      "tüm": 0.143,
+      "hissedarların": 0.143,
+      "onayı": 0.143,
+      "gerekir": 0.142
     }
   },
   {
@@ -1380,9 +1380,9 @@
     "answer": "Belgeler eksiksizse aynı gün veya ertesi gün tamamlanabilir. Yoğunluğa göre değişebilir.",
     "category": "Tapu",
     "tfidf": {
-      "tapu": 0.333333,
-      "işlemleri": 0.333333,
-      "sürer": 0.333333
+      "tapu": 0.333,
+      "işlemleri": 0.333,
+      "sürer": 0.334
     }
   },
   {
@@ -1390,12 +1390,12 @@
     "answer": "e-Devlet’te 'Askerlik Durum Belgesi Sorgulama' hizmeti ile belge oluşturabilir ve PDF olarak indirebilirsiniz. https://www.turkiye.gov.tr/asal-askerlik-durum-belgesi-sorgulama",
     "category": "Askerlik",
     "tfidf": {
-      "askerlik": 0.166667,
-      "durum": 0.166667,
-      "belgesini": 0.166667,
-      "devlet": 0.166667,
-      "ten": 0.166667,
-      "alırım": 0.166667
+      "askerlik": 0.167,
+      "durum": 0.167,
+      "belgesini": 0.167,
+      "devlet": 0.167,
+      "ten": 0.167,
+      "alırım": 0.165
     }
   },
   {
@@ -1415,9 +1415,9 @@
     "answer": "e-Devlet’te 'Askerlik Sınıflandırma Sonucu' hizmetiyle hangi tarihte ve birlikte gideceğinizi öğrenebilirsiniz. https://www.turkiye.gov.tr/asal-yoklama",
     "category": "Askerlik",
     "tfidf": {
-      "askerlik": 0.333333,
-      "celp": 0.333333,
-      "dönemimi": 0.333333
+      "askerlik": 0.333,
+      "celp": 0.333,
+      "dönemimi": 0.334
     }
   },
   {
@@ -1436,9 +1436,9 @@
     "answer": "Bedelli askerlik ücreti yılda iki kez memur maaş katsayısına göre güncellenir. Güncel tutar https://asal.msb.gov.tr adresinden öğrenilebilir.",
     "category": "Askerlik",
     "tfidf": {
-      "bedelli": 0.333333,
-      "askerlik": 0.333333,
-      "ücreti": 0.333333
+      "bedelli": 0.333,
+      "askerlik": 0.333,
+      "ücreti": 0.334
     }
   },
   {
@@ -1446,9 +1446,9 @@
     "answer": "Üniversite, yüksek lisans, yurt dışı eğitim gibi nedenlerle e-Devlet veya askerlik şubesinden tecil başvurusu yapılabilir.",
     "category": "Askerlik",
     "tfidf": {
-      "askerlik": 0.333333,
-      "tecili": 0.333333,
-      "yapılır": 0.333333
+      "askerlik": 0.333,
+      "tecili": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -1467,9 +1467,9 @@
     "answer": "Yoklama işlemlerini zamanında yaptırmayan kişilere yoklama kaçağı denir. İdari para cezası uygulanabilir.",
     "category": "Askerlik",
     "tfidf": {
-      "yoklama": 0.333333,
-      "kaçağı": 0.333333,
-      "demektir": 0.333333
+      "yoklama": 0.333,
+      "kaçağı": 0.333,
+      "demektir": 0.334
     }
   },
   {
@@ -1477,9 +1477,9 @@
     "answer": "e-Devlet’te 'Sevk Belgesi Alma' hizmetiyle PDF belge oluşturabilirsiniz. https://www.turkiye.gov.tr/asal-sevk-belgesi-alma",
     "category": "Askerlik",
     "tfidf": {
-      "sevk": 0.333333,
-      "belgesini": 0.333333,
-      "alırım": 0.333333
+      "sevk": 0.333,
+      "belgesini": 0.333,
+      "alırım": 0.334
     }
   },
   {
@@ -1520,13 +1520,13 @@
     "answer": "Lisans öğrencileri için azami tecil süresi 28 yaşına kadardır. Ancak okul süresiyle sınırlıdır.",
     "category": "Askerlik",
     "tfidf": {
-      "üniversite": 0.142857,
-      "okurken": 0.142857,
-      "askerlik": 0.142857,
-      "tecil": 0.142857,
-      "süresi": 0.142857,
-      "kaç": 0.142857,
-      "yıldır": 0.142857
+      "üniversite": 0.143,
+      "okurken": 0.143,
+      "askerlik": 0.143,
+      "tecil": 0.143,
+      "süresi": 0.143,
+      "kaç": 0.143,
+      "yıldır": 0.142
     }
   },
   {
@@ -1546,13 +1546,13 @@
     "answer": "Yurt dışı bedelli askerlik başvurusu konsolosluklardan yapılır. Ödeme dövizle ve uzaktan gerçekleştirilir. https://www.konsolosluk.gov.tr",
     "category": "Askerlik",
     "tfidf": {
-      "yurt": 0.142857,
-      "dışında": 0.142857,
-      "yaşayan": 0.142857,
-      "biri": 0.142857,
-      "bedelli": 0.142857,
-      "askerlik": 0.142857,
-      "yapar": 0.142857
+      "yurt": 0.143,
+      "dışında": 0.143,
+      "yaşayan": 0.143,
+      "biri": 0.143,
+      "bedelli": 0.143,
+      "askerlik": 0.143,
+      "yapar": 0.142
     }
   },
   {
@@ -1560,13 +1560,13 @@
     "answer": "Çifte vatandaşlık varsa Türkiye'deki askerlik yükümlülüğü devam eder. Yurt dışı ikamet süreleri dikkate alınabilir.",
     "category": "Askerlik",
     "tfidf": {
-      "yurt": 0.142857,
-      "dışında": 0.142857,
-      "doğan": 0.142857,
-      "çocuğumun": 0.142857,
-      "askerlik": 0.142857,
-      "yükümlülüğü": 0.142857,
-      "nedir": 0.142857
+      "yurt": 0.143,
+      "dışında": 0.143,
+      "doğan": 0.143,
+      "çocuğumun": 0.143,
+      "askerlik": 0.143,
+      "yükümlülüğü": 0.143,
+      "nedir": 0.142
     }
   },
   {
@@ -1597,9 +1597,9 @@
     "answer": "Yer değiştirme mümkün değildir. Sadece sağlık, güvenlik ve ailevi sebeplerle MSB’ye dilekçeyle başvuru yapılabilir.",
     "category": "Askerlik",
     "tfidf": {
-      "askerlik": 0.333333,
-      "yerim": 0.333333,
-      "değiştirilebilir": 0.333333
+      "askerlik": 0.333,
+      "yerim": 0.333,
+      "değiştirilebilir": 0.334
     }
   },
   {
@@ -1663,12 +1663,12 @@
     "answer": "Hayır. Ancak sağlık problemi varsa bunu belgelemek için rapor sunmanız işlemleri kolaylaştırır.",
     "category": "Askerlik",
     "tfidf": {
-      "yoklama": 0.166667,
-      "sırasında": 0.166667,
-      "sağlık": 0.166667,
-      "raporu": 0.166667,
-      "vermek": 0.166667,
-      "zorunlu": 0.166667
+      "yoklama": 0.167,
+      "sırasında": 0.167,
+      "sağlık": 0.167,
+      "raporu": 0.167,
+      "vermek": 0.167,
+      "zorunlu": 0.165
     }
   },
   {
@@ -1687,12 +1687,12 @@
     "answer": "Hayır. Yalnızca ilk kayıtlı lisans eğitimi için tecil hakkı verilir. İkinci üniversite için tecil hakkı tanınmaz.",
     "category": "Askerlik",
     "tfidf": {
-      "kinci": 0.166667,
-      "üniversite": 0.166667,
-      "okuyanlar": 0.166667,
-      "askerlik": 0.166667,
-      "tecili": 0.166667,
-      "alabilir": 0.166667
+      "kinci": 0.167,
+      "üniversite": 0.167,
+      "okuyanlar": 0.167,
+      "askerlik": 0.167,
+      "tecili": 0.167,
+      "alabilir": 0.165
     }
   },
   {
@@ -1723,12 +1723,12 @@
     "answer": "Hayır. Dekont ilgili bankadan alınır ancak ödeme bilgisi e-Devlet’te görüntülenebilir.",
     "category": "Askerlik",
     "tfidf": {
-      "devlet": 0.166667,
-      "ten": 0.166667,
-      "bedelli": 0.166667,
-      "askerlik": 0.166667,
-      "dekontu": 0.166667,
-      "alınır": 0.166667
+      "devlet": 0.167,
+      "ten": 0.167,
+      "bedelli": 0.167,
+      "askerlik": 0.167,
+      "dekontu": 0.167,
+      "alınır": 0.165
     }
   },
   {
@@ -1736,12 +1736,12 @@
     "answer": "Evet. Yoklama sürecinde askerlik şubesi tarafından sağlık kontrolüne yönlendirilirsiniz.",
     "category": "Askerlik",
     "tfidf": {
-      "askere": 0.166667,
-      "gitmeden": 0.166667,
-      "önce": 0.166667,
-      "sağlık": 0.166667,
-      "muayenesi": 0.166667,
-      "şart": 0.166667
+      "askere": 0.167,
+      "gitmeden": 0.167,
+      "önce": 0.167,
+      "sağlık": 0.167,
+      "muayenesi": 0.167,
+      "şart": 0.165
     }
   },
   {
@@ -1749,9 +1749,9 @@
     "answer": "2025 itibarıyla bedelli askerlik süresi 21 gündür. Bu süre her yıl MSB tarafından açıklanır.",
     "category": "Askerlik",
     "tfidf": {
-      "bedelli": 0.333333,
-      "askerlik": 0.333333,
-      "süresi": 0.333333
+      "bedelli": 0.333,
+      "askerlik": 0.333,
+      "süresi": 0.334
     }
   },
   {
@@ -1759,12 +1759,12 @@
     "answer": "6 ayı tamamlayan er/erbaşlar, ikinci 6 ay için istekte bulunarak maaşlı görev yapabilir.",
     "category": "Askerlik",
     "tfidf": {
-      "askerde": 0.166667,
-      "kalıp": 0.166667,
-      "maaşlı": 0.166667,
-      "görev": 0.166667,
-      "yapmak": 0.166667,
-      "yapmalıyım": 0.166667
+      "askerde": 0.167,
+      "kalıp": 0.167,
+      "maaşlı": 0.167,
+      "görev": 0.167,
+      "yapmak": 0.167,
+      "yapmalıyım": 0.165
     }
   },
   {
@@ -1796,9 +1796,9 @@
     "answer": "Yoklama kaçağı veya bakaya durumuna düşersiniz. İdari para cezası uygulanır, kolluk kuvvetleriyle sevk sağlanabilir.",
     "category": "Askerlik",
     "tfidf": {
-      "askere": 0.333333,
-      "gitmezsem": 0.333333,
-      "olur": 0.333333
+      "askere": 0.333,
+      "gitmezsem": 0.333,
+      "olur": 0.334
     }
   },
   {
@@ -1806,9 +1806,9 @@
     "answer": "Yoklamasını yaptırdığı halde sevk tarihinde askere gitmeyen kişi 'bakaya' sayılır. Ceza ve işlem uygulanır.",
     "category": "Askerlik",
     "tfidf": {
-      "bakaya": 0.333333,
-      "kalmak": 0.333333,
-      "demektir": 0.333333
+      "bakaya": 0.333,
+      "kalmak": 0.333,
+      "demektir": 0.334
     }
   },
   {
@@ -1831,13 +1831,13 @@
     "answer": "Evet. Tüm lisans ve lisansüstü mezunları sınıflandırma esasına göre kısa dönem er olarak seçilebilir.",
     "category": "Askerlik",
     "tfidf": {
-      "yüksek": 0.142857,
-      "lisans": 0.142857,
-      "mezunu": 0.142857,
-      "kısa": 0.142857,
-      "dönem": 0.142857,
-      "askerlik": 0.142857,
-      "yapabilir": 0.142857
+      "yüksek": 0.143,
+      "lisans": 0.143,
+      "mezunu": 0.143,
+      "kısa": 0.143,
+      "dönem": 0.143,
+      "askerlik": 0.143,
+      "yapabilir": 0.142
     }
   },
   {
@@ -1879,12 +1879,12 @@
     "answer": "Burs karşılıksızdır, geri ödenmez. Öğrenim kredisi ise mezun olduktan sonra geri ödenir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "burs": 0.166667,
-      "öğrenim": 0.166667,
-      "kredisi": 0.166667,
-      "arasındaki": 0.166667,
-      "fark": 0.166667,
-      "nedir": 0.166667
+      "burs": 0.167,
+      "öğrenim": 0.167,
+      "kredisi": 0.167,
+      "arasındaki": 0.167,
+      "fark": 0.167,
+      "nedir": 0.165
     }
   },
   {
@@ -1892,12 +1892,12 @@
     "answer": "Mezuniyetten iki yıl sonra ödeme başlar. e-Devlet’ten ödeme planı görüntülenebilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.166667,
-      "kredi": 0.166667,
-      "geri": 0.166667,
-      "ödemesi": 0.166667,
-      "zaman": 0.166667,
-      "başlar": 0.166667
+      "kyk": 0.167,
+      "kredi": 0.167,
+      "geri": 0.167,
+      "ödemesi": 0.167,
+      "zaman": 0.167,
+      "başlar": 0.165
     }
   },
   {
@@ -1917,9 +1917,9 @@
     "answer": "e-Devlet'te 'KYK Öğrenim/Katkı Kredisi Geri Ödeme Sorgulama' hizmetinden borç detaylarını görebilirsiniz. https://www.turkiye.gov.tr/gsb-kredi-geri-odeme-sorgulama",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.333333,
-      "kredi": 0.333333,
-      "borcumu": 0.333333
+      "kyk": 0.333,
+      "kredi": 0.333,
+      "borcumu": 0.334
     }
   },
   {
@@ -1927,12 +1927,12 @@
     "answer": "Sonuçlar https://sonuc.gsb.gov.tr adresinden ve e-Devlet üzerinden ilan edilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "burs": 0.166667,
-      "kredi": 0.166667,
-      "başvuru": 0.166667,
-      "sonuçları": 0.166667,
-      "nereden": 0.166667,
-      "açıklanır": 0.166667
+      "burs": 0.167,
+      "kredi": 0.167,
+      "başvuru": 0.167,
+      "sonuçları": 0.167,
+      "nereden": 0.167,
+      "açıklanır": 0.165
     }
   },
   {
@@ -1952,9 +1952,9 @@
     "answer": "2023 sonrası verilen krediler için faiz değil, sadece TÜFE endeksli güncelleme yapılır.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "öğrenim": 0.333333,
-      "kredisi": 0.333333,
-      "faizli": 0.333333
+      "öğrenim": 0.333,
+      "kredisi": 0.333,
+      "faizli": 0.334
     }
   },
   {
@@ -1962,12 +1962,12 @@
     "answer": "Hayır, ödeme işlemi vergi dairesi tahsilat sistemleri üzerinden yapılır. Ancak borç bilgisi e-Devlet’te görünür.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.166667,
-      "borcumu": 0.166667,
-      "devlet": 0.166667,
-      "üzerinden": 0.166667,
-      "ödeyebilir": 0.166667,
-      "miyim": 0.166667
+      "kyk": 0.167,
+      "borcumu": 0.167,
+      "devlet": 0.167,
+      "üzerinden": 0.167,
+      "ödeyebilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -1975,9 +1975,9 @@
     "answer": "e-Devlet’te burs/kredi kazanan öğrencilerin belirtilen sürede dijital olarak onayladığı sözleşmedir. https://www.turkiye.gov.tr/kyk-taahhutname-onay",
     "category": "KYK ve Burs",
     "tfidf": {
-      "taahhütname": 0.333333,
-      "nedir": 0.333333,
-      "onaylanır": 0.333333
+      "taahhütname": 0.333,
+      "nedir": 0.333,
+      "onaylanır": 0.334
     }
   },
   {
@@ -2020,9 +2020,9 @@
     "answer": "Evet. Vergi affı yasaları kapsamındaysa KYK borcu da yapılandırmaya dahil edilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kredi": 0.333333,
-      "borcu": 0.333333,
-      "yapılandırılabilir": 0.333333
+      "kredi": 0.333,
+      "borcu": 0.333,
+      "yapılandırılabilir": 0.334
     }
   },
   {
@@ -2042,13 +2042,13 @@
     "answer": "Hayır. Aynı anda hem KYK bursu hem özel burs alınamaz. Ancak özel burs alırken KYK kredisi alınabilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "özel": 0.142857,
-      "burs": 0.142857,
-      "alıyorsam": 0.142857,
-      "kyk": 0.142857,
-      "bursu": 0.142857,
-      "alabilir": 0.142857,
-      "miyim": 0.142857
+      "özel": 0.143,
+      "burs": 0.143,
+      "alıyorsam": 0.143,
+      "kyk": 0.143,
+      "bursu": 0.143,
+      "alabilir": 0.143,
+      "miyim": 0.142
     }
   },
   {
@@ -2092,13 +2092,13 @@
     "answer": "Başvuru tarihleri her yıl GSB tarafından duyurulur. https://gsb.gov.tr veya https://sonuc.gsb.gov.tr adreslerini takip edebilirsiniz.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.142857,
-      "burs": 0.142857,
-      "kredi": 0.142857,
-      "başvuru": 0.142857,
-      "tarihlerini": 0.142857,
-      "takip": 0.142857,
-      "edebilirim": 0.142857
+      "kyk": 0.143,
+      "burs": 0.143,
+      "kredi": 0.143,
+      "başvuru": 0.143,
+      "tarihlerini": 0.143,
+      "takip": 0.143,
+      "edebilirim": 0.142
     }
   },
   {
@@ -2106,13 +2106,13 @@
     "answer": "Hayır. KYK burs ve kredileri yalnızca Türkiye'deki yükseköğretim kurumlarında öğrenim gören öğrencilere verilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "yurt": 0.142857,
-      "dışında": 0.142857,
-      "okuyan": 0.142857,
-      "öğrenciler": 0.142857,
-      "kyk": 0.142857,
-      "bursu": 0.142857,
-      "alabilir": 0.142857
+      "yurt": 0.143,
+      "dışında": 0.143,
+      "okuyan": 0.143,
+      "öğrenciler": 0.143,
+      "kyk": 0.143,
+      "bursu": 0.143,
+      "alabilir": 0.142
     }
   },
   {
@@ -2132,13 +2132,13 @@
     "answer": "Genellikle bursun krediye çevrilmesi geri alınamaz. Ancak özel durumlarda tekrar değerlendirme istenebilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "bursum": 0.142857,
-      "krediye": 0.142857,
-      "çevrildi": 0.142857,
-      "tekrar": 0.142857,
-      "burs": 0.142857,
-      "alabilir": 0.142857,
-      "miyim": 0.142857
+      "bursum": 0.143,
+      "krediye": 0.143,
+      "çevrildi": 0.143,
+      "tekrar": 0.143,
+      "burs": 0.143,
+      "alabilir": 0.143,
+      "miyim": 0.142
     }
   },
   {
@@ -2146,12 +2146,12 @@
     "answer": "Hayır. Ödeme planı sabittir ancak toplu ödeme yapılabilir veya yapılandırma dönemlerinde vade düzenlenebilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.166667,
-      "kredi": 0.166667,
-      "ödeme": 0.166667,
-      "tarihimi": 0.166667,
-      "değiştirebilir": 0.166667,
-      "miyim": 0.166667
+      "kyk": 0.167,
+      "kredi": 0.167,
+      "ödeme": 0.167,
+      "tarihimi": 0.167,
+      "değiştirebilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -2193,12 +2193,12 @@
     "answer": "Evet. Eğitime devam eden öğrenciler yeniden KYK başvurusunda bulunabilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "öğrenci": 0.166667,
-      "affıyla": 0.166667,
-      "dönenler": 0.166667,
-      "kyk": 0.166667,
-      "bursu": 0.166667,
-      "alabilir": 0.166667
+      "öğrenci": 0.167,
+      "affıyla": 0.167,
+      "dönenler": 0.167,
+      "kyk": 0.167,
+      "bursu": 0.167,
+      "alabilir": 0.165
     }
   },
   {
@@ -2240,12 +2240,12 @@
     "answer": "Belirtilen tarihlerde e-Devlet üzerinden taahhütname onaylanmalıdır. Onaylanmazsa burs hakkı iptal olur.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.166667,
-      "burs": 0.166667,
-      "sonucu": 0.166667,
-      "açıklandıktan": 0.166667,
-      "sonra": 0.166667,
-      "yapılmalı": 0.166667
+      "kyk": 0.167,
+      "burs": 0.167,
+      "sonucu": 0.167,
+      "açıklandıktan": 0.167,
+      "sonra": 0.167,
+      "yapılmalı": 0.165
     }
   },
   {
@@ -2253,13 +2253,13 @@
     "answer": "Evet. Hazırlık eğitimi burs süresine dahildir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "hazırlık": 0.142857,
-      "sınıfında": 0.142857,
-      "burs": 0.142857,
-      "kredi": 0.142857,
-      "süresi": 0.142857,
-      "işlemeye": 0.142857,
-      "başlar": 0.142857
+      "hazırlık": 0.143,
+      "sınıfında": 0.143,
+      "burs": 0.143,
+      "kredi": 0.143,
+      "süresi": 0.143,
+      "işlemeye": 0.143,
+      "başlar": 0.142
     }
   },
   {
@@ -2267,12 +2267,12 @@
     "answer": "Hayır. Öğrenim kredisi yaşam giderleri içindir; katkı kredisi dönem harç ödemelerine yönelikti ve artık verilmemektedir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.142857,
-      "öğrenim": 0.142857,
-      "kredisi": 0.285714,
-      "katkı": 0.142857,
-      "aynı": 0.142857,
-      "şey": 0.142857
+      "kyk": 0.143,
+      "öğrenim": 0.143,
+      "kredisi": 0.286,
+      "katkı": 0.143,
+      "aynı": 0.143,
+      "şey": 0.142
     }
   },
   {
@@ -2280,13 +2280,13 @@
     "answer": "Evet. Başvuran kişilerin bireysel başarı ve gelir durumuna göre her birey ayrı değerlendirilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.142857,
-      "bursu": 0.142857,
-      "aynı": 0.142857,
-      "aileden": 0.142857,
-      "iki": 0.142857,
-      "kişiye": 0.142857,
-      "verilir": 0.142857
+      "kyk": 0.143,
+      "bursu": 0.143,
+      "aynı": 0.143,
+      "aileden": 0.143,
+      "iki": 0.143,
+      "kişiye": 0.143,
+      "verilir": 0.142
     }
   },
   {
@@ -2294,12 +2294,12 @@
     "answer": "Genel akademik not ortalaması, sınıf geçme durumu ve disiplin sicili gibi kriterler değerlendirilir.",
     "category": "KYK ve Burs",
     "tfidf": {
-      "kyk": 0.166667,
-      "bursu": 0.166667,
-      "almak": 0.166667,
-      "başarı": 0.166667,
-      "şartı": 0.166667,
-      "nedir": 0.166667
+      "kyk": 0.167,
+      "bursu": 0.167,
+      "almak": 0.167,
+      "başarı": 0.167,
+      "şartı": 0.167,
+      "nedir": 0.165
     }
   },
   {
@@ -2346,9 +2346,9 @@
     "answer": "e-Devlet üzerinden 'Yerleşim Yeri (İkametgah) Belgesi Sorgulama' hizmeti ile ücretsiz alınabilir. https://www.turkiye.gov.tr/nvi-yerlesim-yeri-belgesi-sorgulama",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "kametgah": 0.333333,
-      "belgesi": 0.333333,
-      "alınır": 0.333333
+      "kametgah": 0.333,
+      "belgesi": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -2367,9 +2367,9 @@
     "answer": "Yeni adrese taşındıktan sonra 20 iş günü içinde adres değişikliğini bildirmeniz zorunludur.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "adres": 0.333333,
-      "değişikliği": 0.333333,
-      "sürem": 0.333333
+      "adres": 0.333,
+      "değişikliği": 0.333,
+      "sürem": 0.334
     }
   },
   {
@@ -2424,13 +2424,13 @@
     "answer": "Tapu ya da kira sözleşmesi gibi kanıtlayıcı belge sunmanız durumunda adres bildirimi yapabilirsiniz.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "başkasının": 0.142857,
-      "evi": 0.142857,
-      "üzerime": 0.142857,
-      "kayıtlı": 0.142857,
-      "adres": 0.142857,
-      "gösterebilir": 0.142857,
-      "miyim": 0.142857
+      "başkasının": 0.143,
+      "evi": 0.143,
+      "üzerime": 0.143,
+      "kayıtlı": 0.143,
+      "adres": 0.143,
+      "gösterebilir": 0.143,
+      "miyim": 0.142
     }
   },
   {
@@ -2483,9 +2483,9 @@
     "answer": "Evet. Şiddet mağdurları veya özel güvenlik gerekçesi olanlar için adres gizliliği kararı alınabilir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "kamet": 0.333333,
-      "adresi": 0.333333,
-      "gizlenebilir": 0.333333
+      "kamet": 0.333,
+      "adresi": 0.333,
+      "gizlenebilir": 0.334
     }
   },
   {
@@ -2505,12 +2505,12 @@
     "answer": "Konsolosluklar üzerinden yurtdışı ikamet adresi beyan edilebilir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "yurt": 0.166667,
-      "dışında": 0.166667,
-      "yaşıyorum": 0.166667,
-      "adres": 0.166667,
-      "kaydımı": 0.166667,
-      "yaparım": 0.166667
+      "yurt": 0.167,
+      "dışında": 0.167,
+      "yaşıyorum": 0.167,
+      "adres": 0.167,
+      "kaydımı": 0.167,
+      "yaparım": 0.165
     }
   },
   {
@@ -2541,13 +2541,13 @@
     "answer": "Nüfus müdürlüğüne başvurarak adres tespit ve düzeltme işlemi yaptırabilirsiniz.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "devlet": 0.142857,
-      "te": 0.142857,
-      "adres": 0.142857,
-      "bilgilerim": 0.142857,
-      "yanlış": 0.142857,
-      "görünüyorsa": 0.142857,
-      "yapmalıyım": 0.142857
+      "devlet": 0.143,
+      "te": 0.143,
+      "adres": 0.143,
+      "bilgilerim": 0.143,
+      "yanlış": 0.143,
+      "görünüyorsa": 0.143,
+      "yapmalıyım": 0.142
     }
   },
   {
@@ -2591,12 +2591,12 @@
     "answer": "Hayır. Hukuki olarak yerleşim yeri adresi, ikamet adresi ile aynı anlamda kullanılır.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "kamet": 0.142857,
-      "adresi": 0.285714,
-      "yerleşim": 0.142857,
-      "yeri": 0.142857,
-      "farklı": 0.142857,
-      "olabilir": 0.142857
+      "kamet": 0.143,
+      "adresi": 0.286,
+      "yerleşim": 0.143,
+      "yeri": 0.143,
+      "farklı": 0.143,
+      "olabilir": 0.142
     }
   },
   {
@@ -2604,12 +2604,12 @@
     "answer": "Yurt yönetimi tarafından yapılır, ancak siz e-Devlet'ten kontrol edebilir ve çıktı alabilirsiniz.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "öğrenci": 0.166667,
-      "yurdu": 0.166667,
-      "adresimi": 0.166667,
-      "devlet": 0.166667,
-      "ten": 0.166667,
-      "gösterebilirim": 0.166667
+      "öğrenci": 0.167,
+      "yurdu": 0.167,
+      "adresimi": 0.167,
+      "devlet": 0.167,
+      "ten": 0.167,
+      "gösterebilirim": 0.165
     }
   },
   {
@@ -2617,12 +2617,12 @@
     "answer": "Evet. Askerlik şubesine en yakın adrese kayıtlı olmak yoklama ve sevk sürecinde kolaylık sağlar.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "askere": 0.166667,
-      "gitmeden": 0.166667,
-      "önce": 0.166667,
-      "adres": 0.166667,
-      "değişikliği": 0.166667,
-      "yapılmalı": 0.166667
+      "askere": 0.167,
+      "gitmeden": 0.167,
+      "önce": 0.167,
+      "adres": 0.167,
+      "değişikliği": 0.167,
+      "yapılmalı": 0.165
     }
   },
   {
@@ -2642,13 +2642,13 @@
     "answer": "Evet. Üzerinde doğrulama kodu bulunduğu için resmi işlemlerde geçerlidir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "devlet": 0.142857,
-      "ten": 0.142857,
-      "alınan": 0.142857,
-      "ikametgah": 0.142857,
-      "belgesi": 0.142857,
-      "geçerli": 0.142857,
-      "midir": 0.142857
+      "devlet": 0.143,
+      "ten": 0.143,
+      "alınan": 0.143,
+      "ikametgah": 0.143,
+      "belgesi": 0.143,
+      "geçerli": 0.143,
+      "midir": 0.142
     }
   },
   {
@@ -2668,13 +2668,13 @@
     "answer": "Sisteme kayıt anında güncellenir ve anında resmi hale gelir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "adres": 0.142857,
-      "bildirimi": 0.142857,
-      "yaptıktan": 0.142857,
-      "sonra": 0.142857,
-      "zaman": 0.142857,
-      "geçerli": 0.142857,
-      "olur": 0.142857
+      "adres": 0.143,
+      "bildirimi": 0.143,
+      "yaptıktan": 0.143,
+      "sonra": 0.143,
+      "zaman": 0.143,
+      "geçerli": 0.143,
+      "olur": 0.142
     }
   },
   {
@@ -2682,13 +2682,13 @@
     "answer": "Bildirim sonrası eski kişi sistemden düşürülür. Gerekirse idari işlem uygulanır.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "yeni": 0.142857,
-      "taşındığım": 0.142857,
-      "adrese": 0.142857,
-      "eski": 0.142857,
-      "kiracı": 0.142857,
-      "kayıtlıysa": 0.142857,
-      "olur": 0.142857
+      "yeni": 0.143,
+      "taşındığım": 0.143,
+      "adrese": 0.143,
+      "eski": 0.143,
+      "kiracı": 0.143,
+      "kayıtlıysa": 0.143,
+      "olur": 0.142
     }
   },
   {
@@ -2696,9 +2696,9 @@
     "answer": "2025 yılı itibarıyla zamanında bildirim yapılmazsa yaklaşık 400–800 TL arasında ceza uygulanabilir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "adres": 0.333333,
-      "değişikliği": 0.333333,
-      "cezası": 0.333333
+      "adres": 0.333,
+      "değişikliği": 0.333,
+      "cezası": 0.334
     }
   },
   {
@@ -2718,12 +2718,12 @@
     "answer": "Nüfus müdürlüğüne itiraz dilekçesi verebilir veya adres tespit işlemi başlatabilirsiniz.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "adresime": 0.166667,
-      "başka": 0.166667,
-      "biri": 0.166667,
-      "kayıtlı": 0.166667,
-      "görünüyorsa": 0.166667,
-      "yapmalıyım": 0.166667
+      "adresime": 0.167,
+      "başka": 0.167,
+      "biri": 0.167,
+      "kayıtlı": 0.167,
+      "görünüyorsa": 0.167,
+      "yapmalıyım": 0.165
     }
   },
   {
@@ -2731,12 +2731,12 @@
     "answer": "Evet. Seçimlerde oy kullanacağınız yerleşim yeri, ikamet adresinize göre belirlenir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "kamet": 0.166667,
-      "adresi": 0.166667,
-      "seçmen": 0.166667,
-      "kaydıyla": 0.166667,
-      "ilişkili": 0.166667,
-      "midir": 0.166667
+      "kamet": 0.167,
+      "adresi": 0.167,
+      "seçmen": 0.167,
+      "kaydıyla": 0.167,
+      "ilişkili": 0.167,
+      "midir": 0.165
     }
   },
   {
@@ -2770,9 +2770,9 @@
     "answer": "Fatura, kira sözleşmesi, tapu gibi belgelerle nüfus müdürlüğüne başvurmanız gerekir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "adres": 0.333333,
-      "tespiti": 0.333333,
-      "gerekir": 0.333333
+      "adres": 0.333,
+      "tespiti": 0.333,
+      "gerekir": 0.334
     }
   },
   {
@@ -2804,13 +2804,13 @@
     "answer": "Hayır. Değişikliği kurumlara sizin bildirmeniz gerekir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "adres": 0.142857,
-      "değişikliği": 0.142857,
-      "yaptım": 0.142857,
-      "okul": 0.142857,
-      "veya": 0.142857,
-      "banka": 0.142857,
-      "bilgilendirilir": 0.142857
+      "adres": 0.143,
+      "değişikliği": 0.143,
+      "yaptım": 0.143,
+      "okul": 0.143,
+      "veya": 0.143,
+      "banka": 0.143,
+      "bilgilendirilir": 0.142
     }
   },
   {
@@ -2818,13 +2818,13 @@
     "answer": "Evet. İkametgah adresi aynı olabilir ama her bireyin ayrı beyanı gerekir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
-      "aynı": 0.142857,
-      "adreste": 0.142857,
-      "iki": 0.142857,
-      "farklı": 0.142857,
-      "aile": 0.142857,
-      "kayıtlı": 0.142857,
-      "olabilir": 0.142857
+      "aynı": 0.143,
+      "adreste": 0.143,
+      "iki": 0.143,
+      "farklı": 0.143,
+      "aile": 0.143,
+      "kayıtlı": 0.143,
+      "olabilir": 0.142
     }
   },
   {
@@ -2843,9 +2843,9 @@
     "answer": "Kimlik kartı bedeli her yıl Maliye Bakanlığı tarafından belirlenir. Güncel ücret bilgisi için: https://www.nvi.gov.tr",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.333333,
-      "kartı": 0.333333,
-      "ücreti": 0.333333
+      "kimlik": 0.333,
+      "kartı": 0.333,
+      "ücreti": 0.334
     }
   },
   {
@@ -2853,9 +2853,9 @@
     "answer": "e-Devlet’ten veya nüfus müdürlüğünden kayıp bildirimi yapılabilir. Yeni başvuruda kayıp cezası ödenebilir.",
     "category": "Nüfus",
     "tfidf": {
-      "kayıp": 0.333333,
-      "kimlik": 0.333333,
-      "yapılmalı": 0.333333
+      "kayıp": 0.333,
+      "kimlik": 0.333,
+      "yapılmalı": 0.334
     }
   },
   {
@@ -2867,16 +2867,6 @@
       "kayıt": 0.25,
       "örneği": 0.25,
       "alınır": 0.25
-    }
-  },
-  {
-    "question": "İkametgah belgesi nasıl alınır?",
-    "answer": "e-Devlet’te 'Yerleşim Yeri Belgesi Sorgulama' hizmetiyle alınabilir. https://www.turkiye.gov.tr/nvi-yerlesim-yeri-belgesi-sorgulama",
-    "category": "Nüfus",
-    "tfidf": {
-      "kametgah": 0.333333,
-      "belgesi": 0.333333,
-      "alınır": 0.333333
     }
   },
   {
@@ -2932,9 +2922,9 @@
     "answer": "Hayır. T.C. kimlik kartı tektir. Kaybolur ya da hasar görürse yenilenebilir ama çift kimlik alınamaz.",
     "category": "Nüfus",
     "tfidf": {
-      "kinci": 0.333333,
-      "kimlik": 0.333333,
-      "çıkarılabilir": 0.333333
+      "kinci": 0.333,
+      "kimlik": 0.333,
+      "çıkarılabilir": 0.334
     }
   },
   {
@@ -2977,9 +2967,9 @@
     "answer": "Soyadı değiştiyse veya eski kimlikse güncelleme gerekir. Randevu alınarak değişiklik yapılabilir.",
     "category": "Nüfus",
     "tfidf": {
-      "evlenince": 0.333333,
-      "kimlik": 0.333333,
-      "değişmeli": 0.333333
+      "evlenince": 0.333,
+      "kimlik": 0.333,
+      "değişmeli": 0.334
     }
   },
   {
@@ -2998,12 +2988,12 @@
     "answer": "KKTC, Gürcistan, Ukrayna gibi bazı ülkelere kimlik kartı ile giriş mümkündür.",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.166667,
-      "kartı": 0.166667,
-      "yurt": 0.166667,
-      "dışına": 0.166667,
-      "seyahat": 0.166667,
-      "geçerli": 0.166667
+      "kimlik": 0.167,
+      "kartı": 0.167,
+      "yurt": 0.167,
+      "dışına": 0.167,
+      "seyahat": 0.167,
+      "geçerli": 0.165
     }
   },
   {
@@ -3011,12 +3001,12 @@
     "answer": "Hayır. Kimlik başvuruları şahsen ve biyometrik veri alınarak yapılmalıdır.",
     "category": "Nüfus",
     "tfidf": {
-      "nüfus": 0.166667,
-      "müdürlüğüne": 0.166667,
-      "gitmeden": 0.166667,
-      "kimlik": 0.166667,
-      "başvurusu": 0.166667,
-      "yapılabilir": 0.166667
+      "nüfus": 0.167,
+      "müdürlüğüne": 0.167,
+      "gitmeden": 0.167,
+      "kimlik": 0.167,
+      "başvurusu": 0.167,
+      "yapılabilir": 0.165
     }
   },
   {
@@ -3024,12 +3014,12 @@
     "answer": "Nüfus müdürlüğüne başvurarak kimlik kartı şifresi yenilenebilir.",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.166667,
-      "kartı": 0.166667,
-      "pin": 0.166667,
-      "şifresi": 0.166667,
-      "unutulursa": 0.166667,
-      "yapılmalı": 0.166667
+      "kimlik": 0.167,
+      "kartı": 0.167,
+      "pin": 0.167,
+      "şifresi": 0.167,
+      "unutulursa": 0.167,
+      "yapılmalı": 0.165
     }
   },
   {
@@ -3037,12 +3027,12 @@
     "answer": "Konsolosluk aracılığıyla doğum bildirimi yapılır. Sonrasında Türkiye'den kimlik kartı talep edilir.",
     "category": "Nüfus",
     "tfidf": {
-      "yurt": 0.166667,
-      "dışında": 0.166667,
-      "doğan": 0.166667,
-      "çocuğun": 0.166667,
-      "kimliği": 0.166667,
-      "çıkarılır": 0.166667
+      "yurt": 0.167,
+      "dışında": 0.167,
+      "doğan": 0.167,
+      "çocuğun": 0.167,
+      "kimliği": 0.167,
+      "çıkarılır": 0.165
     }
   },
   {
@@ -3062,12 +3052,12 @@
     "answer": "Hayır. Türkiye’de adres kayıt sistemi üzerinden sürekli nüfus kayıtları tutulmaktadır, klasik nüfus sayımı yapılmaz.",
     "category": "Nüfus",
     "tfidf": {
-      "evde": 0.166667,
-      "nüfus": 0.166667,
-      "sayımı": 0.166667,
-      "uygulaması": 0.166667,
-      "devam": 0.166667,
-      "ediyor": 0.166667
+      "evde": 0.167,
+      "nüfus": 0.167,
+      "sayımı": 0.167,
+      "uygulaması": 0.167,
+      "devam": 0.167,
+      "ediyor": 0.165
     }
   },
   {
@@ -3087,9 +3077,9 @@
     "answer": "Yeni T.C. Kimlik Kartı ile değiştirilmeyen eski nüfus cüzdanları 2023 sonu itibarıyla geçerliliğini yitirmiştir.",
     "category": "Nüfus",
     "tfidf": {
-      "nüfus": 0.333333,
-      "cüzdanı": 0.333333,
-      "geçerli": 0.333333
+      "nüfus": 0.333,
+      "cüzdanı": 0.333,
+      "geçerli": 0.334
     }
   },
   {
@@ -3179,12 +3169,12 @@
     "answer": "Evet. Yeni çipli kimlik kartları resmi kimlik yerine geçtiğinden tüm banka işlemlerinde kullanılabilir.",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.166667,
-      "kartı": 0.166667,
-      "banka": 0.166667,
-      "hesabı": 0.166667,
-      "açabilir": 0.166667,
-      "miyim": 0.166667
+      "kimlik": 0.167,
+      "kartı": 0.167,
+      "banka": 0.167,
+      "hesabı": 0.167,
+      "açabilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -3227,12 +3217,12 @@
     "answer": "Hayır. Ancak kimliğinizi ibraz etmeniz gereken işlemleri gerçekleştiremezsiniz.",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.166667,
-      "kartını": 0.166667,
-      "evde": 0.166667,
-      "unuttum": 0.166667,
-      "cezası": 0.166667,
-      "olur": 0.166667
+      "kimlik": 0.167,
+      "kartını": 0.167,
+      "evde": 0.167,
+      "unuttum": 0.167,
+      "cezası": 0.167,
+      "olur": 0.165
     }
   },
   {
@@ -3263,12 +3253,12 @@
     "answer": "Nüfus müdürlüğüne giderek PIN sıfırlama işlemi yapabilirsiniz.",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.166667,
-      "kartı": 0.166667,
-      "pin": 0.166667,
-      "bloke": 0.166667,
-      "oldu": 0.166667,
-      "yapmalıyım": 0.166667
+      "kimlik": 0.167,
+      "kartı": 0.167,
+      "pin": 0.167,
+      "bloke": 0.167,
+      "oldu": 0.167,
+      "yapmalıyım": 0.165
     }
   },
   {
@@ -3288,12 +3278,12 @@
     "answer": "Hayır. Yeni kimliklerde medeni hal fiziksel olarak yer almaz; ancak Nüfus Kayıt Örneği'nde görünür.",
     "category": "Nüfus",
     "tfidf": {
-      "kimlik": 0.166667,
-      "kartında": 0.166667,
-      "medeni": 0.166667,
-      "hal": 0.166667,
-      "yer": 0.166667,
-      "alır": 0.166667
+      "kimlik": 0.167,
+      "kartında": 0.167,
+      "medeni": 0.167,
+      "hal": 0.167,
+      "yer": 0.167,
+      "alır": 0.165
     }
   },
   {
@@ -3301,9 +3291,9 @@
     "answer": "e-Devlet'teki 'Dava Dosyası Sorgulama' hizmetiyle UYAP üzerinden dosyanızı görebilirsiniz. https://www.turkiye.gov.tr/davadosyasorgulama",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "dava": 0.333333,
-      "dosyasıma": 0.333333,
-      "ulaşabilirim": 0.333333
+      "dava": 0.333,
+      "dosyasıma": 0.333,
+      "ulaşabilirim": 0.334
     }
   },
   {
@@ -3311,9 +3301,9 @@
     "answer": "e-Devlet üzerinden 'Adli Sicil Kaydı Sorgulama' hizmetiyle ücretsiz alınabilir. https://www.turkiye.gov.tr/adli-sicil-kaydi",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "sabıka": 0.333333,
-      "kaydı": 0.333333,
-      "alınır": 0.333333
+      "sabıka": 0.333,
+      "kaydı": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -3354,9 +3344,9 @@
     "answer": "e-Devlet veya UYAP üzerinden davanıza ait duruşma günü ve saatine ulaşabilirsiniz.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "mahkeme": 0.333333,
-      "tarihi": 0.333333,
-      "öğrenilir": 0.333333
+      "mahkeme": 0.333,
+      "tarihi": 0.333,
+      "öğrenilir": 0.334
     }
   },
   {
@@ -3445,9 +3435,9 @@
     "answer": "Anlaşmalı boşanmalarda birkaç hafta sürebilir. Çekişmeli davalar ise aylar sürebilir.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "boşanma": 0.333333,
-      "davası": 0.333333,
-      "sürer": 0.333333
+      "boşanma": 0.333,
+      "davası": 0.333,
+      "sürer": 0.334
     }
   },
   {
@@ -3455,9 +3445,9 @@
     "answer": "Tanık duruşmada dinlenir ya da istinabe yoluyla beyan alınabilir. Zorunluysa celp çıkarılır.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "tanık": 0.333333,
-      "beyanı": 0.333333,
-      "alınır": 0.333333
+      "tanık": 0.333,
+      "beyanı": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -3476,9 +3466,9 @@
     "answer": "Tebligatta belirtilen mahkeme ya da icra müdürlüğüyle iletişime geçerek içeriğini öğrenin. Sürelere dikkat edin.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "tebligat": 0.333333,
-      "geldi": 0.333333,
-      "yapmalıyım": 0.333333
+      "tebligat": 0.333,
+      "geldi": 0.333,
+      "yapmalıyım": 0.334
     }
   },
   {
@@ -3486,9 +3476,9 @@
     "answer": "Taraf olarak duruşmaya katılmazsanız, dosya gıyabınızda görülür. Tanıksanız zorla getirme kararı çıkabilir.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "duruşmaya": 0.333333,
-      "gitmezsem": 0.333333,
-      "olur": 0.333333
+      "duruşmaya": 0.333,
+      "gitmezsem": 0.333,
+      "olur": 0.334
     }
   },
   {
@@ -3496,9 +3486,9 @@
     "answer": "Evet. UYAP sistemine girişte e-İmza ile kimlik doğrulaması yapılabilir ve dava açılabilir.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "mza": 0.333333,
-      "dava": 0.333333,
-      "açılabilir": 0.333333
+      "mza": 0.333,
+      "dava": 0.333,
+      "açılabilir": 0.334
     }
   },
   {
@@ -3506,9 +3496,9 @@
     "answer": "Dava türüne göre değişir. 2025 yılı için Adalet Bakanlığı Harç Tarifesi’ne bakabilirsiniz. https://www.adalet.gov.tr",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "mahkeme": 0.333333,
-      "harçları": 0.333333,
-      "kadardır": 0.333333
+      "mahkeme": 0.333,
+      "harçları": 0.333,
+      "kadardır": 0.334
     }
   },
   {
@@ -3527,12 +3517,12 @@
     "answer": "Evet. 'Dava Dosyası Sorgulama' hizmetiyle mahkeme sonucu ve karar detaylarını görebilirsiniz.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "dava": 0.166667,
-      "sonuçlarını": 0.166667,
-      "devlet": 0.166667,
-      "ten": 0.166667,
-      "öğrenebilir": 0.166667,
-      "miyim": 0.166667
+      "dava": 0.167,
+      "sonuçlarını": 0.167,
+      "devlet": 0.167,
+      "ten": 0.167,
+      "öğrenebilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -3540,9 +3530,9 @@
     "answer": "UYAP üzerinden PDF olarak indirebilir veya adliyeden ıslak imzalı suret alabilirsiniz.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "mahkeme": 0.333333,
-      "evraklarını": 0.333333,
-      "alabilirim": 0.333333
+      "mahkeme": 0.333,
+      "evraklarını": 0.333,
+      "alabilirim": 0.334
     }
   },
   {
@@ -3550,9 +3540,9 @@
     "answer": "Tutuklama yerine uygulanan, belirli yükümlülükler içeren yargı denetimidir (imza, yurtdışı yasağı vb.).",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "adli": 0.333333,
-      "kontrol": 0.333333,
-      "nedir": 0.333333
+      "adli": 0.333,
+      "kontrol": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -3560,9 +3550,9 @@
     "answer": "Sulh ceza hâkimliği, delil durumuna göre kuvvetli suç şüphesi varsa tutuklama kararı verir.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "tutuklama": 0.333333,
-      "kararı": 0.333333,
-      "verilir": 0.333333
+      "tutuklama": 0.333,
+      "kararı": 0.333,
+      "verilir": 0.334
     }
   },
   {
@@ -3570,9 +3560,9 @@
     "answer": "e-Devlet veya UYAP üzerinden T.C. kimlik numaranızla sorgulama yaparak öğrenebilirsiniz.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "hakkımda": 0.333333,
-      "dava": 0.333333,
-      "açıldı": 0.333333
+      "hakkımda": 0.333,
+      "dava": 0.333,
+      "açıldı": 0.334
     }
   },
   {
@@ -3591,12 +3581,12 @@
     "answer": "Aile mahkemesinde, annenin ya da çocuğun açabileceği dava ile soybağı kurulabilir.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "evlilik": 0.166667,
-      "dışı": 0.166667,
-      "çocuk": 0.166667,
-      "soybağı": 0.166667,
-      "davası": 0.166667,
-      "açılır": 0.166667
+      "evlilik": 0.167,
+      "dışı": 0.167,
+      "çocuk": 0.167,
+      "soybağı": 0.167,
+      "davası": 0.167,
+      "açılır": 0.165
     }
   },
   {
@@ -3627,9 +3617,9 @@
     "answer": "Avukatlar duruşmalara online katılabilir. Vatandaşlar için bazı pilot uygulamalar başlamıştır. https://www.e-durusma.gov.tr",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "duruşma": 0.333333,
-      "sistemi": 0.333333,
-      "nedir": 0.333333
+      "duruşma": 0.333,
+      "sistemi": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -3682,11 +3672,11 @@
     "answer": "Ceza mahkemesi suçlara bakar, hukuk mahkemesi ise özel hukuk uyuşmazlıklarına.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "ceza": 0.166667,
-      "mahkemesi": 0.333333,
-      "hukuk": 0.166667,
-      "farkı": 0.166667,
-      "nedir": 0.166667
+      "ceza": 0.167,
+      "mahkemesi": 0.333,
+      "hukuk": 0.167,
+      "farkı": 0.167,
+      "nedir": 0.166
     }
   },
   {
@@ -3694,9 +3684,9 @@
     "answer": "Tanık, sanık veya taraf olarak mahkemeye çağrılma belgesidir.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "mahkeme": 0.333333,
-      "celbi": 0.333333,
-      "nedir": 0.333333
+      "mahkeme": 0.333,
+      "celbi": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -3715,12 +3705,12 @@
     "answer": "Boşanma kesinleştikten sonra 1 yıl içinde mal rejimi davası açılmalıdır.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "evlilikte": 0.166667,
-      "mal": 0.166667,
-      "paylaşımı": 0.166667,
-      "davası": 0.166667,
-      "zaman": 0.166667,
-      "açılır": 0.166667
+      "evlilikte": 0.167,
+      "mal": 0.167,
+      "paylaşımı": 0.167,
+      "davası": 0.167,
+      "zaman": 0.167,
+      "açılır": 0.165
     }
   },
   {
@@ -3728,9 +3718,9 @@
     "answer": "e-Devlet’te 'Elektronik Tebligat Başvurusu' ile başvuru yapılabilir. https://www.turkiye.gov.tr/etebligat-basvuru",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
-      "tebligat": 0.333333,
-      "sistemine": 0.333333,
-      "geçilir": 0.333333
+      "tebligat": 0.333,
+      "sistemine": 0.333,
+      "geçilir": 0.334
     }
   },
   {
@@ -3738,9 +3728,9 @@
     "answer": "e-Devlet’te 'Araç Plakasına Yazılan Ceza Sorgulama' hizmetiyle öğrenilebilir. https://www.turkiye.gov.tr/emniyet-arac-ceza-sorgulama",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "trafik": 0.333333,
-      "cezası": 0.333333,
-      "sorgulanır": 0.333333
+      "trafik": 0.333,
+      "cezası": 0.333,
+      "sorgulanır": 0.334
     }
   },
   {
@@ -3748,9 +3738,9 @@
     "answer": "Gelir İdaresi Başkanlığı’nın https://ivd.gib.gov.tr adresinden veya PTT, banka ve mobil bankacılık üzerinden ödenebilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "trafik": 0.333333,
-      "cezası": 0.333333,
-      "ödenir": 0.333333
+      "trafik": 0.333,
+      "cezası": 0.333,
+      "ödenir": 0.334
     }
   },
   {
@@ -3758,9 +3748,9 @@
     "answer": "https://randevu.nvi.gov.tr adresinden randevu alınarak nüfus müdürlüğüne gerekli belgelerle başvuru yapılır.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "ehliyet": 0.333333,
-      "başvurusu": 0.333333,
-      "yapılır": 0.333333
+      "ehliyet": 0.333,
+      "başvurusu": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -3777,12 +3767,12 @@
     "answer": "Genellikle başvurudan sonra 1 hafta içinde PTT ile adresinize gönderilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "yeni": 0.166667,
-      "ehliyet": 0.166667,
-      "kaç": 0.166667,
-      "günde": 0.166667,
-      "teslim": 0.166667,
-      "edilir": 0.166667
+      "yeni": 0.167,
+      "ehliyet": 0.167,
+      "kaç": 0.167,
+      "günde": 0.167,
+      "teslim": 0.167,
+      "edilir": 0.165
     }
   },
   {
@@ -3834,9 +3824,9 @@
     "answer": "Sürücü kursunu tamamlayanlar e-Sınav merkezinden randevu alarak teorik sınava katılır.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "ehliyet": 0.333333,
-      "sınavına": 0.333333,
-      "girilir": 0.333333
+      "ehliyet": 0.333,
+      "sınavına": 0.333,
+      "girilir": 0.334
     }
   },
   {
@@ -3855,12 +3845,12 @@
     "answer": "Araç sahibi adına yazılır. Ancak sürücünün kimliği tespit edildiyse onun adına da düzenlenebilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "plaka": 0.166667,
-      "üzerindeki": 0.166667,
-      "ceza": 0.166667,
-      "başka": 0.166667,
-      "biri": 0.166667,
-      "adına": 0.166667
+      "plaka": 0.167,
+      "üzerindeki": 0.167,
+      "ceza": 0.167,
+      "başka": 0.167,
+      "biri": 0.167,
+      "adına": 0.165
     }
   },
   {
@@ -3890,9 +3880,9 @@
     "answer": "Nüfus müdürlüğüne kayıp başvurusu yapılır. Biyometrik fotoğraf ve ücret dekontu gerekir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "ehliyetim": 0.333333,
-      "kayboldu": 0.333333,
-      "yapmalıyım": 0.333333
+      "ehliyetim": 0.333,
+      "kayboldu": 0.333,
+      "yapmalıyım": 0.334
     }
   },
   {
@@ -3911,9 +3901,9 @@
     "answer": "Ortalama 690–900 TL arasındadır. Aracın çekilmesi durumunda çekici ve otopark ücretleri de eklenir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "park": 0.333333,
-      "yasağı": 0.333333,
-      "cezası": 0.333333
+      "park": 0.333,
+      "yasağı": 0.333,
+      "cezası": 0.334
     }
   },
   {
@@ -3965,9 +3955,9 @@
     "answer": "İl emniyet müdürlüklerinden başvuru yapılır. Özel plaka için belirli bağış veya ücret istenebilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "özel": 0.333333,
-      "plaka": 0.333333,
-      "alınır": 0.333333
+      "özel": 0.333,
+      "plaka": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -3986,9 +3976,9 @@
     "answer": "e-Devlet’te veya EGM (Emniyet Genel Müdürlüğü) sitesinde plaka ile sorgulama yapılabilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "radar": 0.333333,
-      "cezası": 0.333333,
-      "öğrenilir": 0.333333
+      "radar": 0.333,
+      "cezası": 0.333,
+      "öğrenilir": 0.334
     }
   },
   {
@@ -3996,12 +3986,12 @@
     "answer": "Araç trafikten men edilir ve cezai işlem uygulanır. 2025'te ceza 2.000 TL üzerindedir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "trafik": 0.166667,
-      "sigortası": 0.166667,
-      "olmadan": 0.166667,
-      "araç": 0.166667,
-      "kullanırsam": 0.166667,
-      "olur": 0.166667
+      "trafik": 0.167,
+      "sigortası": 0.167,
+      "olmadan": 0.167,
+      "araç": 0.167,
+      "kullanırsam": 0.167,
+      "olur": 0.165
     }
   },
   {
@@ -4091,12 +4081,12 @@
     "answer": "Cezaya konu eksiklik giderildikten sonra otoparktan araç alınabilir. Gider ve cezalar ödenmelidir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "trafikten": 0.166667,
-      "men": 0.166667,
-      "edilen": 0.166667,
-      "araç": 0.166667,
-      "geri": 0.166667,
-      "alınır": 0.166667
+      "trafikten": 0.167,
+      "men": 0.167,
+      "edilen": 0.167,
+      "araç": 0.167,
+      "geri": 0.167,
+      "alınır": 0.165
     }
   },
   {
@@ -4150,12 +4140,12 @@
     "answer": "Evet. Tutulan tutanaklar sigorta sistemiyle entegre olarak e-Devlet’te görüntülenebilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
-      "trafik": 0.166667,
-      "kazası": 0.166667,
-      "raporu": 0.166667,
-      "devlet": 0.166667,
-      "ten": 0.166667,
-      "görülebilir": 0.166667
+      "trafik": 0.167,
+      "kazası": 0.167,
+      "raporu": 0.167,
+      "devlet": 0.167,
+      "ten": 0.167,
+      "görülebilir": 0.165
     }
   },
   {
@@ -4209,9 +4199,9 @@
     "answer": "Taşınmazın bulunduğu belediyeye yılda iki taksitte ödenen temizlik vergisidir. Su faturası ile tahsil edilebilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "çöp": 0.333333,
-      "vergisi": 0.333333,
-      "nedir": 0.333333
+      "çöp": 0.333,
+      "vergisi": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -4230,9 +4220,9 @@
     "answer": "Belediyeden yapı ruhsatı alınarak inşa edilen, yasal onaylı yapılardır.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "ruhsatlı": 0.333333,
-      "yapı": 0.333333,
-      "nedir": 0.333333
+      "ruhsatlı": 0.333,
+      "yapı": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -4240,9 +4230,9 @@
     "answer": "İmar planına uygun proje ve belgelerle belediyeye başvuru yapılarak alınır.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "nşaat": 0.333333,
-      "ruhsatı": 0.333333,
-      "alınır": 0.333333
+      "nşaat": 0.333,
+      "ruhsatı": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -4250,9 +4240,9 @@
     "answer": "Yapının oturuma uygun olduğunu gösteren, yapı kullanım izni belgesidir. Belediyece verilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "skan": 0.333333,
-      "belgesi": 0.333333,
-      "nedir": 0.333333
+      "skan": 0.333,
+      "belgesi": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -4260,9 +4250,9 @@
     "answer": "Yapının adres kaydı için belediyeye başvurularak alınan resmi belgedir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "numarataj": 0.333333,
-      "belgesi": 0.333333,
-      "alınır": 0.333333
+      "numarataj": 0.333,
+      "belgesi": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -4270,12 +4260,12 @@
     "answer": "Hayır. e-Devlet’ten veya nüfus müdürlüğünden adres değişikliği bildirimi yapılabilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "yeni": 0.166667,
-      "adres": 0.166667,
-      "bildiriminde": 0.166667,
-      "belediyeye": 0.166667,
-      "gitmek": 0.166667,
-      "gerekir": 0.166667
+      "yeni": 0.167,
+      "adres": 0.167,
+      "bildiriminde": 0.167,
+      "belediyeye": 0.167,
+      "gitmek": 0.167,
+      "gerekir": 0.165
     }
   },
   {
@@ -4305,9 +4295,9 @@
     "answer": "Başvuru konusu, isim, adres ve iletişim bilgileri ile resmi ve sade bir dille yazılmalıdır.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "belediyeye": 0.333333,
-      "dilekçe": 0.333333,
-      "yazılır": 0.333333
+      "belediyeye": 0.333,
+      "dilekçe": 0.333,
+      "yazılır": 0.334
     }
   },
   {
@@ -4338,9 +4328,9 @@
     "answer": "İlgili belediyenin harita biriminden veya web sitesinden mahalle sınırları görülebilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "belediye": 0.333333,
-      "sınırları": 0.333333,
-      "öğrenilir": 0.333333
+      "belediye": 0.333,
+      "sınırları": 0.333,
+      "öğrenilir": 0.334
     }
   },
   {
@@ -4495,12 +4485,12 @@
     "answer": "Yazılı dilekçe ile belediyeye başvuru yapılmalıdır. Ticari amaçla genelde ücretlidir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "belediye": 0.166667,
-      "ilan": 0.166667,
-      "panosu": 0.166667,
-      "kullanım": 0.166667,
-      "izni": 0.166667,
-      "alınır": 0.166667
+      "belediye": 0.167,
+      "ilan": 0.167,
+      "panosu": 0.167,
+      "kullanım": 0.167,
+      "izni": 0.167,
+      "alınır": 0.165
     }
   },
   {
@@ -4508,9 +4498,9 @@
     "answer": "Evlendirme dairesine dilekçe ile başvuru yapılarak iptal işlemi yapılabilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "nikah": 0.333333,
-      "iptali": 0.333333,
-      "yapılır": 0.333333
+      "nikah": 0.333,
+      "iptali": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -4529,9 +4519,9 @@
     "answer": "Resmi web sitesindeki iletişim bölümü, halk günü randevusu veya dilekçe ile başvuru yapılabilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "belediye": 0.333333,
-      "başkanına": 0.333333,
-      "ulaşabilirim": 0.333333
+      "belediye": 0.333,
+      "başkanına": 0.333,
+      "ulaşabilirim": 0.334
     }
   },
   {
@@ -4539,13 +4529,13 @@
     "answer": "Zabıta veya trafik polisi tarafından kesilir. Ödemeler belediye veznesi veya online yapılabilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "belediye": 0.142857,
-      "sınırları": 0.142857,
-      "içinde": 0.142857,
-      "otopark": 0.142857,
-      "cezasını": 0.142857,
-      "kim": 0.142857,
-      "keser": 0.142857
+      "belediye": 0.143,
+      "sınırları": 0.143,
+      "içinde": 0.143,
+      "otopark": 0.143,
+      "cezasını": 0.143,
+      "kim": 0.143,
+      "keser": 0.142
     }
   },
   {
@@ -4565,12 +4555,12 @@
     "answer": "Zabıta ve ilan-reklam müdürlüğüne yazılı başvuru yapılmalıdır. Ücrete tabi olabilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "şehir": 0.166667,
-      "içi": 0.166667,
-      "tabela": 0.166667,
-      "yerleştirme": 0.166667,
-      "izni": 0.166667,
-      "alınır": 0.166667
+      "şehir": 0.167,
+      "içi": 0.167,
+      "tabela": 0.167,
+      "yerleştirme": 0.167,
+      "izni": 0.167,
+      "alınır": 0.165
     }
   },
   {
@@ -4590,12 +4580,12 @@
     "answer": "Sosyal hizmet birimine başvurularak gelir durumu ve ikamet belgeleriyle destek talep edilebilir.",
     "category": "Belediye İşlemleri",
     "tfidf": {
-      "belediye": 0.166667,
-      "tarafından": 0.166667,
-      "yapılan": 0.166667,
-      "kira": 0.166667,
-      "yardımı": 0.166667,
-      "alınır": 0.166667
+      "belediye": 0.167,
+      "tarafından": 0.167,
+      "yapılan": 0.167,
+      "kira": 0.167,
+      "yardımı": 0.167,
+      "alınır": 0.165
     }
   },
   {
@@ -4659,12 +4649,12 @@
     "answer": "2023 itibarıyla HES kodu zorunluluğu kaldırılmıştır. Gidilecek ülkenin kuralları kontrol edilmelidir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurt": 0.166667,
-      "dışına": 0.166667,
-      "çıkarken": 0.166667,
-      "hes": 0.166667,
-      "kodu": 0.166667,
-      "gerekli": 0.166667
+      "yurt": 0.167,
+      "dışına": 0.167,
+      "çıkarken": 0.167,
+      "hes": 0.167,
+      "kodu": 0.167,
+      "gerekli": 0.165
     }
   },
   {
@@ -4672,9 +4662,9 @@
     "answer": "https://randevu.nvi.gov.tr üzerinden randevu alarak il/ilçe nüfus müdürlüğünden başvuru yapılır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "pasaport": 0.333333,
-      "başvurusu": 0.333333,
-      "yapılır": 0.333333
+      "pasaport": 0.333,
+      "başvurusu": 0.333,
+      "yapılır": 0.334
     }
   },
   {
@@ -4735,9 +4725,9 @@
     "answer": "En yakın emniyet birimine veya yurt dışında konsolosluğa başvuru yapılmalıdır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "pasaport": 0.333333,
-      "kaybolursa": 0.333333,
-      "yapılmalı": 0.333333
+      "pasaport": 0.333,
+      "kaybolursa": 0.333,
+      "yapılmalı": 0.334
     }
   },
   {
@@ -4745,9 +4735,9 @@
     "answer": "Velileriyle birlikte randevu alınarak, muvafakatname ile pasaport başvurusu yapılır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "çocuklara": 0.333333,
-      "pasaport": 0.333333,
-      "alınır": 0.333333
+      "çocuklara": 0.333,
+      "pasaport": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -4755,12 +4745,12 @@
     "answer": "Bulunduğunuz ülkedeki konsolosluk aracılığıyla nüfus kayıt işlemleri yapılabilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurt": 0.166667,
-      "dışında": 0.166667,
-      "doğan": 0.166667,
-      "çocuğa": 0.166667,
-      "kimliği": 0.166667,
-      "alınır": 0.166667
+      "yurt": 0.167,
+      "dışında": 0.167,
+      "doğan": 0.167,
+      "çocuğa": 0.167,
+      "kimliği": 0.167,
+      "alınır": 0.165
     }
   },
   {
@@ -4821,12 +4811,12 @@
     "answer": "730 gün boyunca yabancı plakalı araç Türkiye’de kalabilir. Bazı şartlar aranmaktadır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "gurbetçiler": 0.166667,
-      "türkiye": 0.166667,
-      "ye": 0.166667,
-      "süre": 0.166667,
-      "araç": 0.166667,
-      "getirebilir": 0.166667
+      "gurbetçiler": 0.167,
+      "türkiye": 0.167,
+      "ye": 0.167,
+      "süre": 0.167,
+      "araç": 0.167,
+      "getirebilir": 0.165
     }
   },
   {
@@ -4846,9 +4836,9 @@
     "answer": "2024 yılı için IMEI kayıt ücreti 31.692 TL’dir. Güncel tutar BTK tarafından açıklanır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "imei": 0.333333,
-      "kayıt": 0.333333,
-      "ücreti": 0.333333
+      "imei": 0.333,
+      "kayıt": 0.333,
+      "ücreti": 0.334
     }
   },
   {
@@ -4880,15 +4870,15 @@
     "answer": "Doğum belgesi ve kimlikle konsolosluğa başvurarak T.C. nüfusuna kayıt işlemi yapılır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurt": 0.111111,
-      "dışında": 0.111111,
-      "doğum": 0.111111,
-      "yapan": 0.111111,
-      "türk": 0.111111,
-      "vatandaşı": 0.111111,
-      "kadın": 0.111111,
-      "çocuğu": 0.111111,
-      "kaydettirir": 0.111111
+      "yurt": 0.111,
+      "dışında": 0.111,
+      "doğum": 0.111,
+      "yapan": 0.111,
+      "türk": 0.111,
+      "vatandaşı": 0.111,
+      "kadın": 0.111,
+      "çocuğu": 0.111,
+      "kaydettirir": 0.112
     }
   },
   {
@@ -4908,9 +4898,9 @@
     "answer": "Yabancı mahkeme kararlarının Türkiye’de geçerli sayılması için mahkemeye yapılan başvuru sürecidir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "tanıma": 0.333333,
-      "tenfiz": 0.333333,
-      "nedir": 0.333333
+      "tanıma": 0.333,
+      "tenfiz": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -4918,15 +4908,15 @@
     "answer": "Evet. Borçlanma yoluyla sigorta primleri ödenerek emeklilik hakkı kazanılabilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurt": 0.111111,
-      "dışında": 0.111111,
-      "yaşayan": 0.111111,
-      "türk": 0.111111,
-      "vatandaşları": 0.111111,
-      "türkiye": 0.111111,
-      "sgk": 0.111111,
-      "hizmetinden": 0.111111,
-      "yararlanabilir": 0.111111
+      "yurt": 0.111,
+      "dışında": 0.111,
+      "yaşayan": 0.111,
+      "türk": 0.111,
+      "vatandaşları": 0.111,
+      "türkiye": 0.111,
+      "sgk": 0.111,
+      "hizmetinden": 0.111,
+      "yararlanabilir": 0.112
     }
   },
   {
@@ -4945,12 +4935,12 @@
     "answer": "Yurtdışı hizmet borçlanması yaparak SGK’dan emeklilik başvurusunda bulunabilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurtdışında": 0.166667,
-      "çalışan": 0.166667,
-      "biri": 0.166667,
-      "türkiye": 0.166667,
-      "emekli": 0.166667,
-      "olur": 0.166667
+      "yurtdışında": 0.167,
+      "çalışan": 0.167,
+      "biri": 0.167,
+      "türkiye": 0.167,
+      "emekli": 0.167,
+      "olur": 0.165
     }
   },
   {
@@ -4958,9 +4948,9 @@
     "answer": "Bazı ülkeler çifte vatandaşlığa izin verir. Türkiye çifte vatandaşlığı tanır. Başvurular ülkeye göre değişir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "çifte": 0.333333,
-      "vatandaşlık": 0.333333,
-      "alınır": 0.333333
+      "çifte": 0.333,
+      "vatandaşlık": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -4968,12 +4958,12 @@
     "answer": "Kimlik, pasaport, öğrenci belgesi onayı, noter işlemleri gibi resmi hizmetler verilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurtdışında": 0.166667,
-      "okuyan": 0.166667,
-      "öğrenciler": 0.166667,
-      "işlemleri": 0.166667,
-      "konsolosluktan": 0.166667,
-      "yapabilir": 0.166667
+      "yurtdışında": 0.167,
+      "okuyan": 0.167,
+      "öğrenciler": 0.167,
+      "işlemleri": 0.167,
+      "konsolosluktan": 0.167,
+      "yapabilir": 0.165
     }
   },
   {
@@ -4981,15 +4971,15 @@
     "answer": "İl Göç İdaresi Müdürlüğüne online randevu alarak öğrenci ikamet izni başvurusu yapılır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "türkiye": 0.111111,
-      "öğrenci": 0.111111,
-      "olan": 0.111111,
-      "yabancı": 0.111111,
-      "uyruklu": 0.111111,
-      "kişi": 0.111111,
-      "ikamet": 0.111111,
-      "iznini": 0.111111,
-      "alır": 0.111111
+      "türkiye": 0.111,
+      "öğrenci": 0.111,
+      "olan": 0.111,
+      "yabancı": 0.111,
+      "uyruklu": 0.111,
+      "kişi": 0.111,
+      "ikamet": 0.111,
+      "iznini": 0.111,
+      "alır": 0.112
     }
   },
   {
@@ -4997,12 +4987,12 @@
     "answer": "Vize ihlali, suç kaydı, kamu düzenine aykırı davranışlar gibi nedenlerle giriş yasağı uygulanabilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "türkiye": 0.166667,
-      "ye": 0.166667,
-      "giriş": 0.166667,
-      "yasağı": 0.166667,
-      "neden": 0.166667,
-      "konur": 0.166667
+      "türkiye": 0.167,
+      "ye": 0.167,
+      "giriş": 0.167,
+      "yasağı": 0.167,
+      "neden": 0.167,
+      "konur": 0.165
     }
   },
   {
@@ -5010,9 +5000,9 @@
     "answer": "İtiraz dilekçesiyle başvuru yapılır. Gerekirse avukat aracılığıyla idare mahkemesine dava açılır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "giriş": 0.333333,
-      "yasağı": 0.333333,
-      "kaldırılır": 0.333333
+      "giriş": 0.333,
+      "yasağı": 0.333,
+      "kaldırılır": 0.334
     }
   },
   {
@@ -5020,9 +5010,9 @@
     "answer": "Belirli ülke vatandaşlarının belirli süreli ziyaretlerinde vize istenmemesidir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "vize": 0.333333,
-      "muafiyeti": 0.333333,
-      "nedir": 0.333333
+      "vize": 0.333,
+      "muafiyeti": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -5041,9 +5031,9 @@
     "answer": "26 Avrupa ülkesinde geçerli olan ortak vizedir. Kısa süreli turistik veya ticari amaçlarla verilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "schengen": 0.333333,
-      "vizesi": 0.333333,
-      "nedir": 0.333333
+      "schengen": 0.333,
+      "vizesi": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -5051,12 +5041,12 @@
     "answer": "Giriş-çıkış tarihleri pasaportta mühürlenir ve sistemsel olarak kayıt altına alınır.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurt": 0.166667,
-      "dışında": 0.166667,
-      "kalan": 0.166667,
-      "süre": 0.166667,
-      "pasaporta": 0.166667,
-      "yansır": 0.166667
+      "yurt": 0.167,
+      "dışında": 0.167,
+      "kalan": 0.167,
+      "süre": 0.167,
+      "pasaporta": 0.167,
+      "yansır": 0.165
     }
   },
   {
@@ -5076,13 +5066,13 @@
     "answer": "SGK üzerinden genel sağlık sigortası yaptırarak hizmet alabilir. Gelir testi gerekebilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "yurtdışında": 0.142857,
-      "okuyan": 0.142857,
-      "öğrenci": 0.142857,
-      "türkiye": 0.142857,
-      "sağlık": 0.142857,
-      "hizmeti": 0.142857,
-      "alabilir": 0.142857
+      "yurtdışında": 0.143,
+      "okuyan": 0.143,
+      "öğrenci": 0.143,
+      "türkiye": 0.143,
+      "sağlık": 0.143,
+      "hizmeti": 0.143,
+      "alabilir": 0.142
     }
   },
   {
@@ -5090,12 +5080,12 @@
     "answer": "Banka, Western Union veya online para transferi sistemleriyle gönderim yapılabilir.",
     "category": "Yurt Dışı İşlemleri",
     "tfidf": {
-      "türkiye": 0.166667,
-      "den": 0.166667,
-      "yurtdışına": 0.166667,
-      "para": 0.166667,
-      "transferi": 0.166667,
-      "yapılır": 0.166667
+      "türkiye": 0.167,
+      "den": 0.167,
+      "yurtdışına": 0.167,
+      "para": 0.167,
+      "transferi": 0.167,
+      "yapılır": 0.165
     }
   },
   {
@@ -5148,9 +5138,9 @@
     "answer": "Çök-Kapan-Tutun yöntemi uygulanmalı, camlardan uzak durulmalı ve bina sarsıntı geçmeden terk edilmemelidir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "deprem": 0.333333,
-      "anında": 0.333333,
-      "yapmalıyım": 0.333333
+      "deprem": 0.333,
+      "anında": 0.333,
+      "yapmalıyım": 0.334
     }
   },
   {
@@ -5158,9 +5148,9 @@
     "answer": "https://gonullu.afad.gov.tr adresinden kayıt olarak çevrimiçi eğitimleri tamamlayıp gönüllü olabilirsiniz.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afad": 0.333333,
-      "gönüllüsü": 0.333333,
-      "olunur": 0.333333
+      "afad": 0.333,
+      "gönüllüsü": 0.333,
+      "olunur": 0.334
     }
   },
   {
@@ -5199,12 +5189,12 @@
     "answer": "Hasar tespiti sonrası AFAD ve ilgili kurumlar tarafından barınma, gıda ve maddi destek sağlanabilir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afet": 0.166667,
-      "durumunda": 0.166667,
-      "evime": 0.166667,
-      "yardım": 0.166667,
-      "alabilir": 0.166667,
-      "miyim": 0.166667
+      "afet": 0.167,
+      "durumunda": 0.167,
+      "evime": 0.167,
+      "yardım": 0.167,
+      "alabilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -5212,12 +5202,12 @@
     "answer": "İl/ilçe kaymakamlıkları veya e-Devlet’teki 'Afet Acil Yardım Talebi' üzerinden başvuru yapılabilir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afad": 0.166667,
-      "dan": 0.166667,
-      "maddi": 0.166667,
-      "yardım": 0.166667,
-      "başvurusu": 0.166667,
-      "yapılır": 0.166667
+      "afad": 0.167,
+      "dan": 0.167,
+      "maddi": 0.167,
+      "yardım": 0.167,
+      "başvurusu": 0.167,
+      "yapılır": 0.165
     }
   },
   {
@@ -5225,9 +5215,9 @@
     "answer": "Yüksek yerlere çıkmalı, elektrikli aletlerden uzak durulmalı ve araçla su dolu yollardan geçilmemelidir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "sel": 0.333333,
-      "felaketinde": 0.333333,
-      "yapmalıyım": 0.333333
+      "sel": 0.333,
+      "felaketinde": 0.333,
+      "yapmalıyım": 0.334
     }
   },
   {
@@ -5247,9 +5237,9 @@
     "answer": "AFAD, Kızılay ve Sağlık Bakanlığı onaylı merkezlerden sertifikalı ilk yardım eğitimi alınabilir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "lkyardım": 0.333333,
-      "eğitimi": 0.333333,
-      "alınır": 0.333333
+      "lkyardım": 0.333,
+      "eğitimi": 0.333,
+      "alınır": 0.334
     }
   },
   {
@@ -5268,12 +5258,12 @@
     "answer": "Aile ve Sosyal Hizmetler Bakanlığı ve AFAD psikososyal destek hizmeti sunmaktadır.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afet": 0.166667,
-      "sonrasında": 0.166667,
-      "psikolojik": 0.166667,
-      "destek": 0.166667,
-      "alabilir": 0.166667,
-      "miyim": 0.166667
+      "afet": 0.167,
+      "sonrasında": 0.167,
+      "psikolojik": 0.167,
+      "destek": 0.167,
+      "alabilir": 0.167,
+      "miyim": 0.165
     }
   },
   {
@@ -5281,13 +5271,13 @@
     "answer": "AFAD ve Çevre, Şehircilik Bakanlığı ekipleri hasar tespiti yapar. Raporla güvenlik seviyesi belirlenir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "deprem": 0.142857,
-      "sonrası": 0.142857,
-      "binamın": 0.142857,
-      "güvenli": 0.142857,
-      "olup": 0.142857,
-      "olmadığını": 0.142857,
-      "anlarım": 0.142857
+      "deprem": 0.143,
+      "sonrası": 0.143,
+      "binamın": 0.143,
+      "güvenli": 0.143,
+      "olup": 0.143,
+      "olmadığını": 0.143,
+      "anlarım": 0.142
     }
   },
   {
@@ -5295,9 +5285,9 @@
     "answer": "Afet sırasında bina, okul veya işyerinden hızlı ve güvenli çıkış için oluşturulan plandır.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "tahliye": 0.333333,
-      "planı": 0.333333,
-      "nedir": 0.333333
+      "tahliye": 0.333,
+      "planı": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -5349,13 +5339,13 @@
     "answer": "Uzman kontrolü yapılmadan bu hatlara müdahale edilmemelidir. Yetkililerden bilgi alınmalıdır.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afet": 0.142857,
-      "sonrası": 0.142857,
-      "elektrik": 0.142857,
-      "su": 0.142857,
-      "doğalgaz": 0.142857,
-      "kontrolleri": 0.142857,
-      "yapılır": 0.142857
+      "afet": 0.143,
+      "sonrası": 0.143,
+      "elektrik": 0.143,
+      "su": 0.143,
+      "doğalgaz": 0.143,
+      "kontrolleri": 0.143,
+      "yapılır": 0.142
     }
   },
   {
@@ -5386,12 +5376,12 @@
     "answer": "AFAD’a veya yerel yönetime başvurarak ihtiyaçlar bildirilebilir. ALO 122 hattı da kullanılabilir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afet": 0.166667,
-      "sonrasında": 0.166667,
-      "yardım": 0.166667,
-      "çadırı": 0.166667,
-      "talebi": 0.166667,
-      "yapılır": 0.166667
+      "afet": 0.167,
+      "sonrasında": 0.167,
+      "yardım": 0.167,
+      "çadırı": 0.167,
+      "talebi": 0.167,
+      "yapılır": 0.165
     }
   },
   {
@@ -5422,13 +5412,13 @@
     "answer": "Mobil cihazlara afet bölgesinde bulunanlara gönderilen, acil durum uyarı sistemidir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afad": 0.142857,
-      "dan": 0.142857,
-      "gelen": 0.142857,
-      "acil": 0.142857,
-      "uyarı": 0.142857,
-      "bildirimleri": 0.142857,
-      "nedir": 0.142857
+      "afad": 0.143,
+      "dan": 0.143,
+      "gelen": 0.143,
+      "acil": 0.143,
+      "uyarı": 0.143,
+      "bildirimleri": 0.143,
+      "nedir": 0.142
     }
   },
   {
@@ -5471,12 +5461,12 @@
     "answer": "Kaymakamlık, AFAD İl Müdürlükleri ve e-Devlet üzerinden başvuru yapılabilir.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "afet": 0.166667,
-      "sonrası": 0.166667,
-      "yardım": 0.166667,
-      "başvurusu": 0.166667,
-      "nereye": 0.166667,
-      "yapılır": 0.166667
+      "afet": 0.167,
+      "sonrası": 0.167,
+      "yardım": 0.167,
+      "başvurusu": 0.167,
+      "nereye": 0.167,
+      "yapılır": 0.165
     }
   },
   {
@@ -5518,9 +5508,9 @@
     "answer": "Olası deprem anı senaryosuyla yapılan eğitim ve tatbikattır. Okullarda ve kurumlarda periyodik olarak yapılır.",
     "category": "Afet ve Acil Durum",
     "tfidf": {
-      "deprem": 0.333333,
-      "tatbikatı": 0.333333,
-      "nedir": 0.333333
+      "deprem": 0.333,
+      "tatbikatı": 0.333,
+      "nedir": 0.334
     }
   },
   {
@@ -5566,6 +5556,2923 @@
       "bölgesine": 0.25,
       "bağış": 0.25,
       "yapılır": 0.25
+    }
+  },
+  {
+    "question": "GSS prim borcumu nereden sorgularım?",
+    "answer": "e-Devlet’te SGK ‘Genel Sağlık Sigortası Tescil ve Prim Borcu Sorgulama’ hizmetinden GSS durumunuzu ve borçlarınızı görüntüleyebilirsiniz. https://www.turkiye.gov.tr/sgk-gss-borc-dokumu",
+    "category": "SGK",
+    "tfidf": {
+      "gss": 0.2,
+      "prim": 0.2,
+      "borcu": 0.2,
+      "sgk": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "4B (Bağkur) prim borç ve ödeme dökümünü nasıl görürüm?",
+    "answer": "e-Devlet’te ‘4B Borç Durumu’ ile prim borçlarını, ‘4B Ödeme Dökümü’ ile yaptığınız ödemeleri görüntüleyebilirsiniz. https://www.turkiye.gov.tr/4b-borc-durumu https://www.turkiye.gov.tr/4b-odeme-dokumu",
+    "category": "SGK",
+    "tfidf": {
+      "4b": 0.2,
+      "borç": 0.2,
+      "ödeme": 0.2,
+      "sgk": 0.2,
+      "bağkur": 0.2
+    }
+  },
+  {
+    "question": "4A hizmet dökümümü (son 6 ay) nasıl alırım?",
+    "answer": "e-Devlet’te ‘4A Hizmet Dökümü (Son 6 ay)’ hizmetini açıp barkodlu çıktı alabilirsiniz. https://www.turkiye.gov.tr/4a-hizmet-dokumu",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.25,
+      "hizmet": 0.25,
+      "dökümü": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Sosyal güvenlik kayıt belgesini barkodlu nasıl alırım?",
+    "answer": "e-Devlet’te ‘Sosyal Güvenlik Kayıt Belgesi Sorgulama’ hizmetinden 4A/4B/4C kayıtlarınızı içeren barkodlu belge oluşturabilirsiniz. https://www.turkiye.gov.tr/sosyal-guvenlik-kayit-belgesi-sorgulama",
+    "category": "SGK",
+    "tfidf": {
+      "sosyal": 0.2,
+      "güvenlik": 0.2,
+      "kayıt": 0.2,
+      "belgesi": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "İşe giriş çıkış bildirgemi e-Devlet’ten nasıl görüntülerim?",
+    "answer": "e-Devlet’te ‘4A İşe Giriş Çıkış Bildirgesi’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/sosyal-guvenlik-4a-ise-giris-cikis-bildirgesi",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "işe": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "bildirgesi": 0.2
+    }
+  },
+  {
+    "question": "Gelir testi sonucumu nereden görebilirim?",
+    "answer": "e-Devlet’te ‘Gelir Testi Sonucu Sorgulama’ (Aile ve Sosyal Hizmetler) hizmetinden sonuçlarınızı görüntüleyebilirsiniz. https://www.turkiye.gov.tr/ashb-gelir-testi-sonucu-sorgulama",
+    "category": "SGK",
+    "tfidf": {
+      "gelir": 0.2,
+      "testi": 0.2,
+      "sonucu": 0.2,
+      "gss": 0.2,
+      "ashb": 0.2
+    }
+  },
+  {
+    "question": "Vergi borcumu nasıl sorgulayıp ödeyebilirim?",
+    "answer": "e-Devlet’te GİB ‘Vergi Borcu Sorgulama ve Ödeme’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/gib-vergi-borcu-sorgu",
+    "category": "Vergi",
+    "tfidf": {
+      "vergi": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "ödeme": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "MTV borcumu nereden öderim?",
+    "answer": "e-Devlet’te GİB ‘Motorlu Taşıtlar Vergisi Sorgulama ve Kredi Kartı ile Ödeme’ hizmeti üzerinden ödeme yapabilirsiniz. https://www.turkiye.gov.tr/gib-intvrg-motorlu-tasitlar-vergisi-sorgulama-ve-kredi-karti-ile-odeme",
+    "category": "Vergi",
+    "tfidf": {
+      "mtv": 0.2,
+      "motorlu": 0.2,
+      "taşıtlar": 0.2,
+      "vergi": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "Yapılandırılan vergi borçlarımı nasıl görüntülerim?",
+    "answer": "e-Devlet’te GİB ‘Tüm Yapılandırılan Vergi Borçları Sorgulama ve Ödeme’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/gib-intvrg-tum-yapilandirilan-vergi-borclari",
+    "category": "Vergi",
+    "tfidf": {
+      "vergi": 0.2,
+      "yapılandırma": 0.2,
+      "borç": 0.2,
+      "sorgulama": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "e-Vergi levhasını nereden görüntülerim?",
+    "answer": "e-Devlet’te GİB ‘e-Vergi Levhası Sorgulama’ hizmetinden erişebilirsiniz. https://www.turkiye.gov.tr/e-vergi-levhasi-sorgulama",
+    "category": "Vergi",
+    "tfidf": {
+      "e": 0.25,
+      "vergi": 0.25,
+      "levhası": 0.25,
+      "gib": 0.25
+    }
+  },
+  {
+    "question": "Tapu harcı ve döner sermaye ödemesini nasıl yaparım?",
+    "answer": "e-Devlet’te ‘Tapu ve Kadastro Harç ve Döner Sermaye Sorgulama / Ödeme’ hizmetinden e-tahsilat numarasıyla ödeme yapabilirsiniz. https://www.turkiye.gov.tr/tapu-harc-sorgulama",
+    "category": "Vergi",
+    "tfidf": {
+      "tapu": 0.2,
+      "harcı": 0.2,
+      "döner": 0.2,
+      "sermaye": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Tapu harcı borcumu GİB üzerinden ödeyebilir miyim?",
+    "answer": "Evet. GİB ‘Tapu Harcı Sorgulama ve Ödeme’ hizmetini kullanabilirsiniz. https://turkiye.gov.tr/gib-intvrg-tapu-harci-sorgulama-ve-odeme",
+    "category": "Vergi",
+    "tfidf": {
+      "tapu": 0.25,
+      "harcı": 0.25,
+      "gib": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "WebTapu üzerinden satış işlemlerine nasıl başlarım?",
+    "answer": "e-Devlet’te ‘Web Tapu İşlemleri’ hizmetiyle başvuru başlatabilir, belgeleri yükleyebilirsiniz. https://www.turkiye.gov.tr/tkgm-web-tapu",
+    "category": "Tapu",
+    "tfidf": {
+      "webtapu": 0.2,
+      "tkgm": 0.2,
+      "satış": 0.2,
+      "başvuru": 0.2,
+      "işlemleri": 0.2
+    }
+  },
+  {
+    "question": "Üzerime kayıtlı taşınmazları e-Devlet’ten nasıl görürüm?",
+    "answer": "e-Devlet’te ‘Tapu Bilgileri Sorgulama’ hizmeti üzerinden taşınmazlarınızı listeleyebilirsiniz. https://www.turkiye.gov.tr/tapu-ve-kadastro-genel-mudurlugu",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.25,
+      "bilgileri": 0.25,
+      "sorgulama": 0.25,
+      "tkgm": 0.25
+    }
+  },
+  {
+    "question": "Taşınmazımı emlak ofisine ilan vermesi için nasıl yetkilendiririm?",
+    "answer": "e-Devlet’te Ticaret Bakanlığı ‘EİDS Taşınmaz İlanı Yayınlama İzni İşlemleri’ hizmetinden yetkilendirme verebilirsiniz. https://www.turkiye.gov.tr/ticaret-eids-tasinmaz-ilani-yetkilendirme-islemleri",
+    "category": "Tapu",
+    "tfidf": {
+      "eids": 0.2,
+      "taşınmaz": 0.2,
+      "ilan": 0.2,
+      "yetkilendirme": 0.2,
+      "ticaret": 0.2
+    }
+  },
+  {
+    "question": "Tapu telefon bilgilendirmesi için numaramı nasıl beyan ederim?",
+    "answer": "e-Devlet’te ‘Tapu Telefon Bilgileri Beyan’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/tapu-telefon-beyan",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.25,
+      "telefon": 0.25,
+      "beyan": 0.25,
+      "tkgm": 0.25
+    }
+  },
+  {
+    "question": "Yetkilendirildiğim taşınmazları nasıl görüntülerim?",
+    "answer": "e-Devlet’te ‘Yetkilendirildiğim Taşınmaz Sorgulama’ hizmetinden erişebilirsiniz. https://www.turkiye.gov.tr/tapu-ve-kadastro-yetkilendirildigim-tasinmaz-sorgulama",
+    "category": "Tapu",
+    "tfidf": {
+      "yetkilendirildiğim": 0.25,
+      "taşınmaz": 0.25,
+      "sorgulama": 0.25,
+      "tkgm": 0.25
+    }
+  },
+  {
+    "question": "Tapu ve döner sermaye ödemeleri için e‑tahsilat numaram nerede yazar?",
+    "answer": "Tapu müdürlüğünün verdiği 12–13 haneli e‑Tahsilat Seri Numarası ile ‘Tapu Harç ve Döner Sermaye Sorgulama/Ödeme’ ekranından ödeme yapılır. https://www.turkiye.gov.tr/tapu-harc-sorgulama",
+    "category": "Tapu",
+    "tfidf": {
+      "e": 0.2,
+      "tahsilat": 0.2,
+      "seri": 0.2,
+      "numarası": 0.2,
+      "tapu": 0.2
+    }
+  },
+  {
+    "question": "Yerleşim yeri (ikametgâh) belgesini nasıl alırım?",
+    "answer": "e-Devlet’te NVI ‘Yerleşim Yeri ve Diğer Adres Belgesi Sorgulama’ hizmetinden barkodlu belge alabilirsiniz. https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama",
+    "category": "Nüfus",
+    "tfidf": {
+      "yerleşim": 0.2,
+      "yeri": 0.2,
+      "belgesi": 0.2,
+      "nvi": 0.2,
+      "ikametgah": 0.2
+    }
+  },
+  {
+    "question": "Nüfus kayıt örneğini nereden oluştururum?",
+    "answer": "e-Devlet’te ‘Nüfus Kayıt Örneği Belgesi Sorgulama’ hizmetinden barkodlu belge alabilirsiniz. https://www.turkiye.gov.tr/nvi-nufus-kayit-ornegi-belgesi-sorgulama",
+    "category": "Nüfus",
+    "tfidf": {
+      "nüfus": 0.2,
+      "kayıt": 0.2,
+      "örneği": 0.2,
+      "nvi": 0.2,
+      "belgesi": 0.2
+    }
+  },
+  {
+    "question": "Tarihçeli yerleşim yeri belgesini nasıl alırım?",
+    "answer": "e-Devlet’te ‘Tarihçeli Yerleşim Yeri ve Diğer Adres Belgesi’ hizmetini kullanın. https://www.turkiye.gov.tr/nvi-tarhiceli-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama",
+    "category": "Nüfus",
+    "tfidf": {
+      "tarihçeli": 0.2,
+      "yerleşim": 0.2,
+      "yeri": 0.2,
+      "nvi": 0.2,
+      "belgesi": 0.2
+    }
+  },
+  {
+    "question": "Yerleşim yeri adres değişikliğini e‑Devlet’ten nasıl bildiririm?",
+    "answer": "e-Devlet’te ‘Adres Değişikliği Bildirimi’ hizmetiyle bildiriminizi online yapabilirsiniz. https://www.turkiye.gov.tr/nvi-adres-degisikligi-bildirimi",
+    "category": "Nüfus",
+    "tfidf": {
+      "adres": 0.25,
+      "değişikliği": 0.25,
+      "bildirimi": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Pasaport başvurusu için nasıl randevu alırım?",
+    "answer": "NVI ‘Pasaport Başvurusu’ sayfasından randevu alabilirsiniz. https://www.turkiye.gov.tr/nvi-pasaport-basvurusu",
+    "category": "Nüfus",
+    "tfidf": {
+      "pasaport": 0.25,
+      "başvuru": 0.25,
+      "randevu": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Kimlik kartı başvuru durumumu nereden takip ederim?",
+    "answer": "e-Devlet’te NVI ‘Kimlik Kartı Başvuru Durumu Sorgulama’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/nvi-kimlik-karti-basvuru-durum-sorgulama",
+    "category": "Nüfus",
+    "tfidf": {
+      "kimlik": 0.2,
+      "kartı": 0.2,
+      "başvuru": 0.2,
+      "durumu": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Yeni taşındım, ikamet adresimi online bildirebilir miyim?",
+    "answer": "Evet. e-Devlet’te ‘Adres Değişikliği Bildirimi’ hizmetinden bildirebilirsiniz. https://www.turkiye.gov.tr/nvi-adres-degisikligi-bildirimi",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.2,
+      "değişikliği": 0.2,
+      "bildirimi": 0.2,
+      "ikamet": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Ailemin tüm fertleri için yerleşim yeri belgesini toplu alabilir miyim?",
+    "answer": "e-Devlet ‘Yerleşim Yeri ve Diğer Adres Belgesi Sorgulama’ ekranında ‘Aile’ seçeneğini kullanabilirsiniz. https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "yerleşim": 0.2,
+      "yeri": 0.2,
+      "belgesi": 0.2,
+      "aile": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Öğrenci yurt başvurusu için ikametgâh belgesi yeterli mi?",
+    "answer": "Kurum talebine göre değişir; genelde barkodlu ‘Yerleşim Yeri ve Diğer Adres Belgesi’ kabul edilir. Belgeyi e-Devlet’ten oluşturabilirsiniz. https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "ikametgah": 0.25,
+      "belgesi": 0.25,
+      "barkodlu": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Adres beyanında eş rızası gerekiyor mu?",
+    "answer": "Eşlerin farklı adres beyanı yapması halinde sistem uyarı verir; gerektiğinde ‘adres araştırması’ yapılabilir. Bildirim e-Devlet’ten yapılır. https://www.turkiye.gov.tr/nvi-adres-degisikligi-bildirimi",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.25,
+      "beyanı": 0.25,
+      "eş": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Yerleşim yeri belgesinin geçerliliğini nasıl doğrularım?",
+    "answer": "Belgedeki barkod/QR ile doğrulama yapılabilir; kurumlar e-Devlet doğrulamasıyla kabul eder. https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "yerleşim": 0.25,
+      "belgesi": 0.25,
+      "barkod": 0.25,
+      "doğrulama": 0.25
+    }
+  },
+  {
+    "question": "Yurt dışı başvuruları için çok dilli adres belgesini nereden alırım?",
+    "answer": "NVI üzerinden çok dilli belgeler (Formül A/B/C) ve adres belgesi sağlanır; uygun hizmeti e-Devlet’ten seçin. https://www.turkiye.gov.tr/nvi-cok-dilli-ikametgah-belgesi-sorgulama",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "çok": 0.2,
+      "dilli": 0.2,
+      "adres": 0.2,
+      "belgesi": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Askerlik durum belgesini nasıl alırım?",
+    "answer": "e-Devlet’te MSB ‘Askerlik Durumu ve Barkodlu Belge Sorgulama’ hizmetinden barkodlu belge alabilirsiniz. https://www.turkiye.gov.tr/mill-savunma-askerlik-durumu",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.25,
+      "durum": 0.25,
+      "belgesi": 0.25,
+      "msb": 0.25
+    }
+  },
+  {
+    "question": "Yoklamaya nasıl başvururum?",
+    "answer": "e-Devlet’te MSB ‘Yoklama Başvurusu Süreç Takibi’ ve ilgili yoklama başvuru hizmetlerini kullanın. https://www.turkiye.gov.tr/mill-savunma-yoklama-basvurusu-surec-takibi",
+    "category": "Askerlik",
+    "tfidf": {
+      "yoklama": 0.25,
+      "başvuru": 0.25,
+      "msb": 0.25,
+      "takip": 0.25
+    }
+  },
+  {
+    "question": "Bedelli askerlik yoklama işlemlerimi nereden yaparım?",
+    "answer": "Bedelli için de yoklama/başvuru adımları e-Devlet MSB hizmetlerinden yürütülür; süreç takibini aynı ekrandan yapabilirsiniz. https://www.turkiye.gov.tr/mill-savunma-yoklama-basvurusu-surec-takibi",
+    "category": "Askerlik",
+    "tfidf": {
+      "bedelli": 0.25,
+      "askerlik": 0.25,
+      "yoklama": 0.25,
+      "msb": 0.25
+    }
+  },
+  {
+    "question": "Tecil (erteleme) başvurusu için ne yapmalıyım?",
+    "answer": "Tecil işlemleri (öğrenim/sağlık vb.) e‑Devlet MSB başvuruları ve askerlik şubesi üzerinden yürütülür; durum belgesi e-Devlet’ten alınabilir. https://www.turkiye.gov.tr/mill-savunma-askerlik-durumu",
+    "category": "Askerlik",
+    "tfidf": {
+      "tecil": 0.25,
+      "erteleme": 0.25,
+      "askerlik": 0.25,
+      "msb": 0.25
+    }
+  },
+  {
+    "question": "Aile hekimimden aldığım istirahat raporu askerlikle paylaşılır mı?",
+    "answer": "Sağlık raporları e-Nabız/MHRS sistemlerine düşer; askerlik işlemlerinde gerektiğinde MSB tarafından görülür. Genel sağlık verisi e-Nabız’dadır. https://www.turkiye.gov.tr/saglik-bakanligi-e-nabiz-kisisel-saglik-sistemi",
+    "category": "Askerlik",
+    "tfidf": {
+      "sağlık": 0.2,
+      "raporu": 0.2,
+      "e": 0.2,
+      "nabız": 0.2,
+      "msb": 0.2
+    }
+  },
+  {
+    "question": "Trafik cezası borcumu nereden öderim?",
+    "answer": "e-Devlet’te GİB ‘Trafik Para Cezası Borcu Sorgulama ve Ödeme’ hizmetinden ödeme yapabilirsiniz. https://www.turkiye.gov.tr/gib-trafik-para-cezasi-borc-sorgulama-ve-odeme",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "trafik": 0.2,
+      "cezası": 0.2,
+      "borç": 0.2,
+      "ödeme": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "HGS ihlalli geçişlerimi nasıl sorgularım?",
+    "answer": "e-Devlet’te PTT ‘HGS İhlal Bilgileri Sorgulama’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/ptt-hgs-ihlal-bilgileri-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "hgs": 0.2,
+      "ihlalli": 0.2,
+      "geçiş": 0.2,
+      "ptt": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Araç muayene raporumu nasıl görüntülerim?",
+    "answer": "e-Devlet’te ‘Barkodlu Araç Muayene Raporu Sorgulama’ sayfasını kullanabilirsiniz. https://www.turkiye.gov.tr/ulastirma-ve-altyapi-barkodlu-arac-muayene-raporu-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.2,
+      "muayene": 0.2,
+      "raporu": 0.2,
+      "tüvtürk": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Sürücü raporumu e-Devlet’ten görebilir miyim?",
+    "answer": "Sağlık Bakanlığı ‘e‑İmzalı Sürücü Raporları Sorgulama’ hizmetinden erişebilirsiniz. https://www.turkiye.gov.tr/saglik-e-imzali-surucu-raporlari-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "sürücü": 0.2,
+      "raporu": 0.2,
+      "e": 0.2,
+      "imzalı": 0.2,
+      "sağlık": 0.2
+    }
+  },
+  {
+    "question": "Aracımın gümrük giriş/çıkış kayıtlarını nereden görürüm?",
+    "answer": "Ticaret Bakanlığı ‘Gümrüklerden Araçlı Giriş/Çıkış Sorgulama’ hizmetini kullanın. https://www.turkiye.gov.tr/ticaret-gumruklerden-aracli-giriscikis-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "gümrük": 0.2,
+      "araçlı": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "ticaret": 0.2
+    }
+  },
+  {
+    "question": "Farklı şehirde kesilen otopark/çekici borçlarını nasıl sorgularım?",
+    "answer": "Bu borçlar belediye/il özel idaresi sistemlerinde yer alır; e-Devlet belediye hizmetleri sayfasından ilgili belediyenin hizmetine girin. https://www.turkiye.gov.tr/belediyeler",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "otopark": 0.167,
+      "çekici": 0.167,
+      "borç": 0.167,
+      "belediye": 0.167,
+      "e": 0.167,
+      "devlet": 0.165
+    }
+  },
+  {
+    "question": "Emlak vergisi borcumu e-Devlet’ten nasıl görebilirim?",
+    "answer": "Belediyelerin e-Devlet sayfalarından ‘Emlak Vergisi Borç Sorgulama/Ödeme’ hizmetleri sunulmaktadır; ilinizdeki belediyeyi ‘Belediye Hizmetleri’ sayfasından seçin. https://www.turkiye.gov.tr/belediyeler",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "emlak": 0.2,
+      "vergisi": 0.2,
+      "belediye": 0.2,
+      "borç": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Su faturası borcumu belediye üzerinden nereden kontrol ederim?",
+    "answer": "İlgili su ve kanalizasyon idaresine ait e-Devlet sayfasından abonelik/borç sorgulama yapılabilir. İlinizi ‘Belediyeler’ sayfasından seçin. https://www.turkiye.gov.tr/belediyeler",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "su": 0.2,
+      "borcu": 0.2,
+      "abonelik": 0.2,
+      "belediye": 0.2,
+      "sorgu": 0.2
+    }
+  },
+  {
+    "question": "Açık Kapı üzerinden belediyeye talep-şikâyet nasıl iletilir?",
+    "answer": "İçişleri Bakanlığı ‘Açık Kapı Başvurusu ve Takibi’ hizmetinden başvurunuzu yapabilirsiniz. https://www.turkiye.gov.tr/icisleri-acik-kapi-basvurusu-ve-takibi",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "açık": 0.2,
+      "kapı": 0.2,
+      "başvuru": 0.2,
+      "belediye": 0.2,
+      "içişleri": 0.2
+    }
+  },
+  {
+    "question": "İstanbul’daki belediyelerin e‑Devlet hizmetlerine nasıl ulaşırım?",
+    "answer": "‘İstanbul Belediyeleri’ sayfasından ilçe/BB hizmetlerini görebilirsiniz. https://www.turkiye.gov.tr/istanbul-belediyeleri",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "istanbul": 0.2,
+      "belediyeleri": 0.2,
+      "e": 0.2,
+      "devlet": 0.2,
+      "hizmet": 0.2
+    }
+  },
+  {
+    "question": "Belediye hizmet süreçlerini nereden öğrenebilirim?",
+    "answer": "Bazı belediyeler ‘Belediye Hizmetleri Sorgulama’ ekranı sunar; örn. İnegöl Belediyesi. İl/ilçenizi ‘Belediyeler’ sayfasından seçin. https://www.turkiye.gov.tr/inegol-belediyesi-hizmetleri-sorgulama",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "hizmet": 0.25,
+      "süreç": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "e-Belediye Bilgi Sistemi üzerinden hangi işlemler yapılır?",
+    "answer": "e-Devlet’te çok sayıda belediye e-Belediye kapısından borç/ödemeler, talep/ruhsat vb. işlemler sunar; belediyenizi ‘Belediyeler’ sayfasından seçin. https://www.turkiye.gov.tr/belediyeler",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "e": 0.2,
+      "belediye": 0.2,
+      "borç": 0.2,
+      "ödeme": 0.2,
+      "hizmet": 0.2
+    }
+  },
+  {
+    "question": "Toplanma alanımı e-Devlet’ten nasıl öğrenirim?",
+    "answer": "AFAD ‘Toplanma Alanı Sorgulama’ hizmetinden konumunuza en yakın AFAD toplanma alanlarını görebilirsiniz. https://www.turkiye.gov.tr/afad-toplanma-alani-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afad": 0.25,
+      "toplanma": 0.25,
+      "alanı": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Zorunlu deprem sigortası (DASK) poliçemi nasıl doğrularım?",
+    "answer": "e-Devlet’te ‘DASK Poliçe Bilgisi Sorgulama’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/dask-poliçe-bilgisi-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.25,
+      "poliçe": 0.25,
+      "bilgisi": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Hasar durumunda DASK üzerinden dosya takibini nereden yaparım?",
+    "answer": "e-Devlet’te ‘DASK Hasar Dosyası Sorgulama’ hizmetini kullanın. https://www.turkiye.gov.tr/dask-hasar-dosyasi-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.25,
+      "hasar": 0.25,
+      "dosyası": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Afet sonrası yardım ve sosyal destek başvurularını nereden takip ederim?",
+    "answer": "Aile ve Sosyal Hizmetler ‘Sosyal Yardım Bilgileri Sorgulama’ ve ‘Açık Kapı’ üzerinden süreçleri kontrol edebilirsiniz. https://www.turkiye.gov.tr/ashb-sosyal-yardim-bilgileri-sorgulama https://www.turkiye.gov.tr/icisleri-acik-kapi-basvurusu-ve-takibi",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afet": 0.2,
+      "sosyal": 0.2,
+      "yardım": 0.2,
+      "takip": 0.2,
+      "ashb": 0.2
+    }
+  },
+  {
+    "question": "AFAD gönüllüsü olmak için nereden başvururum?",
+    "answer": "AFAD gönüllülüğü ve eğitim başvuruları AFAD portalı üzerinden yapılır; e-Devlet’te de bilgilendirme bağlantıları yer alır. https://www.turkiye.gov.tr/afad-toplanma-alani-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afad": 0.25,
+      "gönüllü": 0.25,
+      "eğitim": 0.25,
+      "başvuru": 0.25
+    }
+  },
+  {
+    "question": "Acil numaralar ve afet anında iletişim için resmi kaynak neresi?",
+    "answer": "112 Acil Çağrı Merkezi tüm acil durumlar için tek numaradır; AFAD ve Valilik duyurularını takip edin. e-Devlet/AFAD sayfaları bilgilendirir. https://www.turkiye.gov.tr/afad-toplanma-alani-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "112": 0.25,
+      "acil": 0.25,
+      "afad": 0.25,
+      "duyuru": 0.25
+    }
+  },
+  {
+    "question": "Aile hekimimi nasıl öğrenirim?",
+    "answer": "e-Devlet’te Sağlık Bakanlığı ‘Aile Hekim Bilgisi Sorgulama’ hizmetini kullanın. https://www.turkiye.gov.tr/aile-hekim-bilgisi",
+    "category": "SGK",
+    "tfidf": {
+      "aile": 0.25,
+      "hekim": 0.25,
+      "bilgisi": 0.25,
+      "sağlık": 0.25
+    }
+  },
+  {
+    "question": "Aile hekimi değişikliğini nereden yaparım?",
+    "answer": "Sağlık Bakanlığı ‘Aile Hekimi Değiştirme’ hizmeti üzerinden değişiklik talebinde bulunabilirsiniz. https://www.turkiye.gov.tr/saglik-aile-hekimi-degistirme",
+    "category": "SGK",
+    "tfidf": {
+      "aile": 0.25,
+      "hekimi": 0.25,
+      "değiştirme": 0.25,
+      "sağlık": 0.25
+    }
+  },
+  {
+    "question": "MHRS üzerinden hastane randevusu nasıl alınır?",
+    "answer": "e-Devlet’te ‘Merkezi Hekim Randevu Sistemi (MHRS)’ hizmetini açarak randevu alabilirsiniz. https://www.turkiye.gov.tr/saglik-bakanligi-merkezi-hekim-randevu-sistemi",
+    "category": "SGK",
+    "tfidf": {
+      "mhrs": 0.25,
+      "randevu": 0.25,
+      "sağlık": 0.25,
+      "bakanlığı": 0.25
+    }
+  },
+  {
+    "question": "Tedavi ve muayene katılım payı bilgilerine nasıl bakarım?",
+    "answer": "SGK ‘Tedavi Bilgileri Sorgulama’ ve ‘Muayene Katılım Payı’ hizmetlerinden ayrıntıları görebilirsiniz. https://www.turkiye.gov.tr/sgk-tedavi-bilgileri-sorgulama",
+    "category": "SGK",
+    "tfidf": {
+      "muayene": 0.2,
+      "katılım": 0.2,
+      "payı": 0.2,
+      "sgk": 0.2,
+      "tedavi": 0.2
+    }
+  },
+  {
+    "question": "e‑Nabız’a nasıl girerim?",
+    "answer": "e-Devlet’te ‘e-Nabız Kişisel Sağlık Sistemi’ hizmetinden giriş yapabilirsiniz. https://www.turkiye.gov.tr/saglik-bakanligi-e-nabiz-kisisel-saglik-sistemi",
+    "category": "SGK",
+    "tfidf": {
+      "e": 0.2,
+      "nabız": 0.2,
+      "kişisel": 0.2,
+      "sağlık": 0.2,
+      "sistemi": 0.2
+    }
+  },
+  {
+    "question": "Sürücü olur raporumu nereden görüntüleyebilirim?",
+    "answer": "‘e‑İmzalı Sürücü Raporları Sorgulama’ hizmetini kullanın. https://www.turkiye.gov.tr/saglik-e-imzali-surucu-raporlari-sorgulama",
+    "category": "SGK",
+    "tfidf": {
+      "sürücü": 0.2,
+      "raporu": 0.2,
+      "e": 0.2,
+      "imzalı": 0.2,
+      "sağlık": 0.2
+    }
+  },
+  {
+    "question": "KYK öğrenim/burs kredisi sonuçlarını nereden görürüm?",
+    "answer": "e-Devlet’te ‘Öğrenim/Katkı Kredisi ve Burs Sorgulama’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/kyk-ogrenci-burs-kredi-basvuru-sonucu-sorgulama",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "kyk": 0.2,
+      "burs": 0.2,
+      "öğrenim": 0.2,
+      "kredi": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "KYK geri ödeme planımı nasıl sorgularım?",
+    "answer": "e-Devlet’te ‘Öğrenim/Katkı Kredisi Geri Ödeme Sorgulama’ ekranından planınızı görebilirsiniz. https://www.turkiye.gov.tr/kyk-ogrenci-katkikredisi-geri-odeme-sorgulama",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "kyk": 0.2,
+      "geri": 0.2,
+      "ödeme": 0.2,
+      "plan": 0.2,
+      "sorgu": 0.2
+    }
+  },
+  {
+    "question": "KYK yurt başvurusu nereden yapılır?",
+    "answer": "Gençlik ve Spor Bakanlığı ‘GSB Yurt Başvurusu’ hizmeti dönemlerinde e-Devlet’te açılır; ekran üzerinden başvuru yapılır. https://www.turkiye.gov.tr/gsb-yurt-basvurusu",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "gsb": 0.25,
+      "yurt": 0.25,
+      "başvuru": 0.25,
+      "kyk": 0.25
+    }
+  },
+  {
+    "question": "Yurt ücret borcumu nasıl öğrenirim?",
+    "answer": "GSB yurt işlemleri kapsamında borç/bakiye e-Devlet hizmetleri üzerinden sorgulanır (dönemsel). https://www.turkiye.gov.tr/gsb-yurt-basvurusu",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "yurt": 0.25,
+      "ücret": 0.25,
+      "borç": 0.25,
+      "gsb": 0.25
+    }
+  },
+  {
+    "question": "Burs/kredi taahhütname onayını nereden yaparım?",
+    "answer": "e-Devlet’te ‘Burs/Kredi Taahhütname Onay İşlemleri’ hizmetinden onaylayabilirsiniz. https://www.turkiye.gov.tr/kyk-burs-kredi-taahhutname-onay-islemleri",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "taahhütname": 0.2,
+      "onay": 0.2,
+      "kyk": 0.2,
+      "burs": 0.2,
+      "kredi": 0.2
+    }
+  },
+  {
+    "question": "KYK adres yurt nakil işlemlerini nasıl takip ederim?",
+    "answer": "e-Devlet’te GSB yurt hizmetleri dönemsel olarak açılır; başvuru ve nakil süreçleri ilgili sayfalardan takip edilir. https://www.turkiye.gov.tr/gsb-yurt-basvurusu",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "yurt": 0.25,
+      "nakil": 0.25,
+      "başvuru": 0.25,
+      "gsb": 0.25
+    }
+  },
+  {
+    "question": "Adli sicil kaydımı nasıl alırım?",
+    "answer": "e-Devlet’te ‘Adli Sicil Kaydı Sorgulama’ hizmetinden barkodlu belge alabilirsiniz. https://www.turkiye.gov.tr/adli-sicil-kaydi",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "adli": 0.25,
+      "sicil": 0.25,
+      "kaydı": 0.25,
+      "adalet": 0.25
+    }
+  },
+  {
+    "question": "Devam eden dava dosyalarımı nereden görürüm?",
+    "answer": "Adalet Bakanlığı ‘UYAP Vatandaş Portal Girişi’ üzerinden dava/işlemlerinizi görüntüleyebilirsiniz. https://www.turkiye.gov.tr/uyap-portali-vatandas-girisi",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uyap": 0.25,
+      "dava": 0.25,
+      "dosya": 0.25,
+      "adalet": 0.25
+    }
+  },
+  {
+    "question": "Yargıtay aşamasındaki dosyaları nasıl sorgularım?",
+    "answer": "e-Devlet’te ‘Yargıtay Dava Dosya Sorgulama’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/yargitay-dava-sureci-sorgulama",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "yargıtay": 0.25,
+      "dava": 0.25,
+      "dosya": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Adli sicil kayıtlarımda düzeltme/silme nasıl talep edilir?",
+    "answer": "‘Adli Sicil Silme ve Düzeltme Talebi’ hizmeti üzerinden başvuru yapabilirsiniz. https://www.turkiye.gov.tr/adalet-adli-sicil-silme-ve-duzeltme-talebi",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "adli": 0.2,
+      "sicil": 0.2,
+      "silme": 0.2,
+      "düzeltme": 0.2,
+      "adalet": 0.2
+    }
+  },
+  {
+    "question": "Muris (vefat eden) yakınımın dava/İcra dosyalarını görebilir miyim?",
+    "answer": "Yetkili mirasçı olarak ilgili UYAP hizmetlerinden ‘Mirasçısı Olduğunuz Kişi Adına’ sorgulamalar yapılabilir. https://www.turkiye.gov.tr/adalet-murise-ait-hukuk-dava-dosyasi-sorgulama",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "muris": 0.2,
+      "mirasçı": 0.2,
+      "uyap": 0.2,
+      "dava": 0.2,
+      "icra": 0.2
+    }
+  },
+  {
+    "question": "Adli sicil belgesine apostil nasıl alırım?",
+    "answer": "PTT ‘Adli Sicil Belgesi e‑Apostil Başvurusu’ hizmeti üzerinden e‑apostil başvurusu yapılabilir. https://www.turkiye.gov.tr/ptt-adli-sicil-belgesi-e-apostil-basvurusu",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "apostil": 0.25,
+      "adli": 0.25,
+      "sicil": 0.25,
+      "ptt": 0.25
+    }
+  },
+  {
+    "question": "Yurda araçla giriş/çıkış bilgilerimi nereden görebilirim?",
+    "answer": "Ticaret Bakanlığı ‘Gümrüklerden Araçlı Giriş/Çıkış Sorgulama’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/ticaret-gumruklerden-aracli-giriscikis-sorgulama",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "gümrük": 0.167,
+      "araçlı": 0.167,
+      "giriş": 0.167,
+      "çıkış": 0.167,
+      "yurt": 0.167,
+      "dışı": 0.165
+    }
+  },
+  {
+    "question": "Yurt dışına taşıtsız çıkarken taahhütnameyi nasıl veririm/kaldırırım?",
+    "answer": "e-Devlet’te ‘Yurt Dışına Taşıtsız Çıkışlarda Taahhütname Verme ve Kaldırma’ hizmetini kullanın. https://www.turkiye.gov.tr/ticaret-yurt-disina-tasitsiz-cikislarda-taahhutname-verme-ve-kaldirma",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "taşıtsız": 0.167,
+      "çıkış": 0.167,
+      "taahhütname": 0.167,
+      "yurt": 0.167,
+      "dışı": 0.167,
+      "ticaret": 0.165
+    }
+  },
+  {
+    "question": "Yurt dışında sağlık hizmeti (YUPASS) numaramı nereden öğrenirim?",
+    "answer": "SGK ‘YUPASS Numarası Sorgulama’ hizmetinden numaranızı görüntüleyebilirsiniz. https://www.turkiye.gov.tr/sosyal-guvenlik-yurt-disi-provizyon-aktivasyon-saglik-sistemi-yupass-numarasi-sorgulama",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yupass": 0.2,
+      "numarası": 0.2,
+      "sgk": 0.2,
+      "yurt": 0.2,
+      "dışı": 0.2
+    }
+  },
+  {
+    "question": "Yurtdışı borçlanma başvurumu nasıl takip ederim?",
+    "answer": "SGK ‘Yurt Dışı Borçlanma Başvurusu Sorgulama ve Tebligat Görüntüleme’ hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/sosyal-guvenlik-yurt-disi-borclanma-basvurusu-sorgulama-ve-tebligat-goruntuleme",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurtdışı": 0.2,
+      "borçlanma": 0.2,
+      "başvuru": 0.2,
+      "sgk": 0.2,
+      "tebligat": 0.2
+    }
+  },
+  {
+    "question": "Gümrük belgem ve tek pencere işlemlerimi nereden takip ederim?",
+    "answer": "‘Tek Pencere’ hizmeti üzerinden gümrük belgelerinizi başvurup takip edebilirsiniz. https://www.turkiye.gov.tr/gumruk-ve-ticaret-tek-pencere",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "tek": 0.2,
+      "pencere": 0.2,
+      "gümrük": 0.2,
+      "belge": 0.2,
+      "takip": 0.2
+    }
+  },
+  {
+    "question": "Yurt dışında yerleşiklik durumumu nasıl sorgularım?",
+    "answer": "Ticaret Bakanlığı ‘Yurt Dışında Yerleşiklik Sorgulama’ hizmeti e‑Devlet’ten erişilebilmektedir. https://www.turkiye.gov.tr/ticaret-bakanligi",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışında": 0.2,
+      "yerleşiklik": 0.2,
+      "sorgulama": 0.2,
+      "ticaret": 0.2
+    }
+  },
+  {
+    "question": "İşgöremezlik ödeneğimi nereden görüntülerim?",
+    "answer": "e-Devlet’te “4A/4B İşgöremezlik Ödemesi Görme” hizmetini kullanabilirsiniz: https://www.turkiye.gov.tr/4ab-isgoremezlik-odemesi-gorme",
+    "category": "SGK",
+    "tfidf": {
+      "işgöremezlik": 0.2,
+      "ödemesi": 0.2,
+      "4a": 0.2,
+      "4b": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "SGK tescil ve hizmet dökümümü nasıl alırım?",
+    "answer": "e-Devlet’te “SGK Tescil ve Hizmet Dökümü / İşyeri Ünvan Listesi” hizmeti: https://www.turkiye.gov.tr/sgk-tescil-ve-hizmet-dokumu",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.25,
+      "tescil": 0.25,
+      "hizmet": 0.25,
+      "dökümü": 0.25
+    }
+  },
+  {
+    "question": "Bağ-Kur (4B) prim ödeme dökümünü nereden görürüm?",
+    "answer": "e-Devlet’te “4B Ödeme Dökümü” hizmetini kullanın: https://www.turkiye.gov.tr/4b-odeme-dokumu",
+    "category": "SGK",
+    "tfidf": {
+      "4b": 0.2,
+      "ödeme": 0.2,
+      "dökümü": 0.2,
+      "bağ-kur": 0.2,
+      "prim": 0.2
+    }
+  },
+  {
+    "question": "Emekli sandığı (4C) aylık bilgimi nasıl görüntülerim?",
+    "answer": "e-Devlet’te “4C Emekli Aylık Bilgisi” hizmeti: https://www.turkiye.gov.tr/4c-emekli-aylik-bilgisi",
+    "category": "SGK",
+    "tfidf": {
+      "4c": 0.25,
+      "emekli": 0.25,
+      "aylık": 0.25,
+      "bilgisi": 0.25
+    }
+  },
+  {
+    "question": "Vergi borcumu nasıl sorgular ve öderim?",
+    "answer": "e-Devlet’te GİB “Vergi Borcu Sorgulama ve Ödeme” hizmeti: https://www.turkiye.gov.tr/gib-vergi-borcu-sorgu",
+    "category": "Vergi",
+    "tfidf": {
+      "vergi": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "ödeme": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "Yapılandırılan vergi borçlarımı nereden öderim?",
+    "answer": "e-Devlet’te “Tüm Yapılandırılan Vergi Borçları Sorgulama ve Ödeme” hizmeti: https://www.turkiye.gov.tr/gib-intvrg-tum-yapilandirilan-vergi-borclari",
+    "category": "Vergi",
+    "tfidf": {
+      "yapılandırılan": 0.25,
+      "vergi": 0.25,
+      "borçları": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "Mükellefiyet gerektiren vergi borcumu nasıl öderim?",
+    "answer": "e-Devlet’te GİB “Mükellefiyet Gerektiren Vergi Borcu Sorgulama ve Ödeme”: https://www.turkiye.gov.tr/gib-intvrg-mukellefiyet-gerektiren-vergi-borcu-sorgulama-ve-odeme",
+    "category": "Vergi",
+    "tfidf": {
+      "mükellefiyet": 0.25,
+      "vergi": 0.25,
+      "borcu": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "Adıma kayıtlı tapuları nasıl görürüm?",
+    "answer": "e-Devlet’te “Tapu Bilgileri Sorgulama” hizmeti: https://www.turkiye.gov.tr/tapu-bilgileri-sorgulama",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.25,
+      "bilgileri": 0.25,
+      "sorgulama": 0.25,
+      "tkgm": 0.25
+    }
+  },
+  {
+    "question": "Web Tapu üzerinden başvuru nasıl yapılır?",
+    "answer": "e-Devlet’te “Web Tapu İşlemleri” sayfasından giriş yapın: https://www.turkiye.gov.tr/tkgm-web-tapu",
+    "category": "Tapu",
+    "tfidf": {
+      "web": 0.25,
+      "tapu": 0.25,
+      "işlemleri": 0.25,
+      "başvuru": 0.25
+    }
+  },
+  {
+    "question": "Adres değişikliğini internetten nasıl bildiririm?",
+    "answer": "e-Devlet’te “Adres Değişikliği Bildirimi” hizmeti: https://www.turkiye.gov.tr/adres-degisikligi-bildirimi",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.25,
+      "değişikliği": 0.25,
+      "bildirimi": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Birlikte oturma için adres muvafakatı nasıl verilir?",
+    "answer": "e-Devlet’te “Adres Değişikliği Bildirimi (Birlikte Oturma / Muvafakatlı)” hizmeti: https://www.turkiye.gov.tr/nvi-adres-degisikligi-bildirimi-muvafakatli",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.25,
+      "muvafakat": 0.25,
+      "birlikte": 0.25,
+      "oturma": 0.25
+    }
+  },
+  {
+    "question": "Askerlik durum ve işlemlerimi nereden takip ederim?",
+    "answer": "e-Devlet’te MSB “Askerliğim” ve ilgili alt hizmetlerden durumunuzu görüntüleyebilirsiniz: https://www.turkiye.gov.tr/mill-savunma-askerligim",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.25,
+      "durum": 0.25,
+      "sorgulama": 0.25,
+      "msb": 0.25
+    }
+  },
+  {
+    "question": "Araç plakama yazılan trafik cezasını nasıl görürüm?",
+    "answer": "e-Devlet’te EGM “Araç Plakasına Yazılan Ceza Sorgulama”: https://www.turkiye.gov.tr/emniyet-arac-plakasina-yazilan-ceza-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.2,
+      "plaka": 0.2,
+      "trafik": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Sürücü belgeme yazılan cezalarımı nereden sorgularım?",
+    "answer": "e-Devlet’te EGM “Sürücü Belgesi ve Şahıslara Yazılan Ceza Sorgulama”: https://www.turkiye.gov.tr/emniyet-surucu-belgesi-ve-sahislara-yazilan-ceza-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "sürücü": 0.2,
+      "belgesi": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2,
+      "egm": 0.2
+    }
+  },
+  {
+    "question": "Belediyeye genel başvurumu nereden yaparım (şikâyet, talep)?",
+    "answer": "e-Devlet’te İçişleri “Açık Kapı Başvurusu ve Başvuru Takibi”: https://www.turkiye.gov.tr/icisleri-acik-kapi-basvurusu-ve-takibi",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "açık": 0.2,
+      "kapı": 0.2,
+      "başvuru": 0.2,
+      "takip": 0.2,
+      "belediye": 0.2
+    }
+  },
+  {
+    "question": "Belediye borç/ödeme işlemlerimi internetten yapabilir miyim?",
+    "answer": "Birçok belediye e-Devlet’te hizmet sunar. Ortak “Belediye Hizmetleri” sayfasından belediyenizi seçip borç/ödeme hizmetlerine erişebilirsiniz: https://www.turkiye.gov.tr/belediyeler",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "borç": 0.25,
+      "ödeme": 0.25,
+      "hizmetleri": 0.25
+    }
+  },
+  {
+    "question": "En yakın AFAD toplanma alanını nasıl bulurum?",
+    "answer": "e-Devlet’te “Afet ve Acil Durum Toplanma Alanı Sorgulama” hizmeti: https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afad": 0.25,
+      "toplanma": 0.25,
+      "alanı": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "DASK poliçemi nereden sorgularım?",
+    "answer": "e-Devlet’te DASK “Poliçe Sorgulama”: https://www.turkiye.gov.tr/dask-police-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.333,
+      "poliçe": 0.333,
+      "sorgulama": 0.334
+    }
+  },
+  {
+    "question": "DASK hasar dosyamı nasıl takip ederim?",
+    "answer": "e-Devlet’te DASK “Hasar Sorgulama”: https://www.turkiye.gov.tr/dogal-afet-sigortalari-hasar-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.333,
+      "hasar": 0.333,
+      "sorgulama": 0.334
+    }
+  },
+  {
+    "question": "Dava dosyalarımı UYAP’tan nereden görürüm?",
+    "answer": "e-Devlet’te “UYAP Vatandaş Portal Girişi”: https://www.turkiye.gov.tr/uyap-portali-vatandas-girisi",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uyap": 0.25,
+      "dava": 0.25,
+      "dosyası": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Yargıtay’da dosyam var mı, nasıl bakarım?",
+    "answer": "e-Devlet’te “Yargıtay Dava Dosya Sorgulama” hizmeti: https://www.turkiye.gov.tr/yargitay-dava-sureci-sorgulama",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "yargıtay": 0.25,
+      "dava": 0.25,
+      "dosyası": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "e-Tebligatlarımı nereden görüntülerim?",
+    "answer": "e-Devlet’te PTT “UETS e-Tebligat İşlemleri” üzerinden e-tebligatlarınızı görebilirsiniz: https://www.turkiye.gov.tr/ptt-uets-e-tebligat-islemleri",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uets": 0.25,
+      "e-tebligat": 0.25,
+      "işlemleri": 0.25,
+      "ptt": 0.25
+    }
+  },
+  {
+    "question": "KYK burs/kredi başvurusu nasıl yapılır?",
+    "answer": "e-Devlet’te “Burs / Öğrenim Kredisi Başvurusu” hizmeti: https://www.turkiye.gov.tr/kyk-krediburs-basvurusu",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "kyk": 0.25,
+      "burs": 0.25,
+      "kredi": 0.25,
+      "başvurusu": 0.25
+    }
+  },
+  {
+    "question": "Burs/kredi taahhütnamesi onayı nereden yapılır?",
+    "answer": "e-Devlet’te “Burs/Kredi Taahhütnamesi Onay İşlemleri”: https://www.turkiye.gov.tr/kyk-burs-kredi-onay-islemleri",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "taahhütname": 0.2,
+      "onay": 0.2,
+      "kyk": 0.2,
+      "burs": 0.2,
+      "kredi": 0.2
+    }
+  },
+  {
+    "question": "Öğrenim kredisi geri ödememi nereden görürüm?",
+    "answer": "e-Devlet’te “Öğrenim / Katkı Kredisi Geri Ödeme Sorgulama”: https://www.turkiye.gov.tr/kyk-ogrenim-katki-kredisi-geri-odeme-sorgulama",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "öğrenim": 0.2,
+      "kredisi": 0.2,
+      "geri": 0.2,
+      "ödeme": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "GSB yurt başvurusunu nasıl yaparım?",
+    "answer": "e-Devlet’te “Yurt Başvurusu” hizmeti: https://www.turkiye.gov.tr/gsb-yurt-basvurusu",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "gsb": 0.333,
+      "yurt": 0.333,
+      "başvurusu": 0.334
+    }
+  },
+  {
+    "question": "YUPASS numaramı nereden öğrenirim?",
+    "answer": "e-Devlet’te “YUPASS Numarası Sorgulama”: https://www.turkiye.gov.tr/sosyal-guvenlik-yurt-disi-provizyon-aktivasyon-saglik-sistemi-yupass-numarasi-sorgulama",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yupass": 0.25,
+      "numarası": 0.25,
+      "sorgulama": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Yurt dışı çıkış harcını online nasıl öderim?",
+    "answer": "GİB Dijital Ödeme ekranından “Yurt Dışına Çıkış Harcı Ödeme” hizmetini kullanabilirsiniz: https://dijital.gib.gov.tr/hizliOdemeler/yurtDisinaCikisHarciOdeme",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışı": 0.2,
+      "çıkış": 0.2,
+      "harcı": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Yurda giriş/çıkış kayıt belgesini nasıl alırım?",
+    "answer": "e-Devlet’te EGM “Yurda Giriş/Çıkış Belge Sorgulama”: https://www.turkiye.gov.tr/emniyet-yurda-giriscikis-belge-sorgulama",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurda": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Yurt dışı borçlanma başvurumu nasıl takip ederim?",
+    "answer": "e-Devlet’te “Yurt Dışı Borçlanma Başvurusu Sorgulama ve Tebligat Görüntüleme”: https://www.turkiye.gov.tr/sosyal-guvenlik-yurt-disi-borclanma-basvurusu-sorgulama-ve-tebligat-goruntuleme",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışı": 0.2,
+      "borçlanma": 0.2,
+      "başvurusu": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "4A hizmet dökümünü nasıl indiririm? (SSK)",
+    "answer": "e-Devlet’te “4A Hizmet Dökümü (Son 6 ay)” hizmetinden görüntüleyip PDF indirebilirsiniz. https://www.turkiye.gov.tr/4a-hizmet-dokumu",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "hizmet": 0.2,
+      "dökümü": 0.2,
+      "ssk": 0.2,
+      "indir": 0.2
+    }
+  },
+  {
+    "question": "SGK kayıt belgesini barkodlu nasıl alırım?",
+    "answer": "e-Devlet’te “Sosyal Güvenlik Kayıt Belgesi Sorgulama” hizmetinden barkodlu belge oluşturabilirsiniz. https://www.turkiye.gov.tr/sosyal-guvenlik-kayit-belgesi-sorgulama",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.2,
+      "kayıt": 0.2,
+      "belgesi": 0.2,
+      "barkod": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Vergi borcumu nereden sorgular ve öderim?",
+    "answer": "e-Devlet’te “Vergi, Harç ve Cezalar” başlığı altındaki ilgili hizmetlerden sorgulama/ödeme yapabilir veya İVD (ivd.gib.gov.tr) üzerinden kartla ödeme yapabilirsiniz. https://www.turkiye.gov.tr/vergi-harc-ve-cezalar-hizmetleri",
+    "category": "Vergi",
+    "tfidf": {
+      "vergi": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "ödeme": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "MTV borcumu nasıl öğrenip öderim?",
+    "answer": "e-Devlet’te GİB hizmetleri altındaki MTV sorgulama/ödeme ekranlarını veya İVD’yi (ivd.gib.gov.tr) kullanabilirsiniz. Toplu “Vergi, Harç ve Cezalar” sayfasından erişim mümkündür. https://www.turkiye.gov.tr/vergi-harc-ve-cezalar-hizmetleri",
+    "category": "Vergi",
+    "tfidf": {
+      "mtv": 0.2,
+      "motorlu": 0.2,
+      "taşıt": 0.2,
+      "vergi": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Adıma kayıtlı tapu bilgilerini nasıl görürüm?",
+    "answer": "e-Devlet’te “Tapu Bilgileri Sorgulama” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/tapu-bilgileri-sorgulama",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.2,
+      "bilgileri": 0.2,
+      "sorgulama": 0.2,
+      "adım": 0.2,
+      "taşınmaz": 0.2
+    }
+  },
+  {
+    "question": "Tapu harç tutarı ve döner sermaye ödemesi nasıl yapılır?",
+    "answer": "e-Devlet’te “Tapu ve Kadastro Harç ve Döner Sermaye Sorgulama / Ödeme” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/tapu-harc-sorgulama",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.2,
+      "harç": 0.2,
+      "döner": 0.2,
+      "sermaye": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Askerlik bilgilerimi ve işlemlerimi nereden görürüm?",
+    "answer": "e-Devlet’te “Askerliğim” hizmeti üzerinden durumunuza göre işlemleri görüntüleyebilirsiniz. https://www.turkiye.gov.tr/mill-savunma-askerligim",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.2,
+      "durum": 0.2,
+      "bilgileri": 0.2,
+      "islem": 0.2,
+      "e-devlet": 0.2
+    }
+  },
+  {
+    "question": "4A işe giriş/çıkış bildirgemi nasıl görürüm?",
+    "answer": "e-Devlet’te “4A İşe Giriş Çıkış Bildirgesi” hizmetinden görüntüleyebilirsiniz. https://www.turkiye.gov.tr/sosyal-guvenlik-4a-ise-giris-cikis-bildirgesi",
+    "category": "Askerlik",
+    "tfidf": {
+      "4a": 0.2,
+      "işe": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "bildirge": 0.2
+    }
+  },
+  {
+    "question": "GSB yurt başvurusu nasıl yapılır?",
+    "answer": "e-Devlet’te “Yurt Başvurusu” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/gsb-yurt-basvurusu",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "yurt": 0.2,
+      "başvuru": 0.2,
+      "gsb": 0.2,
+      "kyk": 0.2,
+      "e-devlet": 0.2
+    }
+  },
+  {
+    "question": "Burs/öğrenim kredisi başvuru ve onayı nasıl yapılır?",
+    "answer": "Başvuru için “Burs / Öğrenim Kredisi Başvurusu”, onay için “Burs/Kredi Taahhütnamesi Onay İşlemleri” hizmetlerini kullanın. https://www.turkiye.gov.tr/kyk-krediburs-basvurusu https://turkiye.gov.tr/kyk-burs-kredi-onay-islemleri",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "burs": 0.2,
+      "kredi": 0.2,
+      "başvuru": 0.2,
+      "onay": 0.2,
+      "taahhütname": 0.2
+    }
+  },
+  {
+    "question": "Aynı hanede ikamet için muvafakatı nasıl veririm?",
+    "answer": "e-Devlet’te “Adres Beyanı İçin Muvafakat Verme” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/nvi-adres-beyan-icin-muvafakat-verme",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "muvafakat": 0.2,
+      "adres": 0.2,
+      "beyan": 0.2,
+      "ikamet": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "T.C. kimlik kartı randevusunu nereden alırım?",
+    "answer": "e-Devlet’te “T.C. Kimlik Kartı Başvuru Randevusu” hizmetinden randevu alabilirsiniz. https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-basvuru-randevusu",
+    "category": "Nüfus",
+    "tfidf": {
+      "tc": 0.2,
+      "kimlik": 0.2,
+      "kartı": 0.2,
+      "randevu": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Açılmış dava dosyalarımı nereden görürüm?",
+    "answer": "e-Devlet’te “Dava Dosyası Sorgulama (UYAP)” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/davalarim",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "dava": 0.2,
+      "dosyası": 0.2,
+      "uyap": 0.2,
+      "sorgulama": 0.2,
+      "adalet": 0.2
+    }
+  },
+  {
+    "question": "Muris adına açılmış hukuk davası dosyalarını nasıl sorgularım?",
+    "answer": "e-Devlet’te “Hukuk Dava Dosyası Sorgulama (Mirasçısı Olduğunuz Kişi Adına)” hizmetini kullanın. https://www.turkiye.gov.tr/adalet-murise-ait-hukuk-dava-dosyasi-sorgulama",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "muris": 0.2,
+      "mirasçı": 0.2,
+      "hukuk": 0.2,
+      "dava": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Araç plakama yazılan trafik cezasını nasıl sorgularım?",
+    "answer": "e-Devlet’te “Araç Plakasına Yazılan Ceza Sorgulama” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/emniyet-arac-plakasina-yazilan-ceza-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.2,
+      "plaka": 0.2,
+      "trafik": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Sürücü belgeme yazılan cezaları nereden görürüm?",
+    "answer": "e-Devlet’te “Sürücü Belgesi ve Şahıslara Yazılan Ceza Sorgulama” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/emniyet-surucu-belgesi-ve-sahislara-yazilan-ceza-sorgulama",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "sürücü": 0.2,
+      "belgesi": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2,
+      "emniyet": 0.2
+    }
+  },
+  {
+    "question": "Evlilik (nikâh) randevusunu nasıl alırım?",
+    "answer": "Başvuru ve randevu süreçleri belediyeye göre değişir. İl/ilçenizin belediyesinin Evlendirme Dairesi sayfasından çevrim içi randevu oluşturabilir veya daireyi telefonla arayabilirsiniz.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.2,
+      "nikah": 0.2,
+      "evlilik": 0.2,
+      "randevu": 0.2,
+      "evlendirme": 0.2
+    }
+  },
+  {
+    "question": "Emlak vergisi/ÇTV borcumu belediyeden nasıl öderim?",
+    "answer": "Çoğu belediyede e-Belediye portalı üzerinden plaka/T.C. ile borç sorgulayıp kartla ödeme yapılır. Detaylar belediyenin resmi web sitesinde yer alır.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "emlak": 0.2,
+      "vergi": 0.2,
+      "çtv": 0.2,
+      "belediye": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Yurda giriş/çıkış kayıtlarımı nasıl alırım?",
+    "answer": "e-Devlet’te “Yurda Giriş/Çıkış Belge Sorgulama” hizmetinden barkodlu belge oluşturabilirsiniz. https://www.turkiye.gov.tr/emniyet-yurda-giriscikis-belge-sorgulama",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurda": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Evime en yakın afet toplanma alanını nasıl bulurum?",
+    "answer": "e-Devlet’te “Afet ve Acil Durum Toplanma Alanı Sorgulama” hizmetini kullanabilirsiniz. https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afet": 0.2,
+      "toplanma": 0.2,
+      "alanı": 0.2,
+      "sorgulama": 0.2,
+      "afad": 0.2
+    }
+  },
+  {
+    "question": "DASK poliçemi ve hasar durumumu nereden sorgularım?",
+    "answer": "e-Devlet’te DASK “Poliçe Sorgulama” ve “Hasar Sorgulama” hizmetlerini kullanabilirsiniz. https://turkiye.gov.tr/dask-police-sorgulama https://www.turkiye.gov.tr/dogal-afet-sigortalari-hasar-sorgulama",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.2,
+      "poliçe": 0.2,
+      "hasar": 0.2,
+      "sorgulama": 0.2,
+      "afet": 0.2
+    }
+  },
+  {
+    "question": "GSS prim borcumu nereden öğrenirim?",
+    "answer": "e-Devlet’te “GSS Prim Borcu Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "gss": 0.2,
+      "prim": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Genel Sağlık Sigortası borcum var mı, nasıl bakarım?",
+    "answer": "e-Devlet’te “GSS Prim Borcu Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "gss": 0.2,
+      "prim": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "GSS borç sorgulama ekranı nerede?",
+    "answer": "e-Devlet’te “GSS Prim Borcu Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "gss": 0.2,
+      "prim": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "4A hizmet dökümünü nasıl indiririm?",
+    "answer": "e-Devlet’te “4A Hizmet Dökümü” hizmetinden görüntüleyip PDF indirebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "hizmet": 0.2,
+      "dökümü": 0.2,
+      "ssk": 0.2,
+      "pdf": 0.2
+    }
+  },
+  {
+    "question": "SSK hizmet dökümüne nereden bakarım?",
+    "answer": "e-Devlet’te “4A Hizmet Dökümü” hizmetinden görüntüleyip PDF indirebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "hizmet": 0.2,
+      "dökümü": 0.2,
+      "ssk": 0.2,
+      "pdf": 0.2
+    }
+  },
+  {
+    "question": "4A hizmet dökümü PDF nasıl alınır?",
+    "answer": "e-Devlet’te “4A Hizmet Dökümü” hizmetinden görüntüleyip PDF indirebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "hizmet": 0.2,
+      "dökümü": 0.2,
+      "ssk": 0.2,
+      "pdf": 0.2
+    }
+  },
+  {
+    "question": "Bağ-Kur prim borcumu nasıl sorgularım?",
+    "answer": "e-Devlet’te “4B (Bağ-Kur) Borç Durumu” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "4b": 0.2,
+      "bağ-kur": 0.2,
+      "borç": 0.2,
+      "durumu": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "4B borç durumuna nereden bakarım?",
+    "answer": "e-Devlet’te “4B (Bağ-Kur) Borç Durumu” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "4b": 0.2,
+      "bağ-kur": 0.2,
+      "borç": 0.2,
+      "durumu": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Bağ-Kur borç dökümünü internetten nasıl görürüm?",
+    "answer": "e-Devlet’te “4B (Bağ-Kur) Borç Durumu” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "4b": 0.2,
+      "bağ-kur": 0.2,
+      "borç": 0.2,
+      "durumu": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "4C emekli aylık bilgimi nerede görürüm?",
+    "answer": "e-Devlet’te “4C Emekli Aylık Bilgisi” hizmetini açın.",
+    "category": "SGK",
+    "tfidf": {
+      "4c": 0.2,
+      "emekli": 0.2,
+      "aylık": 0.2,
+      "bilgisi": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Emekli Sandığı aylık bilgisi sorgulaması nasıl yapılır?",
+    "answer": "e-Devlet’te “4C Emekli Aylık Bilgisi” hizmetini açın.",
+    "category": "SGK",
+    "tfidf": {
+      "4c": 0.2,
+      "emekli": 0.2,
+      "aylık": 0.2,
+      "bilgisi": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "4C aylık bilgisi ekranı nerede?",
+    "answer": "e-Devlet’te “4C Emekli Aylık Bilgisi” hizmetini açın.",
+    "category": "SGK",
+    "tfidf": {
+      "4c": 0.2,
+      "emekli": 0.2,
+      "aylık": 0.2,
+      "bilgisi": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Emeklilik yaşımı ve primimi nereden öğrenirim?",
+    "answer": "e-Devlet’te “Ne Zaman Emekli Olabilirim?” hizmeti üzerinden şartlarınızı kontrol edebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "emeklilik": 0.2,
+      "ne": 0.2,
+      "zaman": 0.2,
+      "sorgulama": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Emeklilik hesaplama ekranı nerede?",
+    "answer": "e-Devlet’te “Ne Zaman Emekli Olabilirim?” hizmeti üzerinden şartlarınızı kontrol edebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "emeklilik": 0.2,
+      "ne": 0.2,
+      "zaman": 0.2,
+      "sorgulama": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "İşgöremezlik ödeneğim yattı mı, nasıl bakarım?",
+    "answer": "e-Devlet’te “İşgöremezlik Ödemesi Görme” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "işgöremezlik": 0.2,
+      "ödemesi": 0.2,
+      "4a": 0.2,
+      "4b": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "4A/4B işgöremezlik ödemesi nereden görüntülenir?",
+    "answer": "e-Devlet’te “İşgöremezlik Ödemesi Görme” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "işgöremezlik": 0.2,
+      "ödemesi": 0.2,
+      "4a": 0.2,
+      "4b": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Rapor parası sorgulaması nasıl yapılır?",
+    "answer": "e-Devlet’te “İşgöremezlik Ödemesi Görme” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "işgöremezlik": 0.2,
+      "ödemesi": 0.2,
+      "4a": 0.2,
+      "4b": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Sigortalı hizmet dökümü yerine kayıt belgesi nereden alınır?",
+    "answer": "e-Devlet’te “Sosyal Güvenlik Kayıt Belgesi Sorgulama” hizmetinden barkodlu belge alabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.2,
+      "kayıt": 0.2,
+      "belgesi": 0.2,
+      "barkodlu": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "SGK kayıt belgesi e-Devlet linki?",
+    "answer": "e-Devlet’te “Sosyal Güvenlik Kayıt Belgesi Sorgulama” hizmetinden barkodlu belge alabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.2,
+      "kayıt": 0.2,
+      "belgesi": 0.2,
+      "barkodlu": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "İşe giriş bildirgemi nereden görürüm?",
+    "answer": "e-Devlet’te “4A İşe Giriş/Çıkış Bildirgesi” hizmetini açın.",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "işe": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "bildirgesi": 0.2
+    }
+  },
+  {
+    "question": "4A işe giriş-çıkış bildirgesi nasıl görüntülenir?",
+    "answer": "e-Devlet’te “4A İşe Giriş/Çıkış Bildirgesi” hizmetini açın.",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "işe": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "bildirgesi": 0.2
+    }
+  },
+  {
+    "question": "İşe giriş çıkış e-Devlet belgesi nasıl alınır?",
+    "answer": "e-Devlet’te “4A İşe Giriş/Çıkış Bildirgesi” hizmetini açın.",
+    "category": "SGK",
+    "tfidf": {
+      "4a": 0.2,
+      "işe": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "bildirgesi": 0.2
+    }
+  },
+  {
+    "question": "GSS gelir testi sonucumu nereden öğrenirim?",
+    "answer": "e-Devlet’te “Gelir Testi Sonucu Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "gelir": 0.2,
+      "testi": 0.2,
+      "sonucu": 0.2,
+      "gss": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Gelir testi sonucu e-Devlet’te nerede?",
+    "answer": "e-Devlet’te “Gelir Testi Sonucu Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "gelir": 0.2,
+      "testi": 0.2,
+      "sonucu": 0.2,
+      "gss": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "GSS gelir testi linki?",
+    "answer": "e-Devlet’te “Gelir Testi Sonucu Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "gelir": 0.2,
+      "testi": 0.2,
+      "sonucu": 0.2,
+      "gss": 0.2,
+      "sgk": 0.2
+    }
+  },
+  {
+    "question": "Doğum borçlanması başvurusu nasıl yapılır?",
+    "answer": "e-Devlet’te “Doğum Borçlanması Başvurusu” hizmetini kontrol edebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "doğum": 0.25,
+      "borçlanması": 0.25,
+      "başvuru": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Doğum borçlanması şartları ve başvuru ekranı nerede?",
+    "answer": "e-Devlet’te “Doğum Borçlanması Başvurusu” hizmetini kontrol edebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "doğum": 0.25,
+      "borçlanması": 0.25,
+      "başvuru": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "SGK doğum borçlanması e-Devlet’te var mı?",
+    "answer": "e-Devlet’te “Doğum Borçlanması Başvurusu” hizmetini kontrol edebilirsiniz.",
+    "category": "SGK",
+    "tfidf": {
+      "doğum": 0.25,
+      "borçlanması": 0.25,
+      "başvuru": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Askerlik borçlanması başvurusu nasıl yapılır?",
+    "answer": "e-Devlet’te “Askerlik Borçlanması Başvurusu” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "askerlik": 0.25,
+      "borçlanması": 0.25,
+      "başvuru": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Askerlik borçlanması e-Devlet başvurusu nerede?",
+    "answer": "e-Devlet’te “Askerlik Borçlanması Başvurusu” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "askerlik": 0.25,
+      "borçlanması": 0.25,
+      "başvuru": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Askerlik borçlanması dilekçesi yerine online başvuru olur mu?",
+    "answer": "e-Devlet’te “Askerlik Borçlanması Başvurusu” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "askerlik": 0.25,
+      "borçlanması": 0.25,
+      "başvuru": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "SGK tescil ve hizmet dökümüne nereden bakarım?",
+    "answer": "e-Devlet’te “Tescil ve Hizmet Dökümü” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.25,
+      "tescil": 0.25,
+      "hizmet": 0.25,
+      "dökümü": 0.25
+    }
+  },
+  {
+    "question": "Tescil hizmet dökümü e-Devlet linki?",
+    "answer": "e-Devlet’te “Tescil ve Hizmet Dökümü” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.25,
+      "tescil": 0.25,
+      "hizmet": 0.25,
+      "dökümü": 0.25
+    }
+  },
+  {
+    "question": "Tescil ve hizmet bilgilerini nasıl görürüm?",
+    "answer": "e-Devlet’te “Tescil ve Hizmet Dökümü” hizmetini kullanın.",
+    "category": "SGK",
+    "tfidf": {
+      "sgk": 0.25,
+      "tescil": 0.25,
+      "hizmet": 0.25,
+      "dökümü": 0.25
+    }
+  },
+  {
+    "question": "GİB vergi borcu ödeme ekranı nerede?",
+    "answer": "e-Devlet’te GİB “Vergi Borcu Sorgulama ve Ödeme” hizmetini kullanın veya ivd.gib.gov.tr’den kartla ödeme yapın.",
+    "category": "Vergi",
+    "tfidf": {
+      "vergi": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "ödeme": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "Vergi borcu kartla nasıl ödenir?",
+    "answer": "e-Devlet’te GİB “Vergi Borcu Sorgulama ve Ödeme” hizmetini kullanın veya ivd.gib.gov.tr’den kartla ödeme yapın.",
+    "category": "Vergi",
+    "tfidf": {
+      "vergi": 0.2,
+      "borcu": 0.2,
+      "sorgulama": 0.2,
+      "ödeme": 0.2,
+      "gib": 0.2
+    }
+  },
+  {
+    "question": "Motorlu Taşıtlar Vergisi ödeme ekranı nerede?",
+    "answer": "e-Devlet’te GİB “Motorlu Taşıtlar Vergisi (MTV) Sorgulama/Ödeme” hizmetini kullanabilirsiniz.",
+    "category": "Vergi",
+    "tfidf": {
+      "mtv": 0.2,
+      "motorlu": 0.2,
+      "taşıtlar": 0.2,
+      "vergi": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "MTV sorgulama e-Devlet linki?",
+    "answer": "e-Devlet’te GİB “Motorlu Taşıtlar Vergisi (MTV) Sorgulama/Ödeme” hizmetini kullanabilirsiniz.",
+    "category": "Vergi",
+    "tfidf": {
+      "mtv": 0.2,
+      "motorlu": 0.2,
+      "taşıtlar": 0.2,
+      "vergi": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Taksitli yapılandırma ödemesi nasıl yapılır?",
+    "answer": "e-Devlet’te GİB “Yapılandırılan Vergi Borçları Sorgulama ve Ödeme” hizmeti mevcuttur.",
+    "category": "Vergi",
+    "tfidf": {
+      "yapılandırılan": 0.25,
+      "vergi": 0.25,
+      "borçları": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "Yapılandırma borcu sorgu ekranı?",
+    "answer": "e-Devlet’te GİB “Yapılandırılan Vergi Borçları Sorgulama ve Ödeme” hizmeti mevcuttur.",
+    "category": "Vergi",
+    "tfidf": {
+      "yapılandırılan": 0.25,
+      "vergi": 0.25,
+      "borçları": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "e-Vergi levhası nereden alınır?",
+    "answer": "GİB “e-Vergi Levhası” hizmeti üzerinden vergi levhasını görüntüleyebilirsiniz.",
+    "category": "Vergi",
+    "tfidf": {
+      "e-vergi": 0.25,
+      "levhası": 0.25,
+      "gib": 0.25,
+      "mükellef": 0.25
+    }
+  },
+  {
+    "question": "Vergi levhası e-Devlet’te var mı?",
+    "answer": "GİB “e-Vergi Levhası” hizmeti üzerinden vergi levhasını görüntüleyebilirsiniz.",
+    "category": "Vergi",
+    "tfidf": {
+      "e-vergi": 0.25,
+      "levhası": 0.25,
+      "gib": 0.25,
+      "mükellef": 0.25
+    }
+  },
+  {
+    "question": "Vergi levhası görüntüleme nasıl yapılır?",
+    "answer": "GİB “e-Vergi Levhası” hizmeti üzerinden vergi levhasını görüntüleyebilirsiniz.",
+    "category": "Vergi",
+    "tfidf": {
+      "e-vergi": 0.25,
+      "levhası": 0.25,
+      "gib": 0.25,
+      "mükellef": 0.25
+    }
+  },
+  {
+    "question": "Yurt dışı çıkış harcı online nasıl ödenir?",
+    "answer": "GİB Dijital Ödemeler’den “Yurt Dışına Çıkış Harcı” online ödenebilir.",
+    "category": "Vergi",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışına": 0.2,
+      "çıkış": 0.2,
+      "harcı": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Çıkış harcı ödeme ekranı nerede?",
+    "answer": "GİB Dijital Ödemeler’den “Yurt Dışına Çıkış Harcı” online ödenebilir.",
+    "category": "Vergi",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışına": 0.2,
+      "çıkış": 0.2,
+      "harcı": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Yurt dışı harcı kartla ödeme olur mu?",
+    "answer": "GİB Dijital Ödemeler’den “Yurt Dışına Çıkış Harcı” online ödenebilir.",
+    "category": "Vergi",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışına": 0.2,
+      "çıkış": 0.2,
+      "harcı": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Tapu bilgileri sorgulama e-Devlet linki?",
+    "answer": "e-Devlet’te “Tapu Bilgileri Sorgulama” hizmetinden adınıza kayıtlı taşınmazları görebilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.25,
+      "bilgileri": 0.25,
+      "sorgulama": 0.25,
+      "tkgm": 0.25
+    }
+  },
+  {
+    "question": "Tapuda üzerime kayıtlı taşınmaz var mı?",
+    "answer": "e-Devlet’te “Tapu Bilgileri Sorgulama” hizmetinden adınıza kayıtlı taşınmazları görebilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.25,
+      "bilgileri": 0.25,
+      "sorgulama": 0.25,
+      "tkgm": 0.25
+    }
+  },
+  {
+    "question": "Web Tapu başvurusu nasıl yapılır?",
+    "answer": "Web Tapu üzerinden başvuru ve işlem takibini e-Devlet “Web Tapu” sayfasından yapabilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "web": 0.2,
+      "tapu": 0.2,
+      "başvuru": 0.2,
+      "işlem": 0.2,
+      "tkgm": 0.2
+    }
+  },
+  {
+    "question": "Web Tapu giriş ve işlem takibi nereden?",
+    "answer": "Web Tapu üzerinden başvuru ve işlem takibini e-Devlet “Web Tapu” sayfasından yapabilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "web": 0.2,
+      "tapu": 0.2,
+      "başvuru": 0.2,
+      "işlem": 0.2,
+      "tkgm": 0.2
+    }
+  },
+  {
+    "question": "Web Tapu e-Devlet sayfası linki?",
+    "answer": "Web Tapu üzerinden başvuru ve işlem takibini e-Devlet “Web Tapu” sayfasından yapabilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "web": 0.2,
+      "tapu": 0.2,
+      "başvuru": 0.2,
+      "işlem": 0.2,
+      "tkgm": 0.2
+    }
+  },
+  {
+    "question": "Tapu harç ve döner sermaye ödemesi nasıl yapılır?",
+    "answer": "“Tapu Harcı ve Döner Sermaye Ödeme” hizmetinden online ödeme yapabilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.2,
+      "harcı": 0.2,
+      "döner": 0.2,
+      "sermaye": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Tapu harcı online ödenir mi?",
+    "answer": "“Tapu Harcı ve Döner Sermaye Ödeme” hizmetinden online ödeme yapabilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.2,
+      "harcı": 0.2,
+      "döner": 0.2,
+      "sermaye": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Döner sermaye bedeli nereden ödenir?",
+    "answer": "“Tapu Harcı ve Döner Sermaye Ödeme” hizmetinden online ödeme yapabilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "tapu": 0.2,
+      "harcı": 0.2,
+      "döner": 0.2,
+      "sermaye": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Yetkilendirildiğim taşınmazları nereden görürüm?",
+    "answer": "“Yetkilendirildiğim Taşınmazlar” hizmeti ile size verilen yetkileri görebilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "yetkilendirildiğim": 0.25,
+      "taşınmazlar": 0.25,
+      "web": 0.25,
+      "tapu": 0.25
+    }
+  },
+  {
+    "question": "Web Tapu yetki verdiğim kişiler nasıl görünür?",
+    "answer": "“Yetkilendirildiğim Taşınmazlar” hizmeti ile size verilen yetkileri görebilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "yetkilendirildiğim": 0.25,
+      "taşınmazlar": 0.25,
+      "web": 0.25,
+      "tapu": 0.25
+    }
+  },
+  {
+    "question": "Taşınmaz yetkilendirmesi sorgulama?",
+    "answer": "“Yetkilendirildiğim Taşınmazlar” hizmeti ile size verilen yetkileri görebilirsiniz.",
+    "category": "Tapu",
+    "tfidf": {
+      "yetkilendirildiğim": 0.25,
+      "taşınmazlar": 0.25,
+      "web": 0.25,
+      "tapu": 0.25
+    }
+  },
+  {
+    "question": "Adres beyanını nereden yaparım?",
+    "answer": "e-Devlet’te “Adres Değişikliği Bildirimi” hizmetinden online bildirim yapılır.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.25,
+      "değişikliği": 0.25,
+      "bildirimi": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Adres değişikliği e-Devlet linki?",
+    "answer": "e-Devlet’te “Adres Değişikliği Bildirimi” hizmetinden online bildirim yapılır.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.25,
+      "değişikliği": 0.25,
+      "bildirimi": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Adres beyanı için muvafakat nereden verilir?",
+    "answer": "“Adres Beyanı İçin Muvafakat Verme (Birlikte Oturma)” hizmetini kullanabilirsiniz.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.2,
+      "muvafakat": 0.2,
+      "birlikte": 0.2,
+      "oturma": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Birlikte oturma muvafakati e-Devlet’te var mı?",
+    "answer": "“Adres Beyanı İçin Muvafakat Verme (Birlikte Oturma)” hizmetini kullanabilirsiniz.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "adres": 0.2,
+      "muvafakat": 0.2,
+      "birlikte": 0.2,
+      "oturma": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "İkametgâh belgesini nasıl alırım?",
+    "answer": "“Yerleşim Yeri (İkametgâh) Belgesi Sorgulama” hizmetinden barkodlu belge alınır.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "yerleşim": 0.2,
+      "ikametgah": 0.2,
+      "belgesi": 0.2,
+      "sorgulama": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Yerleşim yeri belgesi nereden alınır?",
+    "answer": "“Yerleşim Yeri (İkametgâh) Belgesi Sorgulama” hizmetinden barkodlu belge alınır.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "yerleşim": 0.2,
+      "ikametgah": 0.2,
+      "belgesi": 0.2,
+      "sorgulama": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Adres belgesi e-Devlet linki?",
+    "answer": "“Yerleşim Yeri (İkametgâh) Belgesi Sorgulama” hizmetinden barkodlu belge alınır.",
+    "category": "Adres ve İkametgah",
+    "tfidf": {
+      "yerleşim": 0.2,
+      "ikametgah": 0.2,
+      "belgesi": 0.2,
+      "sorgulama": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Kimlik yenileme randevusu nasıl alınır?",
+    "answer": "“T.C. Kimlik Kartı Başvuru Randevusu” hizmetinden randevu alabilirsiniz.",
+    "category": "Nüfus",
+    "tfidf": {
+      "tc": 0.2,
+      "kimlik": 0.2,
+      "kartı": 0.2,
+      "randevu": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Kimlik randevusu e-Devlet linki?",
+    "answer": "“T.C. Kimlik Kartı Başvuru Randevusu” hizmetinden randevu alabilirsiniz.",
+    "category": "Nüfus",
+    "tfidf": {
+      "tc": 0.2,
+      "kimlik": 0.2,
+      "kartı": 0.2,
+      "randevu": 0.2,
+      "nvi": 0.2
+    }
+  },
+  {
+    "question": "Pasaport randevusu nereden alınır?",
+    "answer": "“Pasaport Başvuru Randevusu” hizmetini kullanın.",
+    "category": "Nüfus",
+    "tfidf": {
+      "pasaport": 0.25,
+      "başvuru": 0.25,
+      "randevusu": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Pasaport randevu e-Devlet sayfası?",
+    "answer": "“Pasaport Başvuru Randevusu” hizmetini kullanın.",
+    "category": "Nüfus",
+    "tfidf": {
+      "pasaport": 0.25,
+      "başvuru": 0.25,
+      "randevusu": 0.25,
+      "nvi": 0.25
+    }
+  },
+  {
+    "question": "Nüfus kayıt örneğini nasıl alırım?",
+    "answer": "“Nüfus Kayıt Örneği Sorgulama” hizmeti ile barkodlu belge alabilirsiniz.",
+    "category": "Nüfus",
+    "tfidf": {
+      "nüfus": 0.2,
+      "kayıt": 0.2,
+      "örneği": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Vukuatlı nüfus kayıt örneği e-Devlet’te var mı?",
+    "answer": "“Nüfus Kayıt Örneği Sorgulama” hizmeti ile barkodlu belge alabilirsiniz.",
+    "category": "Nüfus",
+    "tfidf": {
+      "nüfus": 0.2,
+      "kayıt": 0.2,
+      "örneği": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Nüfus kayıt örneği barkodlu nasıl alınır?",
+    "answer": "“Nüfus Kayıt Örneği Sorgulama” hizmeti ile barkodlu belge alabilirsiniz.",
+    "category": "Nüfus",
+    "tfidf": {
+      "nüfus": 0.2,
+      "kayıt": 0.2,
+      "örneği": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Askerliğim ekranına nasıl girerim?",
+    "answer": "MSB “Askerliğim” hizmeti üzerinden durum ve işlemlerinizi görüntüleyebilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.25,
+      "durum": 0.25,
+      "msb": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Askerlik durumumu e-Devlet’te nereden takip ederim?",
+    "answer": "MSB “Askerliğim” hizmeti üzerinden durum ve işlemlerinizi görüntüleyebilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.25,
+      "durum": 0.25,
+      "msb": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Durum belgesi barkodlu nereden alınır?",
+    "answer": "“Askerlik Durum Belgesi Sorgulama” hizmetinden barkodlu belge alabilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.25,
+      "durum": 0.25,
+      "belgesi": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Askerlik durum belgesi e-Devlet linki?",
+    "answer": "“Askerlik Durum Belgesi Sorgulama” hizmetinden barkodlu belge alabilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "askerlik": 0.25,
+      "durum": 0.25,
+      "belgesi": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Bedelli sınıflandırma sonucunu nereden görürüm?",
+    "answer": "“Bedelli Askerlik Sınıflandırma Sonucu Sorgulama” hizmetiyle takibi yapabilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "bedelli": 0.25,
+      "askerlik": 0.25,
+      "sınıflandırma": 0.25,
+      "sonucu": 0.25
+    }
+  },
+  {
+    "question": "Bedelli celp ve sevk tarihleri nasıl öğrenilir?",
+    "answer": "“Bedelli Askerlik Sınıflandırma Sonucu Sorgulama” hizmetiyle takibi yapabilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "bedelli": 0.25,
+      "askerlik": 0.25,
+      "sınıflandırma": 0.25,
+      "sonucu": 0.25
+    }
+  },
+  {
+    "question": "Sınıflandırma sonucum açıklandı mı, nereden bakarım?",
+    "answer": "“Bedelli Askerlik Sınıflandırma Sonucu Sorgulama” hizmetiyle takibi yapabilirsiniz.",
+    "category": "Askerlik",
+    "tfidf": {
+      "bedelli": 0.25,
+      "askerlik": 0.25,
+      "sınıflandırma": 0.25,
+      "sonucu": 0.25
+    }
+  },
+  {
+    "question": "Plakaya yazılan ceza e-Devlet linki?",
+    "answer": "EGM “Araç Plakasına Yazılan Ceza Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.2,
+      "plaka": 0.2,
+      "trafik": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Araç cezam var mı, nereden bakarım?",
+    "answer": "EGM “Araç Plakasına Yazılan Ceza Sorgulama” hizmetini kullanabilirsiniz.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.2,
+      "plaka": 0.2,
+      "trafik": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Şahıslara yazılan cezaları nasıl sorgularım?",
+    "answer": "EGM “Sürücü Belgesi ve Şahıslara Yazılan Ceza Sorgulama” hizmeti mevcuttur.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "sürücü": 0.2,
+      "belgesi": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2,
+      "egm": 0.2
+    }
+  },
+  {
+    "question": "Sürücü ceza sorgulama ekranı?",
+    "answer": "EGM “Sürücü Belgesi ve Şahıslara Yazılan Ceza Sorgulama” hizmeti mevcuttur.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "sürücü": 0.2,
+      "belgesi": 0.2,
+      "ceza": 0.2,
+      "sorgulama": 0.2,
+      "egm": 0.2
+    }
+  },
+  {
+    "question": "Araç muayene raporumu nereden görüntülerim?",
+    "answer": "TÜVTÜRK “Muayene Raporu ve Tespit Formu Sorgulama” sayfasından raporunuza ulaşabilirsiniz.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.25,
+      "muayene": 0.25,
+      "raporu": 0.25,
+      "tüvtürk": 0.25
+    }
+  },
+  {
+    "question": "TÜVTÜRK muayene raporu sorgulama nasıl?",
+    "answer": "TÜVTÜRK “Muayene Raporu ve Tespit Formu Sorgulama” sayfasından raporunuza ulaşabilirsiniz.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.25,
+      "muayene": 0.25,
+      "raporu": 0.25,
+      "tüvtürk": 0.25
+    }
+  },
+  {
+    "question": "Muayene tespit formuna nasıl ulaşırım?",
+    "answer": "TÜVTÜRK “Muayene Raporu ve Tespit Formu Sorgulama” sayfasından raporunuza ulaşabilirsiniz.",
+    "category": "Trafik ve Emniyet",
+    "tfidf": {
+      "araç": 0.25,
+      "muayene": 0.25,
+      "raporu": 0.25,
+      "tüvtürk": 0.25
+    }
+  },
+  {
+    "question": "Belediye borç sorgulama nerede?",
+    "answer": "e-Devlet’te “Belediyeler” sayfasından belediyenizi seçip borç/ödeme hizmetlerine erişebilirsiniz.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "borç": 0.25,
+      "ödeme": 0.25,
+      "e-devlet": 0.25
+    }
+  },
+  {
+    "question": "e-Belediye ödemeleri nasıl yapılır?",
+    "answer": "e-Devlet’te “Belediyeler” sayfasından belediyenizi seçip borç/ödeme hizmetlerine erişebilirsiniz.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "borç": 0.25,
+      "ödeme": 0.25,
+      "e-devlet": 0.25
+    }
+  },
+  {
+    "question": "Nikah işlemleri için online randevu var mı?",
+    "answer": "İl/ilçe belediyenizin Evlendirme Dairesi sayfasından çevrimiçi nikâh randevusu alınabilir.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "nikah": 0.25,
+      "evlilik": 0.25,
+      "randevu": 0.25
+    }
+  },
+  {
+    "question": "Evlendirme dairesi randevusu nereden alınır?",
+    "answer": "İl/ilçe belediyenizin Evlendirme Dairesi sayfasından çevrimiçi nikâh randevusu alınabilir.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "nikah": 0.25,
+      "evlilik": 0.25,
+      "randevu": 0.25
+    }
+  },
+  {
+    "question": "Su faturası borcumu belediyeden nasıl öderim?",
+    "answer": "Birçok belediyede su faturası borç sorgulama ve online ödeme mümkündür; belediyenizin resmi sitesini kullanın.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "su": 0.25,
+      "borcu": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "Su borcu sorgulama sayfası nerede?",
+    "answer": "Birçok belediyede su faturası borç sorgulama ve online ödeme mümkündür; belediyenizin resmi sitesini kullanın.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "su": 0.25,
+      "borcu": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "Belediye su borcu online ödenir mi?",
+    "answer": "Birçok belediyede su faturası borç sorgulama ve online ödeme mümkündür; belediyenizin resmi sitesini kullanın.",
+    "category": "Belediye İşlemleri",
+    "tfidf": {
+      "belediye": 0.25,
+      "su": 0.25,
+      "borcu": 0.25,
+      "ödeme": 0.25
+    }
+  },
+  {
+    "question": "AFAD toplanma alanı sorgulama linki?",
+    "answer": "e-Devlet’te “Afet ve Acil Durum Toplanma Alanı Sorgulama” hizmetini kullanın.",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afad": 0.25,
+      "toplanma": 0.25,
+      "alanı": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Mahallemde toplanma alanı nerede?",
+    "answer": "e-Devlet’te “Afet ve Acil Durum Toplanma Alanı Sorgulama” hizmetini kullanın.",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "afad": 0.25,
+      "toplanma": 0.25,
+      "alanı": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Zorunlu deprem sigortası poliçesi nasıl görüntülenir?",
+    "answer": "DASK “Poliçe Sorgulama” hizmetiyle poliçenizi görebilirsiniz.",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.25,
+      "poliçe": 0.25,
+      "sorgulama": 0.25,
+      "afet": 0.25
+    }
+  },
+  {
+    "question": "DASK poliçe ekranı e-Devlet’te var mı?",
+    "answer": "DASK “Poliçe Sorgulama” hizmetiyle poliçenizi görebilirsiniz.",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.25,
+      "poliçe": 0.25,
+      "sorgulama": 0.25,
+      "afet": 0.25
+    }
+  },
+  {
+    "question": "DASK hasar sorgulama nerede?",
+    "answer": "DASK “Hasar Sorgulama” ekranından dosyanızı takip edebilirsiniz.",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.25,
+      "hasar": 0.25,
+      "sorgulama": 0.25,
+      "dosya": 0.25
+    }
+  },
+  {
+    "question": "Deprem hasar dosyası takibi e-Devlet linki?",
+    "answer": "DASK “Hasar Sorgulama” ekranından dosyanızı takip edebilirsiniz.",
+    "category": "Afet ve Acil Durum",
+    "tfidf": {
+      "dask": 0.25,
+      "hasar": 0.25,
+      "sorgulama": 0.25,
+      "dosya": 0.25
+    }
+  },
+  {
+    "question": "UYAP üzerinden dava sorgulaması nasıl yapılır?",
+    "answer": "e-Devlet’te “UYAP Vatandaş Portal” girişinden dava dosyalarınızı görüntüleyebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uyap": 0.2,
+      "vatandaş": 0.2,
+      "dava": 0.2,
+      "dosyası": 0.2,
+      "sorgu": 0.2
+    }
+  },
+  {
+    "question": "Dava dosyamı e-Devlet’te nasıl bulurum?",
+    "answer": "e-Devlet’te “UYAP Vatandaş Portal” girişinden dava dosyalarınızı görüntüleyebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uyap": 0.2,
+      "vatandaş": 0.2,
+      "dava": 0.2,
+      "dosyası": 0.2,
+      "sorgu": 0.2
+    }
+  },
+  {
+    "question": "Sabıka kaydı e-Devlet’te nerede?",
+    "answer": "“Adli Sicil Kaydı Sorgulama” hizmetinden barkodlu adli sicil kaydı alınır.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "adli": 0.25,
+      "sicil": 0.25,
+      "kaydı": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Adli sicil belgesi barkodlu nasıl alınır?",
+    "answer": "“Adli Sicil Kaydı Sorgulama” hizmetinden barkodlu adli sicil kaydı alınır.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "adli": 0.25,
+      "sicil": 0.25,
+      "kaydı": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "e‑Tebligatlarımı nereden görüntülerim?",
+    "answer": "“UETS e‑Tebligat İşlemleri (PTT)” üzerinden e‑tebligatlarınızı görüntüleyebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uets": 0.25,
+      "e-tebligat": 0.25,
+      "ptt": 0.25,
+      "adliye": 0.25
+    }
+  },
+  {
+    "question": "UETS e‑tebligat ekranı nerede?",
+    "answer": "“UETS e‑Tebligat İşlemleri (PTT)” üzerinden e‑tebligatlarınızı görüntüleyebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uets": 0.25,
+      "e-tebligat": 0.25,
+      "ptt": 0.25,
+      "adliye": 0.25
+    }
+  },
+  {
+    "question": "e‑Tebligat takibi nasıl yapılır?",
+    "answer": "“UETS e‑Tebligat İşlemleri (PTT)” üzerinden e‑tebligatlarınızı görüntüleyebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "uets": 0.25,
+      "e-tebligat": 0.25,
+      "ptt": 0.25,
+      "adliye": 0.25
+    }
+  },
+  {
+    "question": "Yargıtay dava sorgulama e-Devlet linki?",
+    "answer": "“Yargıtay Dava Dosya Sorgulama” hizmetiyle Yargıtay’daki dosyanızı görebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "yargıtay": 0.25,
+      "dava": 0.25,
+      "dosya": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Temyiz dosyamı nereden görebilirim?",
+    "answer": "“Yargıtay Dava Dosya Sorgulama” hizmetiyle Yargıtay’daki dosyanızı görebilirsiniz.",
+    "category": "Adliye ve Mahkeme",
+    "tfidf": {
+      "yargıtay": 0.25,
+      "dava": 0.25,
+      "dosya": 0.25,
+      "sorgulama": 0.25
+    }
+  },
+  {
+    "question": "Burs başvurusu e-Devlet linki?",
+    "answer": "“Burs / Öğrenim Kredisi Başvurusu” hizmetinden başvuru yapabilirsiniz.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "kyk": 0.2,
+      "burs": 0.2,
+      "öğrenim": 0.2,
+      "kredisi": 0.2,
+      "başvurusu": 0.2
+    }
+  },
+  {
+    "question": "Öğrenim kredisi başvurusu nereden?",
+    "answer": "“Burs / Öğrenim Kredisi Başvurusu” hizmetinden başvuru yapabilirsiniz.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "kyk": 0.2,
+      "burs": 0.2,
+      "öğrenim": 0.2,
+      "kredisi": 0.2,
+      "başvurusu": 0.2
+    }
+  },
+  {
+    "question": "Burs/kredi taahhütnamesini nereden onaylarım?",
+    "answer": "“Burs/Kredi Taahhütnamesi Onay İşlemleri” sayfasında onay yapılır.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "taahhütname": 0.2,
+      "onay": 0.2,
+      "kyk": 0.2,
+      "burs": 0.2,
+      "kredi": 0.2
+    }
+  },
+  {
+    "question": "KYK taahhütname onayı e-Devlet’te nasıl?",
+    "answer": "“Burs/Kredi Taahhütnamesi Onay İşlemleri” sayfasında onay yapılır.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "taahhütname": 0.2,
+      "onay": 0.2,
+      "kyk": 0.2,
+      "burs": 0.2,
+      "kredi": 0.2
+    }
+  },
+  {
+    "question": "Taahhütname onay ekranı nerede?",
+    "answer": "“Burs/Kredi Taahhütnamesi Onay İşlemleri” sayfasında onay yapılır.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "taahhütname": 0.2,
+      "onay": 0.2,
+      "kyk": 0.2,
+      "burs": 0.2,
+      "kredi": 0.2
+    }
+  },
+  {
+    "question": "KYK geri ödeme sorgulama e-Devlet linki?",
+    "answer": "“Öğrenim/Katkı Kredisi Geri Ödeme Sorgulama” ekranından borcunuzu görebilirsiniz.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "öğrenim": 0.2,
+      "kredisi": 0.2,
+      "geri": 0.2,
+      "ödeme": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Kredi borcu taksitleri nasıl görüntülenir?",
+    "answer": "“Öğrenim/Katkı Kredisi Geri Ödeme Sorgulama” ekranından borcunuzu görebilirsiniz.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "öğrenim": 0.2,
+      "kredisi": 0.2,
+      "geri": 0.2,
+      "ödeme": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Yurt başvurusu e-Devlet sayfası nerede?",
+    "answer": "“Yurt Başvurusu” hizmetinden GSB yurt başvurusu yapılır.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "gsb": 0.25,
+      "yurt": 0.25,
+      "başvurusu": 0.25,
+      "kyk": 0.25
+    }
+  },
+  {
+    "question": "KYK yurt başvurusuna nereden girilir?",
+    "answer": "“Yurt Başvurusu” hizmetinden GSB yurt başvurusu yapılır.",
+    "category": "KYK ve Burs",
+    "tfidf": {
+      "gsb": 0.25,
+      "yurt": 0.25,
+      "başvurusu": 0.25,
+      "kyk": 0.25
+    }
+  },
+  {
+    "question": "YUPASS sorgulama e-Devlet’te var mı?",
+    "answer": "“YUPASS Numarası Sorgulama” hizmetinden numaranızı öğrenebilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yupass": 0.25,
+      "numarası": 0.25,
+      "sorgulama": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "YUPASS numara ekranı nerede?",
+    "answer": "“YUPASS Numarası Sorgulama” hizmetinden numaranızı öğrenebilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yupass": 0.25,
+      "numarası": 0.25,
+      "sorgulama": 0.25,
+      "sgk": 0.25
+    }
+  },
+  {
+    "question": "Yurt dışı harcı kartla ödenir mi?",
+    "answer": "GİB Dijital Ödeme’de “Yurt Dışına Çıkış Harcı Ödeme” yapılabilir.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışı": 0.2,
+      "çıkış": 0.2,
+      "harcı": 0.2,
+      "ödeme": 0.2
+    }
+  },
+  {
+    "question": "Giriş çıkış belgesi e-Devlet linki?",
+    "answer": "EGM “Yurda Giriş/Çıkış Belge Sorgulama” hizmetinden barkodlu belge alabilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurda": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Sınır kapısı giriş-çıkış kaydı nerede?",
+    "answer": "EGM “Yurda Giriş/Çıkış Belge Sorgulama” hizmetinden barkodlu belge alabilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurda": 0.2,
+      "giriş": 0.2,
+      "çıkış": 0.2,
+      "belge": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Yurt dışı borçlanma başvurumu nereden takip ederim?",
+    "answer": "“Yurt Dışı Borçlanma Başvurusu Sorgulama ve Tebligat Görüntüleme” hizmetinden durumunuzu takip edebilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışı": 0.2,
+      "borçlanma": 0.2,
+      "başvurusu": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Yurtdışı borçlanma e-Devlet ekranı?",
+    "answer": "“Yurt Dışı Borçlanma Başvurusu Sorgulama ve Tebligat Görüntüleme” hizmetinden durumunuzu takip edebilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışı": 0.2,
+      "borçlanma": 0.2,
+      "başvurusu": 0.2,
+      "sorgulama": 0.2
+    }
+  },
+  {
+    "question": "Borçlanma tebligatımı nasıl görürüm?",
+    "answer": "“Yurt Dışı Borçlanma Başvurusu Sorgulama ve Tebligat Görüntüleme” hizmetinden durumunuzu takip edebilirsiniz.",
+    "category": "Yurt Dışı İşlemleri",
+    "tfidf": {
+      "yurt": 0.2,
+      "dışı": 0.2,
+      "borçlanma": 0.2,
+      "başvurusu": 0.2,
+      "sorgulama": 0.2
     }
   }
 ]
