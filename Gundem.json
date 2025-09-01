@@ -7,12 +7,7 @@
     { "name": "BBC Türkçe",       "url": "https://www.bbc.com/turkce/index.xml" },
     { "name": "T24",              "url": "https://t24.com.tr/rss" },
     { "name": "Yeni Şafak",       "url": "https://www.yenisafak.com/rss?category=gundem" },
-    { "name": "Euronews",         "url": "https://tr.euronews.com/rss?level=theme&name=news" },
-    { "name": "Haber7",           "url": "https://www.haber7.com/rss/haber.xml" },
-    { "name": "Haberler.com",     "url": "https://rss.haberler.com/rss.asp" },
-    { "name": "Cumhuriyet",       "url": "https://www.cumhuriyet.com.tr/rss/1.xml" },
-    { "name": "A News - Türkiye", "url": "https://www.anews.com.tr/rss/turkey.xml" },
-    { "name": "NTV Gündem",       "url": "https://www.ntv.com.tr/gundem.rss" }
+    { "name": "Euronews",         "url": "https://tr.euronews.com/rss?level=theme&name=news" }
   ],
 
   "stations": [
