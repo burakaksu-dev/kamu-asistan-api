@@ -7,7 +7,8 @@
     { "name": "BBC Türkçe",       "url": "https://www.bbc.com/turkce/index.xml" },
     { "name": "T24",              "url": "https://t24.com.tr/rss" },
     { "name": "Yeni Şafak",       "url": "https://www.yenisafak.com/rss?category=gundem" },
-    { "name": "Euronews",         "url": "https://tr.euronews.com/rss?level=theme&name=news" }
+    { "name": "Euronews",         "url": "https://tr.euronews.com/rss?level=theme&name=news" },
+	{ "name": "Haberler.com",     "url": "https://rss.haberler.com/rss.asp" }
   ],
 
   "stations": [
