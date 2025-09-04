@@ -2,6 +2,8 @@
   "categories": [
 	{
 	  "id": "sgk",
+	  "title": "SGK",
+	  "info_cards": [
 		{ "title": "Malulen Emeklilik (10 yıl / 1800 gün)", "body": "Sağlık kurulu raporunda en az %60 iş gücü kaybı tespit edilmeli. En az 10 yıl sigortalılık süresi ve 1800 gün prim şartı aranır. Bakıma muhtaç bireylerde sigortalılık süresi aranmaz; yalnızca 1800 gün prim yeterlidir." },
 		{ "title": "EYT (Emeklilikte Yaşa Takılanlar)", "body": "Sigorta başlangıcı 9 Eylül 1999 öncesi olanlar; kadınlar için 20 yıl sigortalılık ve 5000-5975 gün prim, erkekler için 25 yıl sigortalılık ve 5000-5975 gün prim şartıyla yaş beklemeden emekli olabilir." },
 		{ "title": "Normal Emeklilik (4A SSK)", "body": "Sigorta başlangıcı tarihine göre; 2000 sonrası başlayanlar için kadınlar 58, erkekler 60 yaş ve 7000 gün prim; 2008 sonrası için 7200 gün prim ve kademeli yaş artışı (en geç 65)." },
