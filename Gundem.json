@@ -9,10 +9,8 @@
     { "name": "Yeni Şafak",       "url": "https://www.yenisafak.com/rss?category=gundem" },
 	{ "name": "Milliyet", 		  "url": "http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml" },
     { "name": "Sözcü",    		  "url": "https://www.sozcu.com.tr/feeds-rss-category-gundem" },
-    { "name": "DW Türkçe",  	  "url": "https://rss.dw.com/rdf/rss-tur-all" },
     { "name": "Gazete Duvar", 	  "url": "https://www.gazeteduvar.com.tr/export/rss" },
     { "name": "NTV",      		  "url": "https://www.ntv.com.tr/gundem.rss" },
-    { "name": "CNN Türk",         "url": "https://www.cnnturk.com/feed/rss/all/news" },
     { "name": "Hürriyet",         "url": "http://www.hurriyet.com.tr/rss/gundem" },
     { "name": "Diken",            "url": "https://www.diken.com.tr/feed/" }
   ],
