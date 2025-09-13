@@ -12,7 +12,7 @@
     { "name": "DW Türkçe",  	  "url": "https://rss.dw.com/rdf/rss-tur-all" },
     { "name": "Gazete Duvar", 	  "url": "https://www.gazeteduvar.com.tr/export/rss" },
     { "name": "NTV",      		  "url": "https://www.ntv.com.tr/gundem.rss" },
-    { "name": "CNN Türk",         "url": "https://www.cnnturk.com/feed/rss/turkiye/news" },
+    { "name": "CNN Türk",         "url": "https://www.cnnturk.com/feed/rss/all/news" },
     { "name": "Hürriyet",         "url": "http://www.hurriyet.com.tr/rss/gundem" },
     { "name": "Diken",            "url": "https://www.diken.com.tr/feed/" }
   ],
