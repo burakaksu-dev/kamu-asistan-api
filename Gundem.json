@@ -1,18 +1,17 @@
 {
   "rss_sources": [
-    { "name": "TRT Haber",        "url": "https://www.trthaber.com/sondakika.rss" },
-    { "name": "Anadolu Ajansı",   "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel" },
-    { "name": "Habertürk",        "url": "https://www.haberturk.com/rss/kategori/gundem.xml" },
-    { "name": "Sabah",            "url": "https://www.sabah.com.tr/rss/anasayfa.xml" },
-    { "name": "BBC Türkçe",       "url": "https://www.bbc.com/turkce/index.xml" },
-    { "name": "T24",              "url": "https://t24.com.tr/rss" },
-    { "name": "Yeni Şafak",       "url": "https://www.yenisafak.com/rss?category=gundem" },
-	{ "name": "Milliyet", 		  "url": "http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml" },
-    { "name": "Sözcü",    		  "url": "https://www.sozcu.com.tr/feeds-rss-category-gundem" },
-    { "name": "Gazete Duvar", 	  "url": "https://www.gazeteduvar.com.tr/export/rss" },
-    { "name": "NTV",      		  "url": "https://www.ntv.com.tr/gundem.rss" },
-    { "name": "Hürriyet",         "url": "http://www.hurriyet.com.tr/rss/gundem" },
-    { "name": "Diken",            "url": "https://www.diken.com.tr/feed/" }
+	{ "name": "Sözcü",           "url": "https://www.sozcu.com.tr/feeds-rss-category-gundem" },
+	{ "name": "Hürriyet",        "url": "http://www.hurriyet.com.tr/rss/gundem" },
+	{ "name": "Sabah",           "url": "https://www.sabah.com.tr/rss/anasayfa.xml" },
+	{ "name": "Habertürk",       "url": "https://www.haberturk.com/rss/kategori/gundem.xml" },
+	{ "name": "NTV",             "url": "https://www.ntv.com.tr/gundem.rss" },
+	{ "name": "T24",             "url": "https://t24.com.tr/rss" },
+	{ "name": "Yeni Şafak",      "url": "https://www.yenisafak.com/rss?category=gundem" },
+	{ "name": "Anadolu Ajansı",  "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel" },
+	{ "name": "TRT Haber",       "url": "https://www.trthaber.com/sondakika.rss" },
+	{ "name": "Diken",           "url": "https://www.diken.com.tr/feed/" },
+	{ "name": "BBC Türkçe",      "url": "https://www.bbc.com/turkce/index.xml" },
+	{ "name": "Gazete Duvar",    "url": "https://www.gazeteduvar.com.tr/export/rss" }
   ],
 
   "stations": [
