@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": "ikametgah_adres_degisikligi",
     "category": "ADRES VE İKAMETGAH",
     "title": "İkametgâh (Adres) Değişikliği",
@@ -202,11 +202,12 @@
     "requiredDocuments": [
       "Eski nüfus cüzdanı veya geçerli kimlik belgesi",
       "1 adet biyometrik fotoğraf",
-      "Ödeme dekontu (2025 için kimlik kartı bedeli)"
+      "Ödeme dekontu (güncel kimlik kartı bedeli)"
     ],
     "duration": "Başvuru 15 dakika, kart teslimi 7-10 gün.",
     "notes": [
-      "Kimlik kartı başvurusu şahsen yapılır, vekalet kabul edilmez."
+      "Kimlik kartı başvurusu şahsen yapılır, vekalet kabul edilmez.",
+      "2026 değerli kâğıt bedellerinde; değiştirme/doğum bildirimi süresi dışında kimlik kartı bedeli 220 TL, kayıp nedeniyle 440 TL olarak belirlenmiştir."
     ]
   },
   {
@@ -229,7 +230,8 @@
     "notes": [
       "15 yaşını tamamlamayanlar için başvuruyu veli/vasisi yapar; fotoğraf zorunluluğu yoktur (veli tercihine göre).",
       "Kayıp/çalıntı hâlinde önce e-Devlet’ten 'T.C. Kimlik Kartı Kayıp Bildirimi' yaparak kartı iptal ettirebilir, ardından yenileme başvurusu yapabilirsiniz.",
-      "Teslimat PTT tarafından yapılır; başvuru fişiniz geçici kimlik yerine geçer."
+      "Teslimat PTT tarafından yapılır; başvuru fişiniz geçici kimlik yerine geçer.",
+      "2026 değerli kâğıt bedellerinde; değiştirme/doğum bildirimi süresi dışında kimlik kartı bedeli 220 TL, kayıp nedeniyle 440 TL olarak belirlenmiştir."
     ]
   },
   {
@@ -249,7 +251,8 @@
     ],
     "duration": "İşlem 10–15 dakika; teslim genelde 5–10 gün.",
     "notes": [
-      "Sebebe göre (yıpranma, değişiklik, kayıp) bedel farklı olabilir; güncel tutarlar NVİ/GİB duyurularından kontrol edilmelidir."
+      "Sebebe göre (yıpranma, değişiklik, kayıp) bedel farklı olabilir; güncel tutarlar NVİ/GİB duyurularından kontrol edilmelidir.",
+      "2026 değerli kâğıt bedellerinde; değiştirme/doğum bildirimi süresi dışında kimlik kartı bedeli 220 TL, kayıp nedeniyle 440 TL olarak belirlenmiştir."
     ]
   },
   {
@@ -391,7 +394,8 @@
     "duration": "Kayıp bildirimi anında; başvuru 10–15 dakika; teslim 5–10 gün.",
     "notes": [
       "Kayıp/çalıntı bildirimi sonrası eski kart kullanılamaz; üçüncü kişilerce kullanılmasını engellemek için bildirimi geciktirmeyin.",
-      "e-Devlet şifrenizi de güvenlik için yenilemeniz önerilir."
+      "e-Devlet şifrenizi de güvenlik için yenilemeniz önerilir.",
+      "2026 değerli kâğıt bedellerinde; değiştirme/doğum bildirimi süresi dışında kimlik kartı bedeli 220 TL, kayıp nedeniyle 440 TL olarak belirlenmiştir."
     ]
   },
   {
@@ -413,7 +417,7 @@
       "Adres bildirimi **yurt dışında da süresinde** yapılmalıdır; gecikmede idari para cezası uygulanabilir.",
       "Bazı temsilcilikler başvuruyu posta ile kabul eder; güncel usul için konsolosluk.gov.tr sayfanızı kontrol edin."
     ]
-   },
+  },
   {
     "id": "sgk_hizmet_dokumu_alma",
     "category": "SGK",
@@ -805,8 +809,8 @@
       "Genel tecil (6183 sayılı Kanun md. 48) sürekli bir imkândır; özel yapılandırma kanunları ise dönemseldi ve GİB duyurularıyla ilan edilir.",
       "Plan taksitleri süresinde ödenmezse hak kaybı olur."
     ]
-   },
-   {
+  },
+  {
     "id": "tapu_bilgileri_sorgulama",
     "category": "TAPU",
     "title": "Tapu Bilgileri Sorgulama (e-Devlet/TKGM)",
@@ -1019,7 +1023,7 @@
       "e-Devlet’teki 'Taşınmaz Yetkilendirme İşlemleri' vekâlet yerine geçmez; başvuru/takyidat görüntüleme gibi yetkiler içindir.",
       "Yurt dışı vekâletnamelerinde apostil/tercüme şartları aranabilir."
     ]
-   },
+  },
   {
     "id": "askerlik_yoklama_basvurusu",
     "category": "ASKERLİK",
@@ -1075,7 +1079,8 @@
     ],
     "duration": "Başvuru 10–15 dk; yoklama/sağlık 1–3 gün; sınıflandırma/sevk MSB takvimine bağlıdır.",
     "notes": [
-      "2025 yılı 01 Temmuz–31 Aralık dönemi bedelli ücreti 280.850,64 TL’dir; bedel her yıl Ocak ve Temmuz’da memur katsayısına göre güncellenir.",
+      "Bedelli askerlik bedeli her yıl Ocak ve Temmuz dönemlerinde memur aylık katsayısına göre güncellenir (formül: 240.000 × memur aylık katsayısı).",
+      "01 Ocak–30 Haziran 2026 dönemine ait kesin bedel MSB Askeralma duyurusuyla ilan edilir (Ocak 2026).",
       "Başvuru, yoklama ve sınıflandırma duyuruları e-Devlet/MSB Askeralma üzerinden yürütülür."
     ]
   },
@@ -1170,7 +1175,8 @@
     "duration": "Başvuru 1 gün; uzaktan eğitim ve evrak teyidi 1–2 hafta.",
     "notes": [
       "Şartlar arasında yurt dışında oturma/çalışma izni ve Türkiye’de geçen süreler hariç olmak üzere en az 3 yıl fiilen çalışma/ikamet bulunur (çok vatandaşlıkta en az 3 yıl yurtdışında bulunma).",
-      "2025/2. yarıyıl (01 Temmuz–31 Aralık 2025) dövizle askerlik bedeli 280.850,64 TL karşılığı dövizdir; ödeme günü TCMB döviz alış kuruna göre hesaplanır."
+      "1 Ocak 2026 itibarıyla (01 Ocak–30 Haziran 2026 dönemi) dövizle askerlik bedeli yeniden tespit edilene kadar başvurular geçici olarak durdurulmuştur; MSB yeni tutarı açıkladığında başvurular yeniden alınır.",
+      "Bedel, 7179 sayılı Kanun kapsamında 240.000 gösterge × (geçerli memur aylık katsayısı) formülüyle TL karşılığı belirlenir; ödeme günü TCMB döviz alış kuruna göre Avro/konvertibl döviz karşılığı hesaplanır."
     ]
   },
   {
@@ -1207,7 +1213,7 @@
     "notes": [
       "Barkodlu terhis belgesi, iş başvuruları ve resmî işlemlerde geçerlidir."
     ]
-   },
+  },
   {
     "id": "kyk_burs_basvurusu",
     "category": "KYK ve BURS",
@@ -1226,7 +1232,8 @@
     "duration": "Başvuru: 10–15 dakika; sonuç: GSB takvimine göre toplu olarak açıklanır.",
     "notes": [
       "Başvurular her yıl genellikle Ekim ayında açılır; resmi takvim GSB tarafından duyurulur.",
-      "2025’te aylık burs/kredi tutarları lisans 3.000 TL, yüksek lisans 6.000 TL, doktora 9.000 TL olarak uygulanmaktadır.",
+      "Son açıklanan aylık burs/kredi tutarları: lisans 3.000 TL, yüksek lisans 6.000 TL, doktora 9.000 TL (2025–2026 dönemi).",
+      "Ocak 2026 itibarıyla yeni zam/tutarlar için resmî açıklama takip edilmelidir (GSB/KYGM duyuruları).",
       "Sonuç açıklandıktan sonra hak sahipleri, süre içinde e-Devlet’ten taahhütname imzalamazsa ödeme başlamaz."
     ]
   },
@@ -1457,7 +1464,7 @@
       "Aylık yurt ücreti ödeme süresi: ayın 1’inden son iş günü saat 16:00’ya kadar.",
       "Ödeme ve makbuzlara geçmiş işlem sorgulamasından erişebilirsiniz."
     ]
-   },
+  },
   {
     "id": "dava_dosyasi_sorgulama",
     "category": "ADLİYE ve MAHKEME",
@@ -1676,8 +1683,8 @@
     ],
     "duration": "Başvuru 10–15 dk; kart teslimi genelde 5–10 gün.",
     "notes": [
-      "Eski tip (2016 öncesi) sürücü belgelerini değiştirme süresi 31 Ekim 2025’e uzatılmıştır.",
-      "15 Haziran 2025’ten beri sürücü raporları Sağlık Bakanlığı sisteminde ücretlidir.",
+      "Eski tip (2016 öncesi) sürücü belgelerini yenileme için son tarih 31 Ekim 2025’ti; bu tarihten sonra eski tip belgeler geçerliliğini yitirir.",
+      "Sürücü sağlık raporları Sağlık Bakanlığı sisteminde ücretlidir (2025’ten beri uygulama).",
       "Alo 199 üzerinden de randevu alınabilir."
     ]
   },
@@ -2184,8 +2191,8 @@
     ],
     "duration": "Online ödeme 1–2 dk; havalimanı/liman veznesinde genelde 1–5 dk.",
     "notes": [
-      "09 Eylül 2025 itibarıyla harç 1.000 TL’dir.",
-      "Kararın yayımını izleyen 10 gün içinde, önceki tutar üzerinden ödenmiş dekontla çıkış yapanlardan aradaki fark tahsil edilmez; bu süreden sonra fark tahsil edilir.",
+      "Yurt dışına çıkış harcı tutarı 1 Ocak 2026 itibarıyla 1.250 TL olarak güncellenmiştir.",
+      "Ödeme Dijital Vergi Dairesi/ anlaşmalı bankalar üzerinden yapılır; ödeme belgesi sınır kapısında/online doğrulanabilir.",
       "Bazı gruplar harçtan muaftır (ör. 7 yaşından küçükler, görevli gemi/araç personeli vb. – ayrıntılar mevzuatta)."
     ]
   },
@@ -2338,7 +2345,7 @@
       "Yanınızda/çıkışta nakit, altın ve mücevher taşımaya ilişkin beyan ve sınırlamalar ülkeye göre değişir; önceden kontrol edin."
     ]
   },
-   {
+  {
     "id": "afet_acil_durum_cantasi",
     "category": "AFET ve ACİL DURUM",
     "title": "Afet ve Acil Durum Çantası Hazırlama",
