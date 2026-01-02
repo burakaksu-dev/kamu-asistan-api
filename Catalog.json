@@ -1,423 +1,1392 @@
 {
   "categories": [
-	{
-	  "id": "sgk",
-	  "title": "SGK",
-		"info_cards": [
-		  { "title": "Malulen Emeklilik (10 yıl / 1800 gün)", "body": "Kurum sağlık kurulunca en az %60 çalışma gücü kaybı tespit edilmeli. 10 yıl sigortalılık ve 1800 gün prim şartı var. Başkalarının sürekli bakımına muhtaç olanlarda 10 yıl şartı aranmaz; 1800 gün yeterlidir." },
-		  { "title": "EYT (Emeklilikte Yaşa Takılanlar)", "body": "8 Eylül 1999 ve öncesi ilk sigorta girişi olanlar; SSK’da kadın 20 yıl, erkek 25 yıl sigortalılık ve 5000–5975 gün (giriş tarihine göre) prim şartını tamamladıklarında yaş şartı olmadan emekli olabilir." },
-		  { "title": "Normal Emeklilik (4A SSK)", "body": "Giriş tarihine göre şartlar değişir. 08.09.1999–30.04.2008 arası: Kadın 58, erkek 60 yaş + 7000 gün (veya 4500 gün + 25 yıl kısmi). 01.05.2008 ve sonrası: 7200 gün ve günün tamamlandığı tarihe göre kademeli yaş (nihai 65)." },
-		  { "title": "Engelli Emekliliği (%40–%60+)", "body": "01.10.2008 sonrası ilk tescilde; %40–49: 18 yıl/4680 gün, %50–59: 16 yıl/4320 gün, %60 ve üzeri: 15 yıl/3960 gün. (Çalışma gücü kaybı oranına göre tablo uygulanır.)" },
-		  { "title": "Doğum Borçlanması", "body": "Sigortalı kadın en fazla 3 doğum için, her doğumda 2 yıla (720 gün) kadar; toplam 2160 gün borçlanabilir. Şart: Doğumdan sonraki sürede sigortalı sayılmamak ve çocuğun yaşaması." },
-		  { "title": "Askerlik Borçlanması", "body": "Er/erbaş veya yedek subay okulunda geçen süre tamamı veya bir kısmı borçlanılabilir. Borç başvuru gününde seçilen günlük kazancın %32’si üzerinden hesaplanır (alt–üst sınırlar 5510/82)." },
-		  { "title": "Yurtdışı Borçlanması", "body": "3201 sayılı Kanun kapsamında yurtdışında geçen çalışma, ikamet ve ev kadınlığı süreleri borçlanılabilir. Başvuru anında Türk vatandaşı (veya izinle çıkmış mavi kartlı) olmak, süreleri belgelendirmek ve yazılı talep şarttır. Borç tutarı seçilen günlük kazancın %45’i üzerinden hesaplanır. Aylık bağlatmada ‘kesin dönüş’ şartı aranır." },
-		  { "title": "4A Hizmet Dökümü", "body": "Sigortalının çalışma günleri, primleri ve işyeri bildirimleri görülen resmî kayıttır; e-Devlet’ten alınır." },
-		  { "title": "4A Emekli Aylığı Kesintileri", "body": "Emekli aylıkları gelir vergisine tabi değildir. Nafaka ve SGK alacakları için haciz/kesinti yapılabilir; diğer borçlarda yazılı rıza aranır. Çalışmaya başlanırsa SGDP uygulanır; bu prim çalışılan ücret üzerinden tahsil edilir, aylığın kendisinden kesinti sayılmaz." },
-		  { "title": "Ev Hanımlarının İsteğe Bağlı Emekliliği", "body": "İsteğe bağlı sigorta 4B (Bağ-Kur) statüsündedir. Tam emeklilik: 9000 gün. Kısmi (yaş haddinden): 5400 gün ve kademeli yaş; 01.05.2008 sonrası tescillerde genel kural kadın 61 / erkek 63 (ileride 65’e kademeli). Prim, beyan edilen kazancın %32’sidir." },
-		  { "title": "3600 Günle Emeklilik (Kısmi)", "body": "08.09.1999 öncesi girişi olan SSK’lılar için 15 yıl + 3600 gün + kademeli yaş şartıyla mümkün; yaş alt sınırları kadın 50/erkek 55’ten başlayıp giriş tarihine göre artar. 2008 sonrası için kısmi model 5400 gün + kademeli yaştır." },
-		  { "title": "İş Kazası ve Meslek Hastalığı", "body": "Sürekli iş göremezlik geliri, iş kazası/meslek hastalığı sonrası meslekte kazanma gücü en az %10 azalan sigortalıya bağlanır. Geçici iş göremezlik ödeneği (rapor parası) iş kazası/meslek hastalığında ilk günden, diğer hastalıklarda 3. günden itibaren ödenir." },
-		  { "title": "Ölüm Aylığı / Dul ve Yetim Maaşı", "body": "Vefat eden sigortalının şartları sağlanıyorsa eş, çocuk ve şartları varsa anne-babaya ölüm aylığı bağlanır. Eşe oranlar kural olarak %50 (çocuk varsa) / %75 (çalışmıyor ve kendi aylığı yoksa) şeklindedir; diğer hak sahiplerine oranlar SGK mevzuatındaki dağıtım kurallarına göre belirlenir." },
-		  { "title": "Genel Sağlık Sigortası (GSS)", "body": "2025’te GSS primi 780,17 TL/aydır (asgari ücretin %3’ü). Prim borcu olanların sağlık hizmetlerinden yararlanabilmesi uygulaması 31.12.2025’e kadar uzatılmıştır." },
-		  { "title": "İşe Giriş Bildirgesi", "body": "Sigortalının ilk işe başlama tarihi işveren bildirimiyle tescil edilir ve e-Devlet’te görüntülenir; emeklilik hesaplarında temel parametrelerden biridir." }
-		],
-	  "popular_links": [
-		{ "title": "Ne Zaman Emekli Olurum?", "url": "https://www.turkiye.gov.tr/sgk-ne-zaman-emekli-olabilirim" },
-		{ "title": "4A Hizmet Dökümü", "url": "https://www.turkiye.gov.tr/4a-hizmet-dokumu" },
-		{ "title": "Emeklilik Aylık Talebi (Tahsis/Talep)", "url": "https://www.turkiye.gov.tr/sgk-tahsis-talep-taahhut-beyan" },
-		{ "title": "4A Emekli Aylık Bilgisi", "url": "https://www.turkiye.gov.tr/4a-emekli-aylik-bilgisi" },
-		{ "title": "4A Emekli Aylığı Kesintileri", "url": "https://www.turkiye.gov.tr/4a-emekli-aylik-kesintileri" },
-		{ "title": "4A Askerlik Borçlanması Başvurusu", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4a-askerlik-borclanmasi-basvurusu" },
-		{ "title": "4A Doğum Borçlanması Başvurusu", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4a-dogum-borclanmasi-basvurusu" },
-		{ "title": "4B Doğum Borçlanması Başvurusu", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4b-dogum-borclanmasi-basvurusu" },
-		{ "title": "Yurtdışı Borçlanması Başvuru/Tebligat", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-yurt-disi-borclanma-basvurusu-sorgulama-ve-tebligat-goruntuleme" },
-		{ "title": "İşe Giriş – Çıkış Bildirgesi (4A)", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4a-ise-giris-cikis-bildirgesi" },
-		{ "title": "İş Kazası ve Meslek Hastalığı E-Bildirim", "url": "https://www.turkiye.gov.tr/sgk-esgkuyg-esgksifre-isgoremezlik" },
-		{ "title": "SPAS Müstehaklık Sorgulama", "url": "https://www.turkiye.gov.tr/spas-mustahaklik-sorgulama" },
-		{ "title": "Ölüm Yardımı ve Dul/Yetim Aylığı Talebi", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-olum-yardimi-ve-dul-yetim-ayligi-talebi" },
-		{ "title": "GSS Prim Borcu Sorgulama", "url": "https://www.turkiye.gov.tr/sgk-gss-borc-dokumu" },
-		{ "title": "SGK – Tüm Hizmetler", "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-kurumu" }
-	  ]
-	},
     {
-	  "id": "vergi",
-	  "title": "Vergi",
-	  "info_cards": [
-		{ "title": "Motorlu Taşıtlar Vergisi (MTV) Taksitleri", "body": "Her yıl iki eşit taksit ödenir: Ocak ve Temmuz ayları (son günler genelde 31 Ocak ve 31 Temmuz civarıdır)." },
-		{ "title": "Emlak Vergisi Taksitleri", "body": "Her yıl iki eşit taksit: 1 Mart–31 Mayıs ve 1–30 Kasım dönemlerinde ödenir." },
-		{ "title": "Yıllık Gelir Vergisi Beyanı", "body": "Gerçek kişiler bir önceki yıla ait gelirlerini her yıl Mart ayında beyan eder; tahakkuk eden vergi iki taksitte Mart ve Temmuz’da ödenir." },
-		{ "title": "Kurumlar Vergisi Beyanı", "body": "Beyan dönemi her yıl Nisan ayıdır; beyan ve ödeme Nisan sonuna kadardır." },
-		{ "title": "KDV Oranları (Genel Çerçeve)", "body": "Genel oran %20’dir; indirimli oranlar %10 ve %1 olarak uygulanır (2007/13033 sayılı Karar ve 7346 sayılı CB Kararı değişiklikleri yürürlüktedir)." },
-		{ "title": "Trafik Cezası Erken Ödeme İndirimi", "body": "Tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır." },
-		{ "title": "İşyeri Kiralarında Stopaj", "body": "İşyeri kira ödemelerinde brüt tutar üzerinden %20 gelir vergisi stopajı yapılır (GVK md.94/5-a)." },
-		{ "title": "Konut Kira Geliri İstisnası", "body": "2025 takvim yılında mesken kira gelirinde 47.000 TL istisna uygulanır (2024 geliri için beyan eşiği 33.000 TL idi)." },
-		{ "title": "Veraset ve İntikal Vergisi (Beyan ve Ödeme)", "body": "Ölüm Türkiye’deyse 4 ay (yurtdışında gerçekleşmişse 6 ay) içinde beyan edilir; vergi 3 yılda Mayıs ve Kasım aylarında toplam 6 eşit taksitte ödenir." },
-		{ "title": "Geçici Vergi (Üçer Aylık)", "body": "Yılda 3 dönemdir (4. dönem kaldırılmıştır). Her dönemin beyannamesi, dönemi izleyen ikinci ayın 17’sine kadar verilir ve ödenir; tahakkuk eden tutar yıl sonu vergisinden mahsup edilir." },
-		{ "title": "Damga Vergisi", "body": "Maktu tutarlar 2024 yılı için ilan edilen %43,93 YDO ile artırılmış; 1/1/2025’ten itibaren geçerlidir. 2025’te bir kâğıttan alınacak damga vergisi üst sınırı 24.477.478,90 TL’dir." },
-		{ "title": "Harçlar", "body": "Harçlar Kanunu Genel Tebliği (Seri No:96) ile 1/1/2025’ten itibaren maktu harçlar güncellenmiştir (YDO esas alınarak)." },
-		{ "title": "Çevre Temizlik Vergisi (ÇTV) Taksitleri", "body": "Genellikle emlak vergisi dönemleriyle aynıdır: 1 Mart–31 Mayıs ve 1–30 Kasım (konutlarda çoğunlukla su faturalarına yansıtılır)." },
-		{ "title": "MTV Borcu ve Araç İşlemleri", "body": "Noterde satış öncesi sistemde borç kontrolü yapılır; MTV/ek MTV ve benzeri vadesi geçmiş borçlar satışın tamamlanmasına engel olabilir. Araç muayenesinde, ocak/temmuz ayları içinde henüz ay sonu gelmemiş MTV tahakkukları engel sayılmayabilir; diğer dönemlerde vergi borcu muayeneyi engelleyebilir." },
-		{ "title": "Yeniden Değerleme Oranı (YDO)", "body": "2024 için açıklanan %43,93 YDO, 1/1/2025’ten itibaren pek çok vergi-ceza tutarı, had ve istisnanın artırılmasında esas alınmıştır." }
-	  ],
-	  "popular_links": [
-		{ "title": "Vergi Borcu Sorgulama ve Ödeme", "url": "https://www.turkiye.gov.tr/gib-vergi-borcu-sorgu" },
-		{ "title": "İnternet Vergi Dairesi Genel Girişi", "url": "https://www.turkiye.gov.tr/gib-internet-vergi-dairesi" },
-		{ "title": "Trafik Para Cezası Borcu Sorgulama ve Ödeme", "url": "https://www.turkiye.gov.tr/gib-intvrg-trafik-para-cezasi-borcu-sorgulama-ve-odeme" },
-		{ "title": "MTV Sorgulama ve Kredi Kartıyla Ödeme", "url": "https://www.turkiye.gov.tr/gib-intvrg-motorlu-tasitlar-vergisi-sorgulama-ve-kredi-karti-ile-odeme" },
-		{ "title": "Hazır Beyan Sistemi (Gelir/Kira vb.)", "url": "https://www.turkiye.gov.tr/gib-intvrg-hazir-beyan-sisteminden-beyanname-duzenleme" },
-		{ "title": "Tüm Yapılandırılan Vergi Borçları", "url": "https://www.turkiye.gov.tr/gib-intvrg-tum-yapilandirilan-vergi-borclari" },
-		{ "title": "e-Vergi Levhası Doğrulama", "url": "https://www.turkiye.gov.tr/gib-intvrg-e-vergi-levhasi-dogrulama" },
-		{ "title": "Ceza İndirim Talebi (VUK 376)", "url": "https://www.turkiye.gov.tr/gib-ivd-ucyuzyetmisaltitalep" },
-		{ "title": "E-Yoklama Fişi Görüntüleme", "url": "https://www.turkiye.gov.tr/gib-intvrg-e-yoklama-fisi-goruntuleme" },
-		{ "title": "e-Fatura (e-Arşiv) Portalı", "url": "https://earsivportal.efatura.gov.tr/" },
-		{ "title": "e-Tebligat Başvuru ve Görüntüleme", "url": "https://www.turkiye.gov.tr/gib-intvrg-e-tebligat-goruntuleme" },
-		{ "title": "Borcu Yoktur Yazısı Talep Girişi", "url": "https://www.turkiye.gov.tr/gib-intvrg-borcuyokturyazisi" },
-		{ "title": "Gümrük Vergi & Ceza Borcu Sorgulama", "url": "https://www.turkiye.gov.tr/gumruk-vergi-ve-ceza-borcu-sorgulama-6490" },
-		{ "title": "Engellilik Vergi İndirimi Başvurusu", "url": "https://www.turkiye.gov.tr/gib-engellilik-vergi-indirimi-basvuru-islemleri-4189" },
-		{ "title": "Vergi Kimlik Numarası Doğrulama", "url": "https://www.turkiye.gov.tr/gib-intvrg-vergi-kimlik-numarasi-dogrulama" }
-	]
-	},
-	{
-	  "id": "tapu",
-	  "title": "Tapu ve Kadastro",
-	  "info_cards": [
-		{ "title": "Tapu Harcı Oranı", "body": "Gayrimenkul satışında beyan edilen bedel (emlak vergi değerinden az olamaz) üzerinden toplam %4 tapu harcı ödenir; alıcı %2, satıcı %2." },
-		{ "title": "Döner Sermaye Bedeli", "body": "Tapu/Kadastro döner sermaye ücretleri işlem türüne ve il katsayısına göre değişir; sabit tek fiyat aralığı yoktur, güncel tarife cetveline bakılır." },
-		{ "title": "Aile İçi (Bağış) Tapu Harcı", "body": "Bağış (hibe) devirlerinde harç, emlak vergi değerinden az olmamak üzere beyan edilen değer üzerinden güncel tarife cetveline göre hesaplanır ve kural olarak yalnızca bağışı kabul edenden alınır." },
-		{ "title": "İpotek Tesis Harcı", "body": "İpotek tesisinde ipotekle sağlanan borç miktarı üzerinden binde 4,55 tapu harcı uygulanır." },
-		{ "title": "Rayiç Bedel Altı Beyan Yasak", "body": "Tapu harcı matrahı, emlak vergi değerinden düşük olamaz; düşük beyan durumunda vergi/ceza ve ikmalen tarhiyat riski doğar." },
-		{ "title": "Tapu İşlem Öncesi Ödeme", "body": "Tapu harcı ve döner sermaye bedeli ödenmeden işlem tamamlanmaz; ödemeler TKGM e-Tahsilat ve e-Devlet üzerinden yapılabilir." },
-		{ "title": "Tapu Ücretlerinin Güncellenmesi", "body": "Tapu/kadastro harç ve döner sermaye ücretleri her yıl yayımlanan tarife cetveliyle güncellenir; yeniden değerleme/YDO etkileri yıl başında tarife ve tebliğlere yansıtılır." },
-		{ "title": "Kadastro Harç Alt Sınırı", "body": "Kadastro nispi harçlarının alt sınırı her yıl YDO’ya göre güncellenir; belirli sabit bir TL rakam vermek yerine güncel harç cetveli esas alınır." },
-		{ "title": "Akitli vs Akitsiz İşlemler", "body": "Akitli işlemler resmi senetle (ör. satış, bağış); akitsiz işlemler tescil istem belgesiyle (ör. şerh, terkin, miras intikali) yapılır." },
-		{ "title": "Tapu Sicilinde Aleniyet İlkesi", "body": "Tapu sicili herkese açıktır; ilgisini inanılır kılan herkes kayıtları görme/örnek alma hakkına sahiptir (TMK m.1020)." },
-		{ "title": "Tapu İşlem Belgeleri", "body": "Satış için tipik belgeler: kimlik/pasaport, varsa vekâlet/vasi kararı, DASK poliçesi (bina), belediye emlak beyan değeri belgesi ve ödeme dekontları; yabancı işlemlerinde ek belgeler istenebilir." },
-		{ "title": "İnşaat Aşamasında Tapu (Kat İrtifakı)", "body": "İnşaat tamamlanmadan bağımsız bölümlere ilişkin hakları gösteren tapu kaydıdır; şartlar sağlanınca kat mülkiyetine çevrilebilir." },
-		{ "title": "Tapuda Uyumlu Bilgi Zorunluluğu", "body": "Kimlik/MERNİS, adres ve sigorta gibi bilgiler güncel ve belgeler birbiriyle uyumlu olmalıdır; eksik/uyuşmazlık işlemi geciktirir." },
-		{ "title": "Yönetim Planı Uyumu", "body": "Yönetim planı tapu sicilinde beyanlar hanesinde bulunur; değişiklik için kat maliklerinin 4/5 çoğunluğu gerekir ve değişiklikler tescil edilir." },
-		{ "title": "İpotek / Kısıtlama Kontrolü", "body": "Devir öncesi taşınmaz üzerindeki ipotek, haciz ve diğer takyidatlar Web Tapu/e-Devlet üzerinden sorgulanmalı; gerekirse resmi takyidat belgesi alınmalıdır." }
-	  ],
-	  "popular_links": [
-		{ "title": "Tapu Bilgileri Sorgulama", "url": "https://www.turkiye.gov.tr/tapu-bilgileri-sorgulama" },
-		{ "title": "Web Tapu İşlemleri", "url": "https://www.turkiye.gov.tr/tkgm-web-tapu" },
-		{ "title": "Tapu Randevu Sistemi", "url": "https://randevu.tkgm.gov.tr/" },
-		{ "title": "Parsel Sorgulama (TKGM)", "url": "https://parselsorgu.tkgm.gov.tr/" },
-		{ "title": "Tapu Harç ve Döner Sermaye Sorgulama / Ödeme", "url": "https://www.turkiye.gov.tr/tapu-harc-sorgulama" },
-		{ "title": "Tapu Taşınmaz Beyanı", "url": "https://www.turkiye.gov.tr/tapu-tasinmaz-beyan" },
-		{ "title": "Tapu Telefon Bilgileri Beyan", "url": "https://www.turkiye.gov.tr/tapu-telefon-beyan" },
-		{ "title": "Harç ve Döner Sermaye Bilgisi", "url": "https://www.turkiye.gov.tr/tapu-harc-sorgulama" },
-		{ "title": "Elektronik Belge Doğrulama (EBYS)", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-ebys" },
-		{ "title": "Tapu Bilgileri (Tüzel Kişi)", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tapu-bilgileri-sorgulama-tuzel-kisi" },
-		{ "title": "Tapu Bilgileri (Mirasçısı Adına)", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tapu-bilgileri-sorgulama-mirascisi-oldugunuz-kisi-adina" },
-		{ "title": "Tapu Bilgileri (Çocuğunuz Adına)", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tapu-bilgileri-sorgulama-cocugunuz-adina" },
-		{ "title": "Tapu ve Kadastro Genel Müdürlüğü", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-genel-mudurlugu" },
-		{ "title": "Taşınmaz Yetkilendirme İşlemleri", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tasinmaz-yetkilendirme-islemleri" },
-		{ "title": "Yetkilendirildiğim Taşınmaz Sorgulama", "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-yetkilendirildigim-tasinmaz-sorgulama" }
-	  ]
-	},
-	{
-	  "id": "askerlik",
-	  "title": "Askerlik",
-	  "info_cards": [
-		{ "title": "Zorunlu Askerlik Süresi", "body": "Tek tip sistemde er/erbaş için 6 ay zorunludur. İstekli olanlar 6 ay daha devam ederek toplam 12 ay yapabilir ve asgari ücretten az olmamak üzere harçlık alır." },
-		{ "title": "Bedelli Askerlik Ücreti", "body": "Bedel; 240.000 gösterge × memur aylık katsayısı formülüyle belirlenir. 01.01–30.06.2025 için 243.013,44 TL; 01.07–31.12.2025 için 280.850,64 TL’dir." },
-		{ "title": "Bedelli Askerlik Süresi", "body": "Bedellide fiilî temel eğitim 1 aydır; eğitim tamamlanınca terhis edilir." },
-		{ "title": "Askerlik Tecil (Ertelenme) Şartları", "body": "Öğrencilikte azami yaş sınırları kademelidir: lise 22, önlisans/lisans 28, yüksek lisans 32, doktora 35 (yılı sonu). Yurt dışında işçi/işveren vb. statü ile tecil genel olarak 35 yaş sonuna kadardır." },
-		{ "title": "Yurt Dışı Çalışanlar İçin Dövizle Askerlik", "body": "Tutar; 240.000 gösterge × memur aylık katsayısıdır ve ödeme günündeki TCMB kurundan yabancı para karşılığı alınır. 01.07–31.12.2025 dönemi için baz tutar 280.850,64 TL karşılığıdır." },
-		{ "title": "Askerlik Yoklaması", "body": "Yoklama başvurusu e-Devlet/Askeralma üzerinden yapılır; sağlık muayenesi sonrası statü belirlenir (‘Askerliğe elverişli’, ‘ertesi yıla bırakma’, ‘elverişli değildir’ vb.)." },
-		{ "title": "Yedek Subay ve Yedek Astsubaylık", "body": "Üniversite mezunları ihtiyaç durumuna göre yedek subay veya yedek astsubay olarak 12 ay hizmet yapar." },
-		{ "title": "Erteleme Yaş Sınırı", "body": "Genel kural; yurt dışı çalışma/ikamet gibi nedenlerle tecil 35 yaşına kadar yapılabilir. Öğrencilikte ise düzeye göre (22/28/32/35) sınırlar uygulanır." },
-		{ "title": "Asker Kaçaklığı Cezası", "body": "Yoklama kaçağı/saklı/bakaya olanlara idari para cezası uygulanır; kendiliğinden başvuran ile yakalanan için tutarlar farklıdır ve katsayıya göre dönemsel güncellemeye tabidir." },
-		{ "title": "Askerlik Şubesi İşlemleri", "body": "Sevk belgesi, tecil, bedelli/dövizle başvuru ve muafiyet işlemleri e-Devlet’ten veya askerlik şubelerinden yürütülür." },
-		{ "title": "Sağlık Sebebiyle Muafiyet", "body": "‘Askerliğe Elverişli Değildir’ kararlı sağlık kurulu raporları MSB onayıyla kesinleşir; elverişsiz bulunanlar askere alınmaz." },
-		{ "title": "Kardeş Muafiyeti", "body": "Genel bir ‘kardeş ertelemesi’ yoktur. Ancak şehit/vazife malulü yakınları için 7179 ve ilgili mevzuat uyarınca kardeşlerin askerlik hizmetinden muafiyeti düzenlenmiştir." },
-		{ "title": "Askerlik Borçlanması (SGK)", "body": "Askerlikte geçen süreler, başvuru tarihinde seçilen prime esas günlük kazanç (alt–üst sınırlar arasında) üzerinden %32 oranıyla borçlanılarak prim gününe eklenebilir." }
-	  ],
-	  "popular_links": [
-		{ "title": "Askerliğim (Tüm Askerlik İşlemleri)", "url": "https://www.turkiye.gov.tr/mill-savunma-askerligim" },
-		{ "title": "Belge Doğrulama (Askerlik / Sevk / Yoklama)", "url": "https://www.turkiye.gov.tr/belge-dogrulama" },
-		{ "title": "Şehit Yakınları & Gaziler Kira Yardımı Başvurusu", "url": "https://www.turkiye.gov.tr/mill-savunma-sehit-yakinlari-ve-gaziler-icin-kira-yardimi-basvurusu" },
-		{ "title": "İstiklal Madalyası Başvuru İşlemleri", "url": "https://www.turkiye.gov.tr/milli-savunma-istiklal-madalyasi-basvuru-islemleri" },
-		{ "title": "MSB Personel & Öğrenci Temin Sistemi", "url": "https://www.turkiye.gov.tr/msb-personel-ve-ogrenci-temin-sistemi-5958" },
-		{ "title": "E-Belge Doğrulama (MSB EBYS)", "url": "https://www.turkiye.gov.tr/msb-ebys" },
-		{ "title": "Seferberlik Tatbikatı / Ferdi Seferberlik Sevk Belgesi Doğrulama", "url": "https://www.turkiye.gov.tr/mill-savunma-seferberlik-tatbikati-ferdi-seferberlik-egitimi-sevk-belgesi-dogrulama" },
-		{ "title": "Kara Nakil Araçları Sefer Görev Emri Sorgulama", "url": "https://www.turkiye.gov.tr/kara-nakil-arac-sorgu" },
-		{ "title": "Deniz Nakil Araçları Sefer Görev Emri Sorgulama", "url": "https://www.turkiye.gov.tr/deniz-nakil-arac-sorgu" },
-		{ "title": "Hava Nakil Araçları Sefer Görev Emri Sorgulama", "url": "https://www.turkiye.gov.tr/hava-nakil-arac-sorgu" }
-	  ]
-	},
-	{
-	  "id": "kyk",
-	  "title": "KYK ve Burs",
-	  "info_cards": [
-		{ "title": "KYK Burs ve Kredi Başvurusu", "body": "Her yıl Ekim–Kasım aylarında e-Devlet üzerinden başvuru alınır. Değerlendirme ve sonuç duyuruları Gençlik ve Spor Bakanlığı (GSB) tarafından yapılır." },
-		{ "title": "KYK Burs Miktarı", "body": "2025’te aylık burs/kredi: lisans 3.000 TL, yüksek lisans 6.000 TL, doktora 9.000 TL." },
-		{ "title": "KYK Öğrenim Kredisi", "body": "Burs çıkmayan ve talep eden öğrencilere öğrenim kredisi verilir. Geri ödeme, mezuniyetten 2 yıl sonra başlar ve e-Devlet’ten takip edilebilir." },
-		{ "title": "KYK Kredisi Geri Ödeme", "body": "Geri ödemeler aylık taksitlerle yapılır. Faiz uygulanmaz; yalnızca TÜFE oranında güncelleme yapılır. Erken ödemede indirim imkânı vardır." },
-		{ "title": "KYK Borç Erteleme", "body": "İşsizlik, askerlik, yüksek lisans/doktora eğitimi veya sağlık sorunları nedeniyle geri ödeme e-Devlet üzerinden ertelenebilir. Erteleme süresince TÜFE güncellemesi devam eder." },
-		{ "title": "Burs Öncelikli Gruplar", "body": "Şehit/gazi çocukları, engelli öğrenciler, devlet koruması altındaki gençler, anne-babasız kalanlar ve dar gelirli aile çocukları öncelikli gruplardır." },
-		{ "title": "Burs–Kredi Farkı", "body": "Burs karşılıksızdır ve geri ödenmez. Öğrenim kredisi geri ödemelidir ve mezuniyetten sonra tahsil edilir." },
-		{ "title": "Bursun Kesilme Sebepleri", "body": "Yanlış beyan, disiplin cezası, kaydın silinmesi, kendi isteğiyle bırakma, başarısızlık (üst üste sınıfta kalma) gibi durumlarda burs/kredi kesilir." },
-		{ "title": "KYK Yurt Başvurusu", "body": "Üniversite yerleştirme sonuçlarının açıklanmasının ardından e-Devlet üzerinden başvurular alınır; yurt yerleştirme sonuçları GSB tarafından duyurulur." },
-		{ "title": "KYK Yurt Ücretleri", "body": "Aylık yurt ücretleri yurt tipine göre yaklaşık 725–1.250 TL aralığındadır; depozito (güvence) bedeli tipine göre ayrıca alınır." },
-		{ "title": "Yurtlarda İnternet ve Yemek", "body": "Yurtlarda ücretsiz internet erişimi sağlanır. Öğrencilere günlük sabah kahvaltısı ve akşam yemeği desteği verilir." },
-		{ "title": "Özel Burslar", "body": "Vakıf, dernek, belediye ve özel kurumların sağladığı burslara da başvurulabilir. KYK bursuyla birlikte alınabilir; kurumlar kendi kriterlerine göre seçer." },
-		{ "title": "Yurt Çıkış Belgesi", "body": "Yurttan ayrılan öğrenciler e-Devlet üzerinden ‘Yurt Ayrılış Belgesi’ alarak resmi kayıttan düşer ve depozito iadesi yapılır." }
-	  ],
-	  "popular_links": [
-		{ "title": "Burs/Kredi Başvurusu", "url": "https://www.turkiye.gov.tr/kyk-krediburs-basvurusu" },
-		{ "title": "Başvuru Sonucu Sorgulama", "url": "https://www.turkiye.gov.tr/genclik-ve-spor-burs-ogrenim-kredisi-basvuru-sonucu-sorgulama" },
-		{ "title": "Burs/Kredi Taahhütname Onayı", "url": "https://www.turkiye.gov.tr/kyk-burs-kredi-onay-islemleri" },
-		{ "title": "Ödeme Açma Başvurusu", "url": "https://www.turkiye.gov.tr/genclik-ve-spor-kredi-burs-odeme-acma-basvurusu" },
-		{ "title": "Burs/Kredi Sorgulama", "url": "https://www.turkiye.gov.tr/kyk-ogrenim-katki-kredisi-ve-burs-sorgulama" },
-		{ "title": "Kredi Geri Ödeme Sorgulama", "url": "https://www.turkiye.gov.tr/kyk-ogrenim-katki-kredisi-geri-odeme-sorgulama" },
-		{ "title": "Geri Ödeme Erteleme Başvurusu", "url": "https://www.turkiye.gov.tr/kyk-geri-odeme-erteleme-basvuru" },
-		{ "title": "Kredi Borcu Ödeme (GİB)", "url": "https://www.turkiye.gov.tr/gib-intvrg-ogrenim-katki-kredisi-sorgulama-ve-odeme" },
-		{ "title": "Yurt Başvurusu", "url": "https://www.turkiye.gov.tr/gsb-yurt-basvurusu" },
-		{ "title": "Yurt Kayıt İşlemleri", "url": "https://www.turkiye.gov.tr/kyk-yurt-kayit-islemleri" },
-		{ "title": "Kredi/Burs Nakil Başvurusu", "url": "https://www.turkiye.gov.tr/kyk-kredi-burs-nakil-basvurusu" },
-		{ "title": "Kredi/Burs İptal Başvurusu", "url": "https://www.turkiye.gov.tr/kyk-kredi-burs-iptal-basvurusu" },
-		{ "title": "Durum Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/genclik-ve-spor-kredi-burs-durum-belgesi-sorgulama" },
-		{ "title": "Durum Belgesi Doğrulama", "url": "https://www.turkiye.gov.tr/genclik-ve-spor-kredi-burs-durum-belgesi-dogrulama" },
-		 { "title": "GSB | Kredi & Burs Bilgilendirme ve SSS", "url": "https://kygm.gsb.gov.tr/sayfalar/3228/3200/kredi-burs-hizmetleri" }
-	  ]
-	},
-	{
-	  "id": "adres",
-	  "title": "Adres ve İkametgâh",
-	  "info_cards": [
-		{ "title": "Adres Değişikliği Bildirimi Süresi", "body": "Yerleşim yeri adresi değişiklikleri 20 gün içinde nüfus müdürlüğüne, e-Devlet üzerinden veya dış temsilciliklere bildirilmelidir. Süresinde bildirmeyenlere idari para cezası uygulanır." },
-		{ "title": "Adres Değişikliği Cezası", "body": "Yerleşim yeri adresini 20 gün içinde bildirmeyene 2025’te 649 TL idari para cezası uygulanır. Gerçeğe aykırı beyana 13.588 TL ceza uygulanır." },
-		{ "title": "Adres Bildirimi Yöntemleri", "body": "Adres bildirimi e-Devlet’ten yapılabilir; ayrıca nüfus müdürlüğünden şahsen ya da yurt dışındaysanız konsolosluk aracılığıyla yapılır." },
-		{ "title": "Yerleşim Yeri Belgesi (İkametgah)", "body": "Yerleşim yeri (ikametgah) belgesi e-Devlet’ten ücretsiz alınabilir ve resmi işlemlerde geçerlidir." },
-		{ "title": "Geçici Adres Bildirimi", "body": "30 günden uzun süre başka bir adreste kalınacaksa bu adres geçici adres olarak beyan edilmelidir." },
-		{ "title": "Adres Gizliliği Talebi", "body": "Şiddet mağdurları ve korunma altındaki kişiler, adreslerini gizletmek için nüfus müdürlüğüne başvurabilir; talep üzerine adres bilgileri kurumlara kapatılır." },
-		{ "title": "Seçmen Kütüğü Güncellemesi", "body": "Seçmen kaydı yerleşim yeri adresine göre düzenlenir. Adres değişiklikleri seçim dönemlerinde YSK’ya otomatik yansır." },
-		{ "title": "Çocukların Adres Kaydı", "body": "Çocukların adres kaydı, velayet hakkı bulunan ebeveynin yerleşim yeri adresine yapılır." },
-		{ "title": "Yurt Dışında İkamet Edenler", "body": "Yurt dışında yaşayan Türk vatandaşları, adres bildirimini bulundukları ülkenin Türk konsoloslukları aracılığıyla yapmalıdır." },
-		{ "title": "Adres Teyit Belgesi", "body": "Kamu kurumları, beyan edilen adresi MERNİS üzerinden sorgulayabilir; ayrıca belge ibrazı çoğunlukla gerekmez." },
-		{ "title": "Ortak Konutta Birden Fazla Kayıt", "body": "Bir adreste birden fazla kişi kayıtlı olabilir; denetimlerde fiilen oturulup oturulmadığı kontrol edilir." },
-		{ "title": "Adres Değişikliğinde Gerekli Belgeler", "body": "Nüfus müdürlüğünde işlem yapılacaksa kimlik belgesi ve taşınılan adrese dair belge (kira kontratı, tapu veya son 3 aya ait fatura) ibraz edilmelidir." },
-		{ "title": "Adres Beyanını Başkası Yapabilir mi?", "body": "Adres beyanı yalnızca kişinin kendisi ya da kanuni temsilcisi tarafından yapılabilir; başkası adına beyan geçerli değildir." },
-		{ "title": "Adres Kaydının Önemi", "body": "Adres kaydı; sağlık, eğitim, askerlik, vergi, sosyal yardım ve seçmen kütüğü işlemleri için zorunlu ve temel referanstır." }
-	  ],
-	  "popular_links": [
-	    { "title": "Adres Değişikliği Bildirimi", "url": "https://www.turkiye.gov.tr/adres-degisikligi-bildirimi" },
-	    { "title": "Adres Değişikliği Bildirimi (Birlikte Oturma / Muvafakatlı)", "url": "https://www.turkiye.gov.tr/nvi-adres-degisikligi-bildirimi-muvafakatli" },
-	    { "title": "Adres Beyanı İçin Muvafakat Verme", "url": "https://www.turkiye.gov.tr/nvi-adres-beyan-icin-muvafakat-verme" },
-	    { "title": "Adres No Öğrenme (NVİ Adres Bilgilerim)", "url": "https://www.turkiye.gov.tr/nvi-adres-bilgilerim" },
-	    { "title": "Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama" },
-	    { "title": "Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Doğrulama", "url": "https://www.turkiye.gov.tr/belge-dogrulama" },
-	    { "title": "Tarihçeli Yerleşim Yeri ve Diğer Adres Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-tarihceli-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama" },
-	    { "title": "Tarihçeli Yerleşim Yeri ve Diğer Adres Belgesi Doğrulama", "url": "https://www.turkiye.gov.tr/nvi-tarihceli-yerlesim-yeri-ve-diger-adres-belgesi-dogrulama" },
-	    { "title": "Aynı Hanede İkamet Eden Kişi Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-ayni-hanede-ikamet-eden-kisi-belgesi-sorgulama" },
-	    { "title": "Diğer Adres Silme", "url": "https://www.turkiye.gov.tr/nvv-diger-adres-silme" },
-	    { "title": "Yurt İçi Seçmen Kaydı Sorgulama (YSK)", "url": "https://www.turkiye.gov.tr/yuksek-secim-kurulu-yurt-ici-secmen-kaydi-sorgulama" },
-	    { "title": "Yurt Dışı Seçmen Kaydı Sorgulama (YSK)", "url": "https://www.turkiye.gov.tr/yuksek-secim-kurulu-yurt-disi-secmen-kaydi-sorgulama" },
-	    { "title": "Nüfus Müdürlüğü Randevu Sistemi", "url": "https://randevu.nvi.gov.tr/" },
-	    { "title": "İkametgâhım (Adrese Bağlı Hizmetler)", "url": "https://www.turkiye.gov.tr/ikametgahim-adrese-bagli-hizmetler" },
-	    { "title": "NVİ – Tüm Hizmetler (Kurum Sayfası)", "url": "https://www.turkiye.gov.tr/nufus-ve-vatandaslik-isleri-genel-mudurlugu" }
-	  ]
-	},
-	{
-	  "id": "nufus",
-	  "title": "Nüfus",
-	  "info_cards": [
-		{ "title": "Yeni Kimlik Kartı Başvurusu", "body": "T.C. kimlik kartı başvuruları nüfus müdürlüklerinden randevu ile yapılır. 2025 yılı kimlik kartı bedeli 185 TL’dir." },
-		{ "title": "Kimlik Kartı Kaybolması", "body": "Kaybolan veya çalınan kimlik kartı için 2025 yılında yeniden çıkarma bedeli 370 TL’dir. Başvuru en yakın nüfus müdürlüğüne yapılır." },
-		{ "title": "Ehliyet Yenileme Süresi","body": "Eski tip sürücü belgelerinin yeni tip ile değiştirilme süresi 31 Ekim 2025’e uzatıldı. Eski tipten yeni tipe geçişte harç alınmaz; sadece 13 TL değerli kâğıt + 2 TL vakıf (toplam 15 TL) ödenir. Yeni tip sürücü belgesinin yenilenmesinde ise 2025’te 1.420 TL değerli kâğıt + 340 TL vakıf hizmet bedeli (toplam 1.760 TL) uygulanır. Sağlık raporu ve biyometrik fotoğraf zorunludur."},
-		{ "title": "Pasaport Çıkarma", "body": "Pasaport başvuruları nüfus müdürlüklerinden yapılır. 2025 yılı defter bedeli 1.135 TL’dir; harç tutarı süreye göre ayrıca ödenir." },
-		{ "title": "Pasaport Harçları", "body": "Defter bedeli 1.135 TL. Harçlar: 6 ay 2.137,50 TL; 1 yıl 3.130,40 TL; 2 yıl 4.945,10 TL; 3 yıl 7.030,90 TL; 4–10 yıl 9.368,10 TL." },
-		{ "title": "Pasaport Randevusu", "body": "Pasaport başvuruları için randevu Alo 199 çağrı merkezi veya randevu.nvi.gov.tr üzerinden alınabilir." },
-		{ "title": "Adres Değişikliği İşlemleri", "body": "Adres değişiklikleri nüfus müdürlüğünden veya e-Devlet’ten yapılabilir. Bildirim süresi 20 gündür; süresinde yapılmazsa idari para cezası uygulanır." },
-		{ "title": "Doğum Kaydı", "body": "Yeni doğan bebeklerin doğumu 30 gün içinde nüfus müdürlüğüne veya yurt dışındaysa konsolosluğa bildirilmelidir. Bildirim e-Devlet üzerinden de yapılabilir." },
-		{ "title": "Evlenme İşlemleri", "body": "Evlenme başvuruları belediye evlendirme dairelerine yapılır. Nikâh kıyıldıktan sonra nüfus kayıtları MERNİS üzerinden otomatik güncellenir." },
-		{ "title": "Boşanma İşlemleri", "body": "Boşanma kararı kesinleştiğinde mahkeme sonucu nüfus müdürlüğüne bildirilir. Nüfus kayıtları mahkeme ilamına göre güncellenir." },
-		{ "title": "Vukuatlı Nüfus Kayıt Örneği", "body": "E-Devlet üzerinden ücretsiz alınabilir. Resmi işlemlerde geçerli ve elektronik imzalı belgedir." },
-		{ "title": "Aile Cüzdanı", "body": "Evlilik sonrası çiftlere aile cüzdanı verilir. Kaybolması halinde yenisi için nüfus müdürlüğüne başvurulabilir." },
-		{ "title": "Yurt Dışında Nüfus İşlemleri", "body": "Konsolosluklar doğum, ölüm, evlenme, boşanma ve pasaport işlemlerini yürütür; işlemler Türkiye’deki nüfus kayıtlarına işlenir." },
-		{ "title": "Kimlik Kartında Biyometrik Fotoğraf", "body": "Kimlik kartı başvurularında son 6 ay içinde çekilmiş biyometrik fotoğraf zorunludur." },
-		{ "title": "T.C. Kimlik Kartı PIN İşlemleri", "body": "Kimlik kartı ile verilen PIN unutulursa nüfus müdürlüklerinde ücretsiz olarak sıfırlanabilir. Gerekli hallerde PUK kodu kullanılabilir." }
-	  ],
-	  "popular_links": [
-	    { "title": "T.C. Kimlik Kartı Başvuru Randevusu", "url": "https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-basvuru-randevusu" },
-		{ "title": "T.C. Kimlik Kartı Başvuru Durumu Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-basvuru-durumu-sorgulama" },
-		{ "title": "T.C. Kimlik Kartı Kayıp Bildirimi", "url": "https://www.turkiye.gov.tr/nvv-tc-kimlik-karti-kayip-bildirimi" },
-		{ "title": "T.C. Kimlik Kartı Pin / Puk Kodu ve Kişisel Mesaj Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-pin-kodu-sorgulama" },
-		{ "title": "Geçici Kimlik Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-gecici-kimlik-belgesi-sorgulama" },
-		{ "title": "Nüfus Kayıt Örneği Belgesi Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-nufus-kayit-ornegi-belgesi-sorgulama" },
-		{ "title": "Mavi Kartlılar Nüfus Kayıt Örneği Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-mavi-kartlilar-nufus-kayit-ornegi-belgesi-sorgulama" },
-		{ "title": "Pasaport Başvuru Randevusu", "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-randevusu" },
-		{ "title": "Pasaport Başvuru Durumu Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-durum-sorgu" },
-		{ "title": "Sürücü Belgesi Başvuru Randevusu", "url": "https://www.turkiye.gov.tr/nvi-surucu-belgesi-basvuru-randevusu" },
-		{ "title": "Sürücü Belgesi Başvuru Durumu Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-surucu-belgesi-basvuru-durum-sorgu" }
-	  ]
-	},
-	{
-	  "id": "adliye",
-	  "title": "Adliye ve Mahkeme",
-	  "info_cards": [
-		{ "title": "Dava Açma Başvuru Harcı", "body": "Maktu başvuru harcı 2025: sulh/icra tetkik 281,80 TL; asliye/iş/idare 615,40 TL; bölge adliye/yüksek mahkeme 945,40 TL." },
-		{ "title": "İstinaf ve Temyiz", "body": "İstinaf başvuru harcı 1.783,70 TL; temyiz (Yargıtay) başvuru harcı 2.681,40 TL." },
-		{ "title": "Adli Sicil Kaydı (Sabıka Kaydı)", "body": "Adli sicil belgesi e-Devlet’ten ücretsiz alınabilir. Yurt dışı işlemleri için çok dilli (apostilli) seçenek sunulmaktadır." },
-		{ "title": "E-Duruşma Uygulaması", "body": "Avukatlar UYAP üzerinden e-duruşma talebinde bulunarak uzaktan video konferans yoluyla duruşmaya katılabilir." },
-		{ "title": "UYAP Vatandaş Portalı", "body": "Vatandaşlar açtıkları davaları, icra takiplerini ve tebligatlarını UYAP Vatandaş Portalı veya e-Devlet üzerinden takip edebilir." },
-		{ "title": "Adli Yardım Hizmeti", "body": "Maddi durumu yetersiz olanlara barolar tarafından ücretsiz avukat atanabilir. Başvuru için gelir durumunu gösterir belgeler sunulmalıdır." },
-		{ "title": "İcra ve Haciz İşlemleri", "body": "Borçlu ödemezse alacaklı icra dairesi aracılığıyla takip başlatabilir. Haciz, maaş veya malvarlığına yönelik yapılır; e-Haciz sistemiyle banka hesaplarına elektronik haciz uygulanabilir." },
-		{ "title": "Elektronik Tebligat (e-Tebligat)", "body": "Anonim/limited şirket ve diğer tüzel kişiler için zorunlu, gerçek kişiler için isteğe bağlıdır. Tebligatlar e-Devlet ve UYAP üzerinden görüntülenir." },
-		{ "title": "Arabuluculuk Zorunluluğu", "body": "İş, ticaret ve tüketici uyuşmazlıklarında dava açmadan önce arabulucuya başvurmak zorunludur. 2023 itibarıyla kira uyuşmazlıkları da kapsama alınmıştır." },
-		{ "title": "Tanık Ücretleri", "body": "Tanıklara yol gideri + gündelik ödenir; tutarlar yıllık tarifeye göre belirlenir (sabit bir ülke geneli rakam yoktur)." },
-		{ "title": "Adli Tatil", "body": "Her yıl 20 Temmuz–31 Ağustos arasında adli tatil uygulanır. Bu sürede sadece acele işler (ör. tutukluluk incelemeleri, nafaka davaları, iş davaları) görülür." },
-		{ "title": "Ceza Davalarında Zamanaşımı", "body": "5237 sayılı TCK’ya göre; 8 yıl (üst sınırı 5 yıla kadar veya adli para cezasını gerektiren suçlarda), 15 yıl (üst sınırı 5 yıldan fazla ve 20 yıla kadar olanlarda), 20 yıl (üst sınırı 20 yıldan fazla hapis olanlarda), 25 yıl (müebbet hapis gerektirenlerde) ve 30 yıl (ağırlaştırılmış müebbet hapis gerektirenlerde) zamanaşımı uygulanır." },
-		{ "title": "Mahkemede Ses ve Görüntü Kaydı", "body": "Mahkeme izni olmaksızın ses veya görüntü kaydı yapılması yasaktır. Resmi tutanaklar ve SEGBİS kayıtları esas alınır." },
-		{ "title": "Bilirkişi Ücreti", "body": "Bilirkişi ücretleri dava konusuna ve bilirkişi listelerine göre değişir. 2025 yılı için genelde 2.000 TL’den başlayıp karmaşık dosyalarda 10.000 TL ve üzerine çıkabilmektedir." }
-	  ],
-	  "popular_links": [
-		{ "title": "Dava Dosyası Sorgulama (Kendime Ait)", "url": "https://www.turkiye.gov.tr/davalarim" },
-		{ "title": "Hukuk Dava Dosyası Sorgulama (Mirasçısı Olduğunuz)", "url": "https://www.turkiye.gov.tr/adalet-murise-ait-hukuk-dava-dosyasi-sorgulama" },
-		{ "title": "İcra Dosyası Sorgulama", "url": "https://www.turkiye.gov.tr/adalet-icra-dosyasi-sorgulama" },
-		{ "title": "UYAP Vatandaş Portalı (Dosya & Duruşma Takibi)", "url": "https://vatandas.uyap.gov.tr/" },
-		{ "title": "Noterlik Belgesi Başvuru Sonucu Sorgulama", "url": "https://www.turkiye.gov.tr/adalet-noterlik-belgesi-basvuru-sonucu-sorgulama" },
-		{ "title": "Danıştay Dava Dosyası Sorgulama", "url": "https://www.turkiye.gov.tr/danistay-dava-dosyasi-sorgulama" },
-		{ "title": "Yargıtay Dava Süreci Sorgulama", "url": "https://www.turkiye.gov.tr/yargitay-dava-sureci-sorgulama" },
-		{ "title": "Veraset İlamı Sorgulama", "url": "https://www.turkiye.gov.tr/adalet-veraset-ilami-sorgulama" },
-		{ "title": "Sulh Hukuk Aile Mahkemesi Vasiyetname Sorgulama", "url": "https://www.turkiye.gov.tr/adalet-sulh-hukuk-mahkemelerince-acilan-vasiyetname-sorgulama" },
-		{ "title": "Adli Sicil Silme / Düzeltme Talebi", "url": "https://www.turkiye.gov.tr/adalet-adli-sicil-silme-ve-duzeltme-talebi" },
-		{ "title": "2000 TL Altı İcraların Afları Sorgulama", "url": "https://www.turkiye.gov.tr/adalet-2000-tl-alti-icra-dava-dosyalarina-ait-aflari-sorgulama" },
-		{ "title": "Yargı Süreci İnceleme (Adalet Hizmetleri)", "url": "https://www.turkiye.gov.tr/adalet-hizmetleri" },
-		{ "title": "Adli Yardım Başvurusu (UYAP)", "url": "https://vatandas.uyap.gov.tr/"},
-		{ "title": "Tüketici Hakem Heyetlerine Başvuru İşlemi", "url": "https://www.turkiye.gov.tr/tuketici-sikayeti-uygulamasi" }
-	  ]
-	},
-	{
-	  "id": "trafik",
-	  "title": "Trafik ve Emniyet",
-	  "info_cards": [
-		{ "title": "Trafik Cezası Erken Ödeme İndirimi", "body": "Tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır." },
-		{ "title": "Ehliyet Sınıfları", "body": "Türkiye’de 2025 itibarıyla A, A1, A2, B, BE, B1, C, CE, C1, C1E, D, DE, D1, D1E, F, G ve M olmak üzere 17 farklı ehliyet sınıfı vardır." },
-		{ "title": "Ehliyet Yenileme Süresi","body": "Eski tip sürücü belgelerinin yeni tip ile değiştirilme süresi 31 Ekim 2025’e uzatıldı. Eski tipten yeni tipe geçişte harç alınmaz; sadece 13 TL değerli kâğıt + 2 TL vakıf (toplam 15 TL) ödenir. Yeni tip sürücü belgesinin yenilenmesinde ise 2025’te 1.420 TL değerli kâğıt + 340 TL vakıf hizmet bedeli (toplam 1.760 TL) uygulanır. Sağlık raporu ve biyometrik fotoğraf zorunludur."},
-		{ "title": "Trafik Sigortası Zorunluluğu", "body": "Her motorlu aracın zorunlu trafik sigortası yaptırması gerekir. Sigortasız araçlar trafikten men edilir ve para cezası uygulanır." },
-		{ "title": "Alkol Limitleri", "body": "Özel araç sürücülerinde 0,50 promil, ticari araç sürücülerinde 0,20 promil üstü yasaktır. 2025’te limit üstü sürücülere 6.439 TL ceza kesilir ve ehliyet 6 ay süreyle alınır." },
-		{ "title": "Hız Limitleri", "body": "Otomobil için: şehir içi 50 km/s, iki yönlü şehirlerarası 90 km/s, bölünmüş yolda 110 km/s, KGM sorumluluğundaki otoyollarda 130 km/s, YİD modeliyle işletilen belirtilmiş kesimlerde 140 km/s." },
-		{ "title": "Radar ve Hız İhlali Cezaları", "body": "%10–30 aşımda 2.167 TL, %30–50 aşımda 4.512 TL, %50 üzeri aşımda 9.267 TL ceza uygulanır." },
-		{ "title": "Emniyet Kemeri Cezası", "body": "Emniyet kemeri takmamanın cezası 993 TL’dir; tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır." },
-		{ "title": "Cep Telefonu Kullanımı", "body": "Araç kullanırken telefonla konuşmak yasaktır. İhlal halinde 2025’te 1.507 TL ceza uygulanır; tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır." },
-		{ "title": "Kırmızı Işık İhlali", "body": "Kırmızı ışık ihlalinin cezası 2.167 TL’dir; 30 gün içinde ödenirse %25 indirim uygulanır. Aynı yıl içinde 3 kez tekrarda sürücü belgesi 30 gün geri alınır." },
-		{ "title": "Park Cezaları", "body": "Yanlış park cezası 2025’te 690 TL’dir; 30 gün içinde ödenirse %25 indirim uygulanır. Engelli park yerine izinsiz park edenlere 1.380 TL ceza kesilir." },
-		{ "title": "Muayenesiz Araç Kullanımı", "body": "Muayenesiz araçla trafiğe çıkmanın cezası 2025’te 1.507 TL’dir. Araç trafikten men edilebilir." },
-		{ "title": "Araç Muayene Süresi", "body": "Otomobiller için ilk muayene, aracın 3 yaşını doldurmasından sonra yapılır; devamında her 2 yılda bir muayene zorunludur. Ticari araçlarda muayene her yıl yapılır." },
-		{ "title": "Ehliyet Puan Sistemi", "body": "Sürücülere trafik ihlalleri için ceza puanı verilir. 1 yıl içinde 100 puana ulaşan sürücünün ehliyeti 2 ay süreyle geri alınır." },
-		{ "title": "Acil Çağrı", "body": "Polis dâhil tüm aciller için tek numara 112’dir (155 yerine 112 kullanılır)." }
-	  ],
-	  "popular_links": [
-		{ "title": "Trafik Para Cezası Borcu Sorgulama ve Ödeme", "url": "https://www.turkiye.gov.tr/gib-intvrg-trafik-para-cezasi-borcu-sorgulama-ve-odeme" },
-		{ "title": "Araç Plakasına Yazılan Ceza Sorgulama (Gerçek Kişi)", "url": "https://www.turkiye.gov.tr/emniyet-arac-plakasina-yazilan-ceza-sorgulama" },
-		{ "title": "Araç Plakasına Yazılan Ceza Sorgulama (Tüzel Kişi)", "url": "https://www.turkiye.gov.tr/egm-arac-plakasina-yazilan-ceza-sorgulama-tuzel-kisi" },
-		{ "title": "Sürücü Belgesi ve Yazılan Ceza (Barkodlu Belge) Sorgulama", "url": "https://www.turkiye.gov.tr/emniyet-surucu-belgesi-ve-sahislara-yazilan-ceza-sorgulama" },
-		{ "title": "Araç Muayene Durumu Sorgulama (TÜVTÜRK)", "url": "https://www.turkiye.gov.tr/muayene-durum-sorgulama" },
-		{ "title": "Araç Sigorta (Trafik Poliçesi & Hasar) Sorgulama", "url": "https://www.turkiye.gov.tr/sbm-trafik-police-sorgulama" },
-		{ "title": "HGS Geçiş ve İhlal Bilgileri Sorgulama", "url": "https://www.turkiye.gov.tr/ptt-hizli-gecis-sistemi-hgs-ihlalli-gecis-bilgileri-sorgulama" },
-		{ "title": "OGS / KGM Otoyol, Köprü ve Tünel İhlalli Geçiş ve Borç Sorgulama (Gerçek Kişi)", "url": "https://www.turkiye.gov.tr/karayollari-otoyol-kopru-ve-tunel-gecis-ihlalli-gecis-ve-borc-sorgulama-plakaya-bagli-gercek-kisi" },
-		{ "title": "Kayıp / Çalıntı İhbar Sorgulama / İptal (BTK)", "url": "https://www.turkiye.gov.tr/btk-kayip-calinti-ihbar-sorgulama-iptal" },
-		{ "title": "Sürücü Belgesi Yenileme Randevu (NVİ)", "url": "https://randevu.nvi.gov.tr/" },
-		{ "title": "Trafik Kazası Tespit Tutanağı Sorgulama (Emniyet)", "url": "https://www.turkiye.gov.tr/egm-maddi-hasarli-trafik-kazasi-tespit-tutanagi-sorgulama-gercek-kisi" },
-		{ "title": "Polis / İçişleri’ne Randevu Talep Başvurusu", "url": "https://www.turkiye.gov.tr/icisleri-randevu-talep-basvuru" },
-		{ "title": "Adıma Tescilli Araç Sorgulama", "url": "https://www.turkiye.gov.tr/turkiye-noterler-birligi-adima-tescilli-arac-sorgulama" },
-		{ "title": "Trafik ve Ulaşım Hizmetleri (Kategorik Sayfa)", "url": "https://www.turkiye.gov.tr/trafik-ve-ulasim-hizmetleri" },
-		{ "title": "Emniyet Genel Müdürlüğü (Genel Kurum Sayfası)", "url": "https://www.turkiye.gov.tr/emniyet-genel-mudurlugu" }
-	  ]
-	},
-	{
-	  "id": "belediye",
-	  "title": "Belediye İşlemleri",
-	  "info_cards": [
-		{ "title": "Emlak Vergisi Ödeme Dönemleri", "body": "Her yıl iki taksitte ödenir: 1. taksit Mart–Mayıs, 2. taksit Kasım ayında. Ödemeler belediye vezneleri, e-Belediye sistemi, internet bankacılığı veya e-Devlet üzerinden yapılabilir." },
-		{ "title": "Çevre Temizlik Vergisi (ÇTV)", "body": "Konut, işyeri ve araziler için alınır. Konutlarda genellikle su faturalarına yansıtılır ve belediyeye ödenir. İşyerleri için ise ayrı beyanname verilebilir." },
-		{ "title": "İmar Durum Belgesi", "body": "Bir arsanın imar planındaki kullanım şeklini, yapılaşma koşullarını gösterir. İnşaat ve proje başvuruları için zorunludur. Belediye imar müdürlüklerinden veya e-Devlet üzerinden alınabilir." },
-		{ "title": "İmar Barışı / Yapı Kayıt Belgesi", "body": "2025 itibarıyla yeni başvuru alınmamaktadır. Daha önce alınmış Yapı Kayıt Belgeleri geçerliliğini korumaktadır." },
-		{ "title": "Ruhsat Başvuruları", "body": "İşyeri açma ve çalışma ruhsatı belediyelerden alınır. Gerekli belgeler arasında tapu veya kira sözleşmesi, yangın uygunluk raporu ve oda kayıt belgeleri bulunur." },
-		{ "title": "Nikah İşlemleri", "body": "Evlenmek isteyen çiftler belediye evlendirme dairesine başvurur. Gerekli belgeler: nüfus cüzdanı veya T.C. kimlik kartı, biyometrik fotoğraf, sağlık raporu." },
-		{ "title": "Belediye Yardımları", "body": "Belediyeler, ihtiyaç sahibi vatandaşlara sosyal yardım, gıda, yakacak, burs ve ücretsiz ulaşım desteği sağlayabilir. Başvurular genellikle sosyal hizmet müdürlüklerine yapılır." },
-		{ "title": "Belediye İlan ve Reklam Vergisi", "body": "Ticari ilan ve reklamlar için belediyelere vergi ödenir. Tutar, reklamın türüne, konumuna ve büyüklüğüne göre değişir." },
-		{ "title": "İşyeri Atık Ücretleri", "body": "Belediyeler, işyerlerinden kaynaklanan atıkların toplanması ve bertarafı için atık yönetim ücreti alır. Ücretler her yıl yeniden değerleme oranına göre güncellenir." },
-		{ "title": "Hayvan Barınakları ve Rehabilitasyon", "body": "Belediyeler sahipsiz hayvanlar için barınak, kısırlaştırma ve rehabilitasyon hizmeti sunar. Vatandaşlar e-Devlet, belediye çağrı merkezi veya mobil uygulamalardan ihbarda bulunabilir." },
-		{ "title": "Zabıta Şikayetleri", "body": "Belediye zabıtasına işgaliye, ruhsatsız satış, seyyar satıcı, gürültü ve çevre kirliliği gibi konularda şikayette bulunulabilir." },
-		{ "title": "Afet ve Acil Durum Hizmetleri", "body": "Belediyeler deprem, sel ve yangın gibi afetlerde tahliye, geçici barınma, sıcak yemek ve temel yardım hizmetleri sağlar. AFAD ile koordineli çalışır." },
-		{ "title": "Mezarlık ve Defin İşlemleri", "body": "Belediyeler cenaze nakli, defin ve mezarlık hizmeti sunar. Büyükşehirlerde ücretsiz taziye çadırı ve cenaze aracı hizmeti de verilebilmektedir." },
-		{ "title": "Belediye Otobüsleri ve Ulaşım Kartı", "body": "Toplu ulaşım hizmetleri belediyeler tarafından sağlanır. Öğrenci, engelli, şehit yakını ve 65 yaş üstü vatandaşlar için indirimli veya ücretsiz kart uygulamaları vardır." },
-		{ "title": "Atık Pil ve Geri Dönüşüm", "body": "Belediyeler, atık pil, elektronik eşya, cam, plastik ve kağıt için geri dönüşüm kutuları yerleştirir ve toplama merkezleri kurar. Vatandaşlar atıkları bu noktalara bırakabilir." }
-	  ],
-	  "popular_links": [
-		 { "title": "Belediyeler (Genel Kategori Sayfası)", "url": "https://www.turkiye.gov.tr/belediyeler" }
-	  ]
-	},
-	{
-	  "id": "yurtdisi",
-	  "title": "Yurt Dışı İşlemleri",
-	  "info_cards": [
-		{ "title": "Yurt Dışı Çıkış Harcı", "body": "2025’te yurt dışı çıkış harcı 1000 TL’dir; havaalanı veznesi, banka veya Dijital Vergi Dairesi/e-Devlet’ten ödenebilir." },
-		{ "title": "Pasaport Süresi", "body": "Birçok ülke en az 6 ay geçerlilik şartı arar. Schengen için pasaportun seyahat bitişinden sonra en az 3 ay geçerli ve son 10 yılda düzenlenmiş olması gerekir." },
-		{ "title": "Vize Başvuruları", "body": "Her ülkenin şartları farklıdır; başvurular ilgili ülkenin konsolosluğu/büyükelçiliği veya yetkili vize merkezi üzerinden yapılır." },
-		{ "title": "Schengen Vizesi Ücreti", "body": "Kısa süreli (C tipi) Schengen vizesi ücreti yetişkinler için 90 €, 6–12 yaş çocuklar için 45 € (11 Haziran 2024’ten beri)." },
-		{ "title": "Yeşil Pasaport Avantajı", "body": "Hususi (yeşil) pasaport sahipleri Schengen bölgesine 180 günde 90 günü aşmamak kaydıyla vizesiz kısa süreli seyahat edebilir; pek çok ülkeye de vizesiz giriş imkânı tanınır." },
-		{ "title": "Çifte Vatandaşlık İşlemleri", "body": "İkinci vatandaşlığı olanların durumlarını nüfus kayıtlarına işletmeleri gerekir; yurt dışındakiler dış temsilciliklere bildirim yapar." },
-		{ "title": "Askerlik Tecili Yurt Dışında", "body": "Yurt dışında ikamet eden yükümlüler, konsolosluk üzerinden askerlik tecili/dövizle askerlik başvurusu yapabilir." },
-		{ "title": "Yurt Dışı Seçmen Kaydı", "body": "Kayıt, yurt dışı adres beyanının dış temsilcilikte yapılmasıyla oluşur; e-Devlet’ten kayıt SORGULAMASI yapılabilir." },
-		{ "title": "Konsolosluk Hizmetleri", "body": "Pasaport/kimlik, evlenme-boşanma işlemleri, doğum/ölüm bildirimi ve noter işlemleri dış temsilciliklerde yapılır." },
-		{ "title": "Apostil Belgesi", "body": "Türkiye’de idari belgelerde yetkili makam Valilik/Kaymakamlık; adli belgelerde Adliyedir. e-Apostil sistemi bazı illerde kullanılmaktadır." },
-		{ "title": "Yurt Dışında Eğitim", "body": "YÖK denkliği için program/üniversite tanınırlığı aranır; mezuniyet sonrası e-Devlet/YÖK üzerinden denklik başvurusu yapılmalıdır." },
-		{ "title": "Yurt Dışı Sağlık Sigortası", "body": "Pek çok vize türünde seyahat süresini kapsayan sağlık sigortası zorunludur; Schengen’de asgari teminat şartları aranır." },
-		{ "title": "Araçla Yurt Dışı Çıkışı", "body": "Zorunlu trafik sigortasına ek olarak Yeşil Kart (Green Card) sigortası yaptırılmalıdır; Yeşil Kart sistemine üye ülkelerde geçerlidir." },
-		{ "title": "Yurt Dışında Doğum Kaydı", "body": "Yurt dışında doğan çocuk için doğum bildirimi esasen 60 gün içinde dış temsilciliğe yapılır; yapılmazsa Türkiye’de nüfus müdürlüğüne de tescil ettirilebilir." },
-		{ "title": "Yurt Dışı Çalışma İzinleri", "body": "Çalışılacak ülkede oturma/çalışma izinleri o ülke mevzuatına göre alınır; konsolosluklar başvuru sürecine ilişkin bilgilendirme yapar." }
-	  ],
-	  "popular_links": [
-	    { "title": "Pasaport Başvuru Randevusu", "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-randevusu" },
-		{ "title": "Pasaport Başvuru Durumu Sorgulama", "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-durum-sorgu" },
-		{ "title": "Pasaport İşlemleri", "url": "https://www.konsolosluk.gov.tr/Procedure/ShowProcedure/4" },
-		{ "title": "Konsolosluk Randevu Sistemi", "url": "https://www.konsolosluk.gov.tr/appointment/searchappointment" },
-		{ "title": "IMEI Kayıt", "url": "https://www.turkiye.gov.tr/btk-imei-kaydet" },
-		{ "title": "Yurda Giriş/Çıkış Belge Sorgulama", "url": "https://www.turkiye.gov.tr/emniyet-yurda-giriscikis-belge-sorgulama" },
-		{ "title": "e-Devlet Şifresi Yurt Dışı Temini", "url": "https://www.turkiye.gov.tr/bilgilendirme?konu=yardim" },
-		{ "title": "Vize Genel Bilgileri", "url": "https://www.mfa.gov.tr/vize-genel-bilgileri.tr.mfa" },
-		{ "title": "Vize Online Önbasvuru Sistemi", "url": "https://www.mfa.gov.tr/vize-online-onbasvuru-sistemi.tr.mfa" },
-		{ "title": "Vize İşlemleri (Konsolosluk)", "url": "https://www.konsolosluk.gov.tr/" },
-		{ "title": "Vize Randevu / Ön Başvuru Sorgulama", "url": "https://www.konsolosluk.gov.tr/appointment/searchappointment" },
-		{ "title": "e-Vize Başvuru", "url": "https://www.evisa.gov.tr" }
-	  ]
-	},
-	{
-	  "id": "afet",
-	  "title": "Afet ve Acil Durum",
-	  "info_cards": [
-		{ "title": "Acil Çağrı Numarası", "body": "Türkiye genelinde tüm acil durumlar için tek numara 112’dir; polis, jandarma, sağlık, itfaiye ve AFAD çağrıları bu merkezden yönlendirilir." },
-		{ "title": "AFAD Gönüllülük Sistemi", "body": "Vatandaşlar AFAD Gönüllülük Sistemi’ne e-Devlet/afad.gov.tr üzerinden kayıt olabilir; çevrim içi/uygulamalı eğitimleri tamamlayarak afetlerde görev alabilir." },
-		{ "title": "Deprem Çantası Hazırlığı", "body": "Temel içerik: su, kuru gıda, ilk yardım seti, el feneri, piller/powerbank, düdük, battaniye, maske-eldiven, nakit, yedek ilaçlar, kimlik ve önemli evrak kopyaları." },
-		{ "title": "Afet Sigortası (DASK)", "body": "Zorunlu deprem sigortası (DASK) olmadan konutta elektrik-su aboneliği açılamaz; primler 2025’te bina yaşı, yapı tarzı, metrekare ve il/ilçe riskine göre değişir." },
-		{ "title": "Toplanma Alanları", "body": "Afet sonrası güvenli toplanma alanları e-Devlet ve AFAD mobil uygulamasından konuma göre görüntülenebilir." },
-		{ "title": "Deprem Anında Doğru Davranış", "body": "Sarsıntıda Çök–Kapan–Tutun uygulanmalı, asansör kullanılmamalı, balkon/pencereden uzak durulmalıdır; sarsıntı bitince güvenli şekilde tahliye edilir." },
-		{ "title": "Yangın İhbarı", "body": "Yangında 112 aranmalı; dumanlı ortamda alçaktan ilerlenmeli, mümkünse elektrik/gaz kapatılarak bina hızla tahliye edilmelidir." },
-		{ "title": "Sel ve Su Baskını Önlemleri", "body": "Bodrum/zemin katlardan uzak durun, araçları yüksek alanlara çekin, elektrik panolarını kapatın; köprü altı ve akarsu kenarlarından uzaklaşın." },
-		{ "title": "Acil Durum Çantası Belgeleri", "body": "Kimlik, pasaport, tapu, sigorta poliçesi, banka bilgileri ve acil iletişim numaraları su geçirmez dosyada çantada tutulmalıdır." },
-		{ "title": "Afet Sonrası Psikolojik Destek", "body": "AFAD, Sağlık Bakanlığı ve belediyeler afetzedelere ücretsiz psikososyal destek (PSS) hizmetleri sunar; başvuru 112/AFAD veya yerel birimlerden yapılır." },
-		{ "title": "AFAD Mobil Uygulaması", "body": "Uygulamada anlık uyarılar, toplanma alanları, afet öncesi/sonrası yapılacaklar ve eğitim modülleri yer alır; çevrimdışı bilgi kartları da bulunur." },
-		{ "title": "Tahliye ve Barınma", "body": "Büyük afetlerde vatandaşlar geçici barınma merkezlerine yönlendirilir; AFAD koordinasyonunda çadır ve konteyner alanları kurulur." },
-		{ "title": "Doğalgaz ve Elektrik Kesintisi", "body": "Deprem/yangın sonrası sızıntı şüphesi varsa ana gaz vanası ve elektrik sigortaları kapatılmalı; güvenlik teyidi alınmadan yeniden açılmamalıdır." },
-		{ "title": "İlk Yardım Eğitimi", "body": "Temel ilk yardım eğitimleri Kızılay ve yetkili eğitim merkezlerinden sertifikalı olarak alınabilir; kayıtlar e-Devlet ve kurum sayfalarından yapılır." },
-		{ "title": "Afet Tatbikatları", "body": "Okullar ve kamu kurumlarında yılda en az bir kez deprem/yangın tahliye tatbikatı yapılır; ulusal tatbikat takvimi ve duyurular AFAD tarafından yayımlanır." }
-	  ],
-	  "popular_links": [
-	    { "title": "Afet ve Acil Durum Toplanma Alanı Sorgulama", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama" },
-	    { "title": "Afetzede Barınma Desteği Başvurusu", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-afetzede-barinma-destegi-basvurusu" },
-	    { "title": "Barınma Desteği Ödeme Sonucu Sorgulama", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-afetzede-barinma-destegi-odeme-sonucu-sorgulama" },
-	    { "title": "Hak Sahipliği Talep ve Taahhütname Başvurusu", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-hak-sahipligi-icin-talep-ve-taahhutname-basvurusu" },
-	    { "title": "Hak Sahipliği Kura Sonucu Sorgulama", "url": "https://www.turkiye.gov.tr/afad-hak-sahipligi-kura-sonucu-sorgulama" },
-	    { "title": "Hane Başı Destek Ödeme Sonucu Sorgulama", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-hane-basi-destek-odeme-sonucu-sorgulama" },
-	    { "title": "Gönüllülük Başvurusu ve Takibi", "url": "https://www.turkiye.gov.tr/afad-gonulluluk-basvurusu-ve-takibi" },
-	    { "title": "Afet Alanında Elektronik Belge Doğrulama", "url": "https://www.turkiye.gov.tr/afad-ebys" },
-	    { "title": "Deprem Bağış Kampanyası", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-deprem-bagis-kampanyasi" },
-	    { "title": "Ahır / Samanlık İçin AFAD Kredi Başvurusu", "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-ahir-samanlik-icin-afad-kredi-basvurusu" },
-	    { "title": "Doğal Afet Sigortaları Hasar Sorgulama", "url": "https://www.turkiye.gov.tr/dogal-afet-sigortalari-hasar-sorgulama" }
-	  ]
-	}
+      "id": "sgk",
+      "title": "SGK",
+      "info_cards": [
+        {
+          "title": "Malulen Emeklilik (10 yıl / 1800 gün)",
+          "body": "Kurum sağlık kurulunca en az %60 çalışma gücü kaybı tespit edilmeli. 10 yıl sigortalılık ve 1800 gün prim şartı var. Başkalarının sürekli bakımına muhtaç olanlarda 10 yıl şartı aranmaz; 1800 gün yeterlidir."
+        },
+        {
+          "title": "EYT (Emeklilikte Yaşa Takılanlar)",
+          "body": "8 Eylül 1999 ve öncesi ilk sigorta girişi olanlar; SSK’da kadın 20 yıl, erkek 25 yıl sigortalılık ve 5000–5975 gün (giriş tarihine göre) prim şartını tamamladıklarında yaş şartı olmadan emekli olabilir."
+        },
+        {
+          "title": "Normal Emeklilik (4A SSK)",
+          "body": "Giriş tarihine göre şartlar değişir. 08.09.1999–30.04.2008 arası: Kadın 58, erkek 60 yaş + 7000 gün (veya 4500 gün + 25 yıl kısmi). 01.05.2008 ve sonrası: 7200 gün ve günün tamamlandığı tarihe göre kademeli yaş (nihai 65)."
+        },
+        {
+          "title": "Engelli Emekliliği (%40–%60+)",
+          "body": "01.10.2008 sonrası ilk tescilde; %40–49: 18 yıl/4680 gün, %50–59: 16 yıl/4320 gün, %60 ve üzeri: 15 yıl/3960 gün. (Çalışma gücü kaybı oranına göre tablo uygulanır.)"
+        },
+        {
+          "title": "Doğum Borçlanması",
+          "body": "Sigortalı kadın en fazla 3 doğum için, her doğumda 2 yıla (720 gün) kadar; toplam 2160 gün borçlanabilir. Şart: Doğumdan sonraki sürede sigortalı sayılmamak ve çocuğun yaşaması."
+        },
+        {
+          "title": "Askerlik Borçlanması",
+          "body": "Er/erbaş veya yedek subay okulunda geçen süre tamamı veya bir kısmı borçlanılabilir. Borç başvuru gününde seçilen günlük kazancın %32’si üzerinden hesaplanır (alt–üst sınırlar 5510/82)."
+        },
+        {
+          "title": "Yurtdışı Borçlanması",
+          "body": "3201 sayılı Kanun kapsamında yurtdışında geçen çalışma, ikamet ve ev kadınlığı süreleri borçlanılabilir. Başvuru anında Türk vatandaşı (veya izinle çıkmış mavi kartlı) olmak, süreleri belgelendirmek ve yazılı talep şarttır. Borç tutarı seçilen günlük kazancın %45’i üzerinden hesaplanır. Aylık bağlatmada ‘kesin dönüş’ şartı aranır."
+        },
+        {
+          "title": "4A Hizmet Dökümü",
+          "body": "Sigortalının çalışma günleri, primleri ve işyeri bildirimleri görülen resmî kayıttır; e-Devlet’ten alınır."
+        },
+        {
+          "title": "4A Emekli Aylığı Kesintileri",
+          "body": "Emekli aylıkları gelir vergisine tabi değildir. Nafaka ve SGK alacakları için haciz/kesinti yapılabilir; diğer borçlarda yazılı rıza aranır. Çalışmaya başlanırsa SGDP uygulanır; bu prim çalışılan ücret üzerinden tahsil edilir, aylığın kendisinden kesinti sayılmaz."
+        },
+        {
+          "title": "Ev Hanımlarının İsteğe Bağlı Emekliliği",
+          "body": "İsteğe bağlı sigorta 4B (Bağ-Kur) statüsündedir. Tam emeklilik: 9000 gün. Kısmi (yaş haddinden): 5400 gün ve kademeli yaş; 01.05.2008 sonrası tescillerde genel kural kadın 61 / erkek 63 (ileride 65’e kademeli). Prim, beyan edilen kazancın %32’sidir."
+        },
+        {
+          "title": "3600 Günle Emeklilik (Kısmi)",
+          "body": "08.09.1999 öncesi girişi olan SSK’lılar için 15 yıl + 3600 gün + kademeli yaş şartıyla mümkün; yaş alt sınırları kadın 50/erkek 55’ten başlayıp giriş tarihine göre artar. 2008 sonrası için kısmi model 5400 gün + kademeli yaştır."
+        },
+        {
+          "title": "İş Kazası ve Meslek Hastalığı",
+          "body": "Sürekli iş göremezlik geliri, iş kazası/meslek hastalığı sonrası meslekte kazanma gücü en az %10 azalan sigortalıya bağlanır. Geçici iş göremezlik ödeneği (rapor parası) iş kazası/meslek hastalığında ilk günden, diğer hastalıklarda 3. günden itibaren ödenir."
+        },
+        {
+          "title": "Ölüm Aylığı / Dul ve Yetim Maaşı",
+          "body": "Vefat eden sigortalının şartları sağlanıyorsa eş, çocuk ve şartları varsa anne-babaya ölüm aylığı bağlanır. Eşe oranlar kural olarak %50 (çocuk varsa) / %75 (çalışmıyor ve kendi aylığı yoksa) şeklindedir; diğer hak sahiplerine oranlar SGK mevzuatındaki dağıtım kurallarına göre belirlenir."
+        },
+        {
+          "title": "Genel Sağlık Sigortası (GSS)",
+          "body": "Genel Sağlık Sigortası (GSS) primi, prime esas kazanç alt sınırının %3’ü olarak hesaplanır; asgari ücret değiştikçe tutar da değişir. Güncel tutar e-Devlet/SGK üzerinden kontrol edilmelidir."
+        },
+        {
+          "title": "İşe Giriş Bildirgesi",
+          "body": "Sigortalının ilk işe başlama tarihi işveren bildirimiyle tescil edilir ve e-Devlet’te görüntülenir; emeklilik hesaplarında temel parametrelerden biridir."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Ne Zaman Emekli Olurum?",
+          "url": "https://www.turkiye.gov.tr/sgk-ne-zaman-emekli-olabilirim"
+        },
+        {
+          "title": "4A Hizmet Dökümü",
+          "url": "https://www.turkiye.gov.tr/4a-hizmet-dokumu"
+        },
+        {
+          "title": "Emeklilik Aylık Talebi (Tahsis/Talep)",
+          "url": "https://www.turkiye.gov.tr/sgk-tahsis-talep-taahhut-beyan"
+        },
+        {
+          "title": "4A Emekli Aylık Bilgisi",
+          "url": "https://www.turkiye.gov.tr/4a-emekli-aylik-bilgisi"
+        },
+        {
+          "title": "4A Emekli Aylığı Kesintileri",
+          "url": "https://www.turkiye.gov.tr/4a-emekli-aylik-kesintileri"
+        },
+        {
+          "title": "4A Askerlik Borçlanması Başvurusu",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4a-askerlik-borclanmasi-basvurusu"
+        },
+        {
+          "title": "4A Doğum Borçlanması Başvurusu",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4a-dogum-borclanmasi-basvurusu"
+        },
+        {
+          "title": "4B Doğum Borçlanması Başvurusu",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4b-dogum-borclanmasi-basvurusu"
+        },
+        {
+          "title": "Yurtdışı Borçlanması Başvuru/Tebligat",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-yurt-disi-borclanma-basvurusu-sorgulama-ve-tebligat-goruntuleme"
+        },
+        {
+          "title": "İşe Giriş – Çıkış Bildirgesi (4A)",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-4a-ise-giris-cikis-bildirgesi"
+        },
+        {
+          "title": "İş Kazası ve Meslek Hastalığı E-Bildirim",
+          "url": "https://www.turkiye.gov.tr/sgk-esgkuyg-esgksifre-isgoremezlik"
+        },
+        {
+          "title": "SPAS Müstehaklık Sorgulama",
+          "url": "https://www.turkiye.gov.tr/spas-mustahaklik-sorgulama"
+        },
+        {
+          "title": "Ölüm Yardımı ve Dul/Yetim Aylığı Talebi",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-olum-yardimi-ve-dul-yetim-ayligi-talebi"
+        },
+        {
+          "title": "GSS Prim Borcu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/sgk-gss-borc-dokumu"
+        },
+        {
+          "title": "SGK – Tüm Hizmetler",
+          "url": "https://www.turkiye.gov.tr/sosyal-guvenlik-kurumu"
+        }
+      ]
+    },
+    {
+      "id": "vergi",
+      "title": "Vergi",
+      "info_cards": [
+        {
+          "title": "Motorlu Taşıtlar Vergisi (MTV) Taksitleri",
+          "body": "Her yıl iki eşit taksit ödenir: Ocak ve Temmuz ayları (son günler genelde 31 Ocak ve 31 Temmuz civarıdır)."
+        },
+        {
+          "title": "Emlak Vergisi Taksitleri",
+          "body": "Her yıl iki eşit taksit: 1 Mart–31 Mayıs ve 1–30 Kasım dönemlerinde ödenir."
+        },
+        {
+          "title": "Yıllık Gelir Vergisi Beyanı",
+          "body": "Gerçek kişiler bir önceki yıla ait gelirlerini her yıl Mart ayında beyan eder; tahakkuk eden vergi iki taksitte Mart ve Temmuz’da ödenir."
+        },
+        {
+          "title": "Kurumlar Vergisi Beyanı",
+          "body": "Beyan dönemi her yıl Nisan ayıdır; beyan ve ödeme Nisan sonuna kadardır."
+        },
+        {
+          "title": "KDV Oranları (Genel Çerçeve)",
+          "body": "Genel oran %20’dir; indirimli oranlar %10 ve %1 olarak uygulanır (2007/13033 sayılı Karar ve 7346 sayılı CB Kararı değişiklikleri yürürlüktedir)."
+        },
+        {
+          "title": "Trafik Cezası Erken Ödeme İndirimi",
+          "body": "Tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır."
+        },
+        {
+          "title": "İşyeri Kiralarında Stopaj",
+          "body": "İşyeri kira ödemelerinde brüt tutar üzerinden %20 gelir vergisi stopajı yapılır (GVK md.94/5-a)."
+        },
+        {
+          "title": "Konut Kira Geliri İstisnası",
+          "body": "2026 takvim yılında mesken kira gelirlerinde istisna tutarı 58.000 TL’dir (GVK 21). İstisnayı aşan konut kira geliri elde edenler beyanname yükümlülüğünü ayrıca kontrol etmelidir."
+        },
+        {
+          "title": "Veraset ve İntikal Vergisi (Beyan ve Ödeme)",
+          "body": "Ölüm Türkiye’deyse 4 ay (yurtdışında gerçekleşmişse 6 ay) içinde beyan edilir; vergi 3 yılda Mayıs ve Kasım aylarında toplam 6 eşit taksitte ödenir."
+        },
+        {
+          "title": "Geçici Vergi (Üçer Aylık)",
+          "body": "Yılda 3 dönemdir (4. dönem kaldırılmıştır). Her dönemin beyannamesi, dönemi izleyen ikinci ayın 17’sine kadar verilir ve ödenir; tahakkuk eden tutar yıl sonu vergisinden mahsup edilir."
+        },
+        {
+          "title": "Damga Vergisi",
+          "body": "Damga vergisinde maktu tutarlar ve ‘bir kâğıttan alınacak azami damga vergisi’ üst sınırı her yıl Resmî Gazete’de yayımlanan tebliğlerle güncellenir. 2026’ya esas yeniden değerleme oranı 2025 yılı için %25,49 olarak ilan edilmiştir; bazı vergi/harç artışlarında Cumhurbaşkanı Kararı ile daha düşük artış oranı uygulanabilmiştir."
+        },
+        {
+          "title": "Harçlar",
+          "body": "Harçlar Kanunu kapsamındaki maktu harçlar her yıl Resmî Gazete’de yayımlanan Harçlar Kanunu Genel Tebliği ile güncellenir. 2026’ya esas yeniden değerleme oranı 2025 yılı için %25,49 olarak ilan edilmiştir; bazı vergi/harçlarda artış oranı Cumhurbaşkanı Kararı ile %18,95 olarak uygulanmıştır."
+        },
+        {
+          "title": "Çevre Temizlik Vergisi (ÇTV) Taksitleri",
+          "body": "Genellikle emlak vergisi dönemleriyle aynıdır: 1 Mart–31 Mayıs ve 1–30 Kasım (konutlarda çoğunlukla su faturalarına yansıtılır)."
+        },
+        {
+          "title": "MTV Borcu ve Araç İşlemleri",
+          "body": "Noterde satış öncesi sistemde borç kontrolü yapılır; MTV/ek MTV ve benzeri vadesi geçmiş borçlar satışın tamamlanmasına engel olabilir. Araç muayenesinde, ocak/temmuz ayları içinde henüz ay sonu gelmemiş MTV tahakkukları engel sayılmayabilir; diğer dönemlerde vergi borcu muayeneyi engelleyebilir."
+        },
+        {
+          "title": "Yeniden Değerleme Oranı (YDO)",
+          "body": "Yeniden değerleme oranı (YDO), her yıl Vergi Usul Kanunu Genel Tebliği ile ilan edilir ve birçok vergi/harç/ceza tutarının güncellenmesinde esas alınır. 2025 yılı için (2026’da uygulanacak) yeniden değerleme oranı %25,49’dur. Bazı vergi ve harç artışlarında Cumhurbaşkanı Kararı ile daha düşük artış oranı (%18,95) uygulanmıştır."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Vergi Borcu Sorgulama ve Ödeme",
+          "url": "https://www.turkiye.gov.tr/gib-vergi-borcu-sorgu"
+        },
+        {
+          "title": "İnternet Vergi Dairesi Genel Girişi",
+          "url": "https://www.turkiye.gov.tr/gib-internet-vergi-dairesi"
+        },
+        {
+          "title": "Trafik Para Cezası Borcu Sorgulama ve Ödeme",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-trafik-para-cezasi-borcu-sorgulama-ve-odeme"
+        },
+        {
+          "title": "MTV Sorgulama ve Kredi Kartıyla Ödeme",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-motorlu-tasitlar-vergisi-sorgulama-ve-kredi-karti-ile-odeme"
+        },
+        {
+          "title": "Hazır Beyan Sistemi (Gelir/Kira vb.)",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-hazir-beyan-sisteminden-beyanname-duzenleme"
+        },
+        {
+          "title": "Tüm Yapılandırılan Vergi Borçları",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-tum-yapilandirilan-vergi-borclari"
+        },
+        {
+          "title": "e-Vergi Levhası Doğrulama",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-e-vergi-levhasi-dogrulama"
+        },
+        {
+          "title": "Ceza İndirim Talebi (VUK 376)",
+          "url": "https://www.turkiye.gov.tr/gib-ivd-ucyuzyetmisaltitalep"
+        },
+        {
+          "title": "E-Yoklama Fişi Görüntüleme",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-e-yoklama-fisi-goruntuleme"
+        },
+        {
+          "title": "e-Fatura (e-Arşiv) Portalı",
+          "url": "https://earsivportal.efatura.gov.tr/"
+        },
+        {
+          "title": "e-Tebligat Başvuru ve Görüntüleme",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-e-tebligat-goruntuleme"
+        },
+        {
+          "title": "Borcu Yoktur Yazısı Talep Girişi",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-borcuyokturyazisi"
+        },
+        {
+          "title": "Gümrük Vergi & Ceza Borcu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/gumruk-vergi-ve-ceza-borcu-sorgulama-6490"
+        },
+        {
+          "title": "Engellilik Vergi İndirimi Başvurusu",
+          "url": "https://www.turkiye.gov.tr/gib-engellilik-vergi-indirimi-basvuru-islemleri-4189"
+        },
+        {
+          "title": "Vergi Kimlik Numarası Doğrulama",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-vergi-kimlik-numarasi-dogrulama"
+        }
+      ]
+    },
+    {
+      "id": "tapu",
+      "title": "Tapu ve Kadastro",
+      "info_cards": [
+        {
+          "title": "Tapu Harcı Oranı",
+          "body": "Gayrimenkul satışında beyan edilen bedel (emlak vergi değerinden az olamaz) üzerinden toplam %4 tapu harcı ödenir; alıcı %2, satıcı %2."
+        },
+        {
+          "title": "Döner Sermaye Bedeli",
+          "body": "Tapu/Kadastro döner sermaye ücretleri işlem türüne ve il katsayısına göre değişir; sabit tek fiyat aralığı yoktur, güncel tarife cetveline bakılır."
+        },
+        {
+          "title": "Aile İçi (Bağış) Tapu Harcı",
+          "body": "Bağış (hibe) devirlerinde harç, emlak vergi değerinden az olmamak üzere beyan edilen değer üzerinden güncel tarife cetveline göre hesaplanır ve kural olarak yalnızca bağışı kabul edenden alınır."
+        },
+        {
+          "title": "İpotek Tesis Harcı",
+          "body": "İpotek tesisinde ipotekle sağlanan borç miktarı üzerinden binde 4,55 tapu harcı uygulanır."
+        },
+        {
+          "title": "Rayiç Bedel Altı Beyan Yasak",
+          "body": "Tapu harcı matrahı, emlak vergi değerinden düşük olamaz; düşük beyan durumunda vergi/ceza ve ikmalen tarhiyat riski doğar."
+        },
+        {
+          "title": "Tapu İşlem Öncesi Ödeme",
+          "body": "Tapu harcı ve döner sermaye bedeli ödenmeden işlem tamamlanmaz; ödemeler TKGM e-Tahsilat ve e-Devlet üzerinden yapılabilir."
+        },
+        {
+          "title": "Tapu Ücretlerinin Güncellenmesi",
+          "body": "Tapu/kadastro harç ve döner sermaye ücretleri her yıl yayımlanan tarife cetveliyle güncellenir; yeniden değerleme/YDO etkileri yıl başında tarife ve tebliğlere yansıtılır."
+        },
+        {
+          "title": "Kadastro Harç Alt Sınırı",
+          "body": "Kadastro nispi harçlarının alt sınırı her yıl YDO’ya göre güncellenir; belirli sabit bir TL rakam vermek yerine güncel harç cetveli esas alınır."
+        },
+        {
+          "title": "Akitli vs Akitsiz İşlemler",
+          "body": "Akitli işlemler resmi senetle (ör. satış, bağış); akitsiz işlemler tescil istem belgesiyle (ör. şerh, terkin, miras intikali) yapılır."
+        },
+        {
+          "title": "Tapu Sicilinde Aleniyet İlkesi",
+          "body": "Tapu sicili herkese açıktır; ilgisini inanılır kılan herkes kayıtları görme/örnek alma hakkına sahiptir (TMK m.1020)."
+        },
+        {
+          "title": "Tapu İşlem Belgeleri",
+          "body": "Satış için tipik belgeler: kimlik/pasaport, varsa vekâlet/vasi kararı, DASK poliçesi (bina), belediye emlak beyan değeri belgesi ve ödeme dekontları; yabancı işlemlerinde ek belgeler istenebilir."
+        },
+        {
+          "title": "İnşaat Aşamasında Tapu (Kat İrtifakı)",
+          "body": "İnşaat tamamlanmadan bağımsız bölümlere ilişkin hakları gösteren tapu kaydıdır; şartlar sağlanınca kat mülkiyetine çevrilebilir."
+        },
+        {
+          "title": "Tapuda Uyumlu Bilgi Zorunluluğu",
+          "body": "Kimlik/MERNİS, adres ve sigorta gibi bilgiler güncel ve belgeler birbiriyle uyumlu olmalıdır; eksik/uyuşmazlık işlemi geciktirir."
+        },
+        {
+          "title": "Yönetim Planı Uyumu",
+          "body": "Yönetim planı tapu sicilinde beyanlar hanesinde bulunur; değişiklik için kat maliklerinin 4/5 çoğunluğu gerekir ve değişiklikler tescil edilir."
+        },
+        {
+          "title": "İpotek / Kısıtlama Kontrolü",
+          "body": "Devir öncesi taşınmaz üzerindeki ipotek, haciz ve diğer takyidatlar Web Tapu/e-Devlet üzerinden sorgulanmalı; gerekirse resmi takyidat belgesi alınmalıdır."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Tapu Bilgileri Sorgulama",
+          "url": "https://www.turkiye.gov.tr/tapu-bilgileri-sorgulama"
+        },
+        {
+          "title": "Web Tapu İşlemleri",
+          "url": "https://www.turkiye.gov.tr/tkgm-web-tapu"
+        },
+        {
+          "title": "Tapu Randevu Sistemi",
+          "url": "https://randevu.tkgm.gov.tr/"
+        },
+        {
+          "title": "Parsel Sorgulama (TKGM)",
+          "url": "https://parselsorgu.tkgm.gov.tr/"
+        },
+        {
+          "title": "Tapu Harç ve Döner Sermaye Sorgulama / Ödeme",
+          "url": "https://www.turkiye.gov.tr/tapu-harc-sorgulama"
+        },
+        {
+          "title": "Tapu Taşınmaz Beyanı",
+          "url": "https://www.turkiye.gov.tr/tapu-tasinmaz-beyan"
+        },
+        {
+          "title": "Tapu Telefon Bilgileri Beyan",
+          "url": "https://www.turkiye.gov.tr/tapu-telefon-beyan"
+        },
+        {
+          "title": "Harç ve Döner Sermaye Bilgisi",
+          "url": "https://www.turkiye.gov.tr/tapu-harc-sorgulama"
+        },
+        {
+          "title": "Elektronik Belge Doğrulama (EBYS)",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-ebys"
+        },
+        {
+          "title": "Tapu Bilgileri (Tüzel Kişi)",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tapu-bilgileri-sorgulama-tuzel-kisi"
+        },
+        {
+          "title": "Tapu Bilgileri (Mirasçısı Adına)",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tapu-bilgileri-sorgulama-mirascisi-oldugunuz-kisi-adina"
+        },
+        {
+          "title": "Tapu Bilgileri (Çocuğunuz Adına)",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tapu-bilgileri-sorgulama-cocugunuz-adina"
+        },
+        {
+          "title": "Tapu ve Kadastro Genel Müdürlüğü",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-genel-mudurlugu"
+        },
+        {
+          "title": "Taşınmaz Yetkilendirme İşlemleri",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-tasinmaz-yetkilendirme-islemleri"
+        },
+        {
+          "title": "Yetkilendirildiğim Taşınmaz Sorgulama",
+          "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-yetkilendirildigim-tasinmaz-sorgulama"
+        }
+      ]
+    },
+    {
+      "id": "askerlik",
+      "title": "Askerlik",
+      "info_cards": [
+        {
+          "title": "Zorunlu Askerlik Süresi",
+          "body": "Tek tip sistemde er/erbaş için 6 ay zorunludur. İstekli olanlar 6 ay daha devam ederek toplam 12 ay yapabilir ve asgari ücretten az olmamak üzere harçlık alır."
+        },
+        {
+          "title": "Bedelli Askerlik Ücreti",
+          "body": "Bedelli askerlik tutarı, 240.000 gösterge × memur aylık katsayısı formülüyle hesaplanır ve dönemsel olarak güncellenir. Güncel tutar için MSB/Askeralma Genel Müdürlüğü duyuruları kontrol edilmelidir."
+        },
+        {
+          "title": "Bedelli Askerlik Süresi",
+          "body": "Bedellide fiilî temel eğitim 1 aydır; eğitim tamamlanınca terhis edilir."
+        },
+        {
+          "title": "Askerlik Tecil (Ertelenme) Şartları",
+          "body": "Öğrencilikte azami yaş sınırları kademelidir: lise 22, önlisans/lisans 28, yüksek lisans 32, doktora 35 (yılı sonu). Yurt dışında işçi/işveren vb. statü ile tecil genel olarak 35 yaş sonuna kadardır."
+        },
+        {
+          "title": "Yurt Dışı Çalışanlar İçin Dövizle Askerlik",
+          "body": "Dövizle askerlik tutarı, 240.000 gösterge × memur aylık katsayısı formülüyle hesaplanır; ödeme günündeki yabancı para karşılığı esas alınır. Güncel tutar ve şartlar için MSB/Askeralma Genel Müdürlüğü duyuruları kontrol edilmelidir."
+        },
+        {
+          "title": "Askerlik Yoklaması",
+          "body": "Yoklama başvurusu e-Devlet/Askeralma üzerinden yapılır; sağlık muayenesi sonrası statü belirlenir (‘Askerliğe elverişli’, ‘ertesi yıla bırakma’, ‘elverişli değildir’ vb.)."
+        },
+        {
+          "title": "Yedek Subay ve Yedek Astsubaylık",
+          "body": "Üniversite mezunları ihtiyaç durumuna göre yedek subay veya yedek astsubay olarak 12 ay hizmet yapar."
+        },
+        {
+          "title": "Erteleme Yaş Sınırı",
+          "body": "Genel kural; yurt dışı çalışma/ikamet gibi nedenlerle tecil 35 yaşına kadar yapılabilir. Öğrencilikte ise düzeye göre (22/28/32/35) sınırlar uygulanır."
+        },
+        {
+          "title": "Asker Kaçaklığı Cezası",
+          "body": "Yoklama kaçağı/saklı/bakaya olanlara idari para cezası uygulanır; kendiliğinden başvuran ile yakalanan için tutarlar farklıdır ve katsayıya göre dönemsel güncellemeye tabidir."
+        },
+        {
+          "title": "Askerlik Şubesi İşlemleri",
+          "body": "Sevk belgesi, tecil, bedelli/dövizle başvuru ve muafiyet işlemleri e-Devlet’ten veya askerlik şubelerinden yürütülür."
+        },
+        {
+          "title": "Sağlık Sebebiyle Muafiyet",
+          "body": "‘Askerliğe Elverişli Değildir’ kararlı sağlık kurulu raporları MSB onayıyla kesinleşir; elverişsiz bulunanlar askere alınmaz."
+        },
+        {
+          "title": "Kardeş Muafiyeti",
+          "body": "Genel bir ‘kardeş ertelemesi’ yoktur. Ancak şehit/vazife malulü yakınları için 7179 ve ilgili mevzuat uyarınca kardeşlerin askerlik hizmetinden muafiyeti düzenlenmiştir."
+        },
+        {
+          "title": "Askerlik Borçlanması (SGK)",
+          "body": "Askerlikte geçen süreler, başvuru tarihinde seçilen prime esas günlük kazanç (alt–üst sınırlar arasında) üzerinden %32 oranıyla borçlanılarak prim gününe eklenebilir."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Askerliğim (Tüm Askerlik İşlemleri)",
+          "url": "https://www.turkiye.gov.tr/mill-savunma-askerligim"
+        },
+        {
+          "title": "Belge Doğrulama (Askerlik / Sevk / Yoklama)",
+          "url": "https://www.turkiye.gov.tr/belge-dogrulama"
+        },
+        {
+          "title": "Şehit Yakınları & Gaziler Kira Yardımı Başvurusu",
+          "url": "https://www.turkiye.gov.tr/mill-savunma-sehit-yakinlari-ve-gaziler-icin-kira-yardimi-basvurusu"
+        },
+        {
+          "title": "İstiklal Madalyası Başvuru İşlemleri",
+          "url": "https://www.turkiye.gov.tr/milli-savunma-istiklal-madalyasi-basvuru-islemleri"
+        },
+        {
+          "title": "MSB Personel & Öğrenci Temin Sistemi",
+          "url": "https://www.turkiye.gov.tr/msb-personel-ve-ogrenci-temin-sistemi-5958"
+        },
+        {
+          "title": "E-Belge Doğrulama (MSB EBYS)",
+          "url": "https://www.turkiye.gov.tr/msb-ebys"
+        },
+        {
+          "title": "Seferberlik Tatbikatı / Ferdi Seferberlik Sevk Belgesi Doğrulama",
+          "url": "https://www.turkiye.gov.tr/mill-savunma-seferberlik-tatbikati-ferdi-seferberlik-egitimi-sevk-belgesi-dogrulama"
+        },
+        {
+          "title": "Kara Nakil Araçları Sefer Görev Emri Sorgulama",
+          "url": "https://www.turkiye.gov.tr/kara-nakil-arac-sorgu"
+        },
+        {
+          "title": "Deniz Nakil Araçları Sefer Görev Emri Sorgulama",
+          "url": "https://www.turkiye.gov.tr/deniz-nakil-arac-sorgu"
+        },
+        {
+          "title": "Hava Nakil Araçları Sefer Görev Emri Sorgulama",
+          "url": "https://www.turkiye.gov.tr/hava-nakil-arac-sorgu"
+        }
+      ]
+    },
+    {
+      "id": "kyk",
+      "title": "KYK ve Burs",
+      "info_cards": [
+        {
+          "title": "KYK Burs ve Kredi Başvurusu",
+          "body": "Her yıl Ekim–Kasım aylarında e-Devlet üzerinden başvuru alınır. Değerlendirme ve sonuç duyuruları Gençlik ve Spor Bakanlığı (GSB) tarafından yapılır."
+        },
+        {
+          "title": "KYK Burs Miktarı",
+          "body": "KYK burs/kredi tutarları dönemsel olarak güncellenir. Resmî duyurularda 2025 yılı boyunca geçerli tutarlar; lisans 3.000 TL, yüksek lisans 6.000 TL, doktora 9.000 TL olarak yer aldı. 2026 için yeni tutarlar açıklanır açıklanmaz KYGM/GSB duyurularından kontrol edilmelidir."
+        },
+        {
+          "title": "KYK Öğrenim Kredisi",
+          "body": "Burs çıkmayan ve talep eden öğrencilere öğrenim kredisi verilir. Geri ödeme, mezuniyetten 2 yıl sonra başlar ve e-Devlet’ten takip edilebilir."
+        },
+        {
+          "title": "KYK Kredisi Geri Ödeme",
+          "body": "Geri ödemeler aylık taksitlerle yapılır. Faiz uygulanmaz; yalnızca TÜFE oranında güncelleme yapılır. Erken ödemede indirim imkânı vardır."
+        },
+        {
+          "title": "KYK Borç Erteleme",
+          "body": "İşsizlik, askerlik, yüksek lisans/doktora eğitimi veya sağlık sorunları nedeniyle geri ödeme e-Devlet üzerinden ertelenebilir. Erteleme süresince TÜFE güncellemesi devam eder."
+        },
+        {
+          "title": "Burs Öncelikli Gruplar",
+          "body": "Şehit/gazi çocukları, engelli öğrenciler, devlet koruması altındaki gençler, anne-babasız kalanlar ve dar gelirli aile çocukları öncelikli gruplardır."
+        },
+        {
+          "title": "Burs–Kredi Farkı",
+          "body": "Burs karşılıksızdır ve geri ödenmez. Öğrenim kredisi geri ödemelidir ve mezuniyetten sonra tahsil edilir."
+        },
+        {
+          "title": "Bursun Kesilme Sebepleri",
+          "body": "Yanlış beyan, disiplin cezası, kaydın silinmesi, kendi isteğiyle bırakma, başarısızlık (üst üste sınıfta kalma) gibi durumlarda burs/kredi kesilir."
+        },
+        {
+          "title": "KYK Yurt Başvurusu",
+          "body": "Üniversite yerleştirme sonuçlarının açıklanmasının ardından e-Devlet üzerinden başvurular alınır; yurt yerleştirme sonuçları GSB tarafından duyurulur."
+        },
+        {
+          "title": "KYK Yurt Ücretleri",
+          "body": "Aylık yurt ücretleri yurt tipine göre yaklaşık 725–1.250 TL aralığındadır; depozito (güvence) bedeli tipine göre ayrıca alınır."
+        },
+        {
+          "title": "Yurtlarda İnternet ve Yemek",
+          "body": "Yurtlarda ücretsiz internet erişimi sağlanır. Öğrencilere günlük sabah kahvaltısı ve akşam yemeği desteği verilir."
+        },
+        {
+          "title": "Özel Burslar",
+          "body": "Vakıf, dernek, belediye ve özel kurumların sağladığı burslara da başvurulabilir. KYK bursuyla birlikte alınabilir; kurumlar kendi kriterlerine göre seçer."
+        },
+        {
+          "title": "Yurt Çıkış Belgesi",
+          "body": "Yurttan ayrılan öğrenciler e-Devlet üzerinden ‘Yurt Ayrılış Belgesi’ alarak resmi kayıttan düşer ve depozito iadesi yapılır."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Burs/Kredi Başvurusu",
+          "url": "https://www.turkiye.gov.tr/kyk-krediburs-basvurusu"
+        },
+        {
+          "title": "Başvuru Sonucu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/genclik-ve-spor-burs-ogrenim-kredisi-basvuru-sonucu-sorgulama"
+        },
+        {
+          "title": "Burs/Kredi Taahhütname Onayı",
+          "url": "https://www.turkiye.gov.tr/kyk-burs-kredi-onay-islemleri"
+        },
+        {
+          "title": "Ödeme Açma Başvurusu",
+          "url": "https://www.turkiye.gov.tr/genclik-ve-spor-kredi-burs-odeme-acma-basvurusu"
+        },
+        {
+          "title": "Burs/Kredi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/kyk-ogrenim-katki-kredisi-ve-burs-sorgulama"
+        },
+        {
+          "title": "Kredi Geri Ödeme Sorgulama",
+          "url": "https://www.turkiye.gov.tr/kyk-ogrenim-katki-kredisi-geri-odeme-sorgulama"
+        },
+        {
+          "title": "Geri Ödeme Erteleme Başvurusu",
+          "url": "https://www.turkiye.gov.tr/kyk-geri-odeme-erteleme-basvuru"
+        },
+        {
+          "title": "Kredi Borcu Ödeme (GİB)",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-ogrenim-katki-kredisi-sorgulama-ve-odeme"
+        },
+        {
+          "title": "Yurt Başvurusu",
+          "url": "https://www.turkiye.gov.tr/gsb-yurt-basvurusu"
+        },
+        {
+          "title": "Yurt Kayıt İşlemleri",
+          "url": "https://www.turkiye.gov.tr/kyk-yurt-kayit-islemleri"
+        },
+        {
+          "title": "Kredi/Burs Nakil Başvurusu",
+          "url": "https://www.turkiye.gov.tr/kyk-kredi-burs-nakil-basvurusu"
+        },
+        {
+          "title": "Kredi/Burs İptal Başvurusu",
+          "url": "https://www.turkiye.gov.tr/kyk-kredi-burs-iptal-basvurusu"
+        },
+        {
+          "title": "Durum Belgesi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/genclik-ve-spor-kredi-burs-durum-belgesi-sorgulama"
+        },
+        {
+          "title": "Durum Belgesi Doğrulama",
+          "url": "https://www.turkiye.gov.tr/genclik-ve-spor-kredi-burs-durum-belgesi-dogrulama"
+        },
+        {
+          "title": "GSB | Kredi & Burs Bilgilendirme ve SSS",
+          "url": "https://kygm.gsb.gov.tr/sayfalar/3228/3200/kredi-burs-hizmetleri"
+        }
+      ]
+    },
+    {
+      "id": "adres",
+      "title": "Adres ve İkametgâh",
+      "info_cards": [
+        {
+          "title": "Adres Değişikliği Bildirimi Süresi",
+          "body": "Yerleşim yeri adresi değişiklikleri 20 gün içinde nüfus müdürlüğüne, e-Devlet üzerinden veya dış temsilciliklere bildirilmelidir. Süresinde bildirmeyenlere idari para cezası uygulanır."
+        },
+        {
+          "title": "Adres Değişikliği Cezası",
+          "body": "Yerleşim yeri adresi değişiklikleri 20 gün içinde bildirilmelidir; süresinde bildirmeyenlere idari para cezası uygulanır. Ceza tutarları her yıl yeniden değerleme oranı ve ilgili tebliğ/kararlarla güncellenir; 2026 güncel tutar için NVİ/Resmî Gazete duyuruları kontrol edilmelidir."
+        },
+        {
+          "title": "Adres Bildirimi Yöntemleri",
+          "body": "Adres bildirimi e-Devlet’ten yapılabilir; ayrıca nüfus müdürlüğünden şahsen ya da yurt dışındaysanız konsolosluk aracılığıyla yapılır."
+        },
+        {
+          "title": "Yerleşim Yeri Belgesi (İkametgah)",
+          "body": "Yerleşim yeri (ikametgah) belgesi e-Devlet’ten ücretsiz alınabilir ve resmi işlemlerde geçerlidir."
+        },
+        {
+          "title": "Geçici Adres Bildirimi",
+          "body": "30 günden uzun süre başka bir adreste kalınacaksa bu adres geçici adres olarak beyan edilmelidir."
+        },
+        {
+          "title": "Adres Gizliliği Talebi",
+          "body": "Şiddet mağdurları ve korunma altındaki kişiler, adreslerini gizletmek için nüfus müdürlüğüne başvurabilir; talep üzerine adres bilgileri kurumlara kapatılır."
+        },
+        {
+          "title": "Seçmen Kütüğü Güncellemesi",
+          "body": "Seçmen kaydı yerleşim yeri adresine göre düzenlenir. Adres değişiklikleri seçim dönemlerinde YSK’ya otomatik yansır."
+        },
+        {
+          "title": "Çocukların Adres Kaydı",
+          "body": "Çocukların adres kaydı, velayet hakkı bulunan ebeveynin yerleşim yeri adresine yapılır."
+        },
+        {
+          "title": "Yurt Dışında İkamet Edenler",
+          "body": "Yurt dışında yaşayan Türk vatandaşları, adres bildirimini bulundukları ülkenin Türk konsoloslukları aracılığıyla yapmalıdır."
+        },
+        {
+          "title": "Adres Teyit Belgesi",
+          "body": "Kamu kurumları, beyan edilen adresi MERNİS üzerinden sorgulayabilir; ayrıca belge ibrazı çoğunlukla gerekmez."
+        },
+        {
+          "title": "Ortak Konutta Birden Fazla Kayıt",
+          "body": "Bir adreste birden fazla kişi kayıtlı olabilir; denetimlerde fiilen oturulup oturulmadığı kontrol edilir."
+        },
+        {
+          "title": "Adres Değişikliğinde Gerekli Belgeler",
+          "body": "Nüfus müdürlüğünde işlem yapılacaksa kimlik belgesi ve taşınılan adrese dair belge (kira kontratı, tapu veya son 3 aya ait fatura) ibraz edilmelidir."
+        },
+        {
+          "title": "Adres Beyanını Başkası Yapabilir mi?",
+          "body": "Adres beyanı yalnızca kişinin kendisi ya da kanuni temsilcisi tarafından yapılabilir; başkası adına beyan geçerli değildir."
+        },
+        {
+          "title": "Adres Kaydının Önemi",
+          "body": "Adres kaydı; sağlık, eğitim, askerlik, vergi, sosyal yardım ve seçmen kütüğü işlemleri için zorunlu ve temel referanstır."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Adres Değişikliği Bildirimi",
+          "url": "https://www.turkiye.gov.tr/adres-degisikligi-bildirimi"
+        },
+        {
+          "title": "Adres Değişikliği Bildirimi (Birlikte Oturma / Muvafakatlı)",
+          "url": "https://www.turkiye.gov.tr/nvi-adres-degisikligi-bildirimi-muvafakatli"
+        },
+        {
+          "title": "Adres Beyanı İçin Muvafakat Verme",
+          "url": "https://www.turkiye.gov.tr/nvi-adres-beyan-icin-muvafakat-verme"
+        },
+        {
+          "title": "Adres No Öğrenme (NVİ Adres Bilgilerim)",
+          "url": "https://www.turkiye.gov.tr/nvi-adres-bilgilerim"
+        },
+        {
+          "title": "Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama"
+        },
+        {
+          "title": "Yerleşim Yeri (İkametgâh) ve Diğer Adres Belgesi Doğrulama",
+          "url": "https://www.turkiye.gov.tr/belge-dogrulama"
+        },
+        {
+          "title": "Tarihçeli Yerleşim Yeri ve Diğer Adres Belgesi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-tarihceli-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama"
+        },
+        {
+          "title": "Tarihçeli Yerleşim Yeri ve Diğer Adres Belgesi Doğrulama",
+          "url": "https://www.turkiye.gov.tr/nvi-tarihceli-yerlesim-yeri-ve-diger-adres-belgesi-dogrulama"
+        },
+        {
+          "title": "Aynı Hanede İkamet Eden Kişi Belgesi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-ayni-hanede-ikamet-eden-kisi-belgesi-sorgulama"
+        },
+        {
+          "title": "Diğer Adres Silme",
+          "url": "https://www.turkiye.gov.tr/nvv-diger-adres-silme"
+        },
+        {
+          "title": "Yurt İçi Seçmen Kaydı Sorgulama (YSK)",
+          "url": "https://www.turkiye.gov.tr/yuksek-secim-kurulu-yurt-ici-secmen-kaydi-sorgulama"
+        },
+        {
+          "title": "Yurt Dışı Seçmen Kaydı Sorgulama (YSK)",
+          "url": "https://www.turkiye.gov.tr/yuksek-secim-kurulu-yurt-disi-secmen-kaydi-sorgulama"
+        },
+        {
+          "title": "Nüfus Müdürlüğü Randevu Sistemi",
+          "url": "https://randevu.nvi.gov.tr/"
+        },
+        {
+          "title": "İkametgâhım (Adrese Bağlı Hizmetler)",
+          "url": "https://www.turkiye.gov.tr/ikametgahim-adrese-bagli-hizmetler"
+        },
+        {
+          "title": "NVİ – Tüm Hizmetler (Kurum Sayfası)",
+          "url": "https://www.turkiye.gov.tr/nufus-ve-vatandaslik-isleri-genel-mudurlugu"
+        }
+      ]
+    },
+    {
+      "id": "nufus",
+      "title": "Nüfus",
+      "info_cards": [
+        {
+          "title": "Yeni Kimlik Kartı Başvurusu",
+          "body": "T.C. kimlik kartı başvuruları nüfus müdürlüklerinden randevu ile yapılır. 2026’ta kimlik kartı bedeli (değiştirme / kanuni bildirim süresi dışında doğum / nüfus cüzdanı kaybı) 220 TL’dir; yeni kimlik kartı kaybında 440 TL uygulanır."
+        },
+        {
+          "title": "Kimlik Kartı Kaybolması",
+          "body": "Kaybolan/çalınan kimlik kartı için başvuru en yakın nüfus müdürlüğüne yapılır. 2026’ta nüfus cüzdanı kaybı nedeniyle kimlik kartı bedeli 220 TL; yeni kimlik kartı kaybı nedeniyle 440 TL’dir."
+        },
+        {
+          "title": "Ehliyet Yenileme Süresi",
+          "body": "Eski tip (2016 öncesi) sürücü belgelerini yeni tip ile değiştirme için son tarih 31 Ekim 2025 idi; bu tarih geçti. 2026’ta yeni tip sürücü belgesinin yenilenmesinde harç yoktur; değerli kâğıt 1.690 TL + vakıf hizmet bedeli 425 TL (toplam 2.115 TL) ödenir. İlk defa sürücü belgesi alımı / sınıf ekleme / eski tip sürücü belgesinin yenisi ile değiştirilmesi işlemlerinde ayrıca harç alınır (örn. B sınıfı: harç 6.754,60 TL + değerli kâğıt 1.690 TL + vakıf 425 TL = 8.869,60 TL). Sağlık raporu ve biyometrik fotoğraf zorunludur."
+        },
+        {
+          "title": "Pasaport Çıkarma",
+          "body": "Pasaport başvuruları nüfus müdürlüklerinden yapılır. 2026’ta pasaport defter bedeli 1.351 TL’dir; harç tutarı pasaportun süresine göre ayrıca ödenir."
+        },
+        {
+          "title": "Pasaport Harçları",
+          "body": "2026 pasaport ücretleri: Defter bedeli 1.351 TL. Harçlar: 6 ay 2.806,50 TL; 1 yıl 4.103,00 TL; 2 yıl 6.698,50 TL; 3 yıl 9.516,00 TL; 10 yıl 13.410,40 TL. (Hususi/Yeşil pasaportta harç yok; yalnızca defter bedeli 1.351 TL.)"
+        },
+        {
+          "title": "Pasaport Randevusu",
+          "body": "Pasaport başvuruları için randevu Alo 199 çağrı merkezi veya randevu.nvi.gov.tr üzerinden alınabilir."
+        },
+        {
+          "title": "Adres Değişikliği İşlemleri",
+          "body": "Adres değişiklikleri nüfus müdürlüğünden veya e-Devlet’ten yapılabilir. Bildirim süresi 20 gündür; süresinde yapılmazsa idari para cezası uygulanır."
+        },
+        {
+          "title": "Doğum Kaydı",
+          "body": "Yeni doğan bebeklerin doğumu 30 gün içinde nüfus müdürlüğüne veya yurt dışındaysa konsolosluğa bildirilmelidir. Bildirim e-Devlet üzerinden de yapılabilir."
+        },
+        {
+          "title": "Evlenme İşlemleri",
+          "body": "Evlenme başvuruları belediye evlendirme dairelerine yapılır. Nikâh kıyıldıktan sonra nüfus kayıtları MERNİS üzerinden otomatik güncellenir."
+        },
+        {
+          "title": "Boşanma İşlemleri",
+          "body": "Boşanma kararı kesinleştiğinde mahkeme sonucu nüfus müdürlüğüne bildirilir. Nüfus kayıtları mahkeme ilamına göre güncellenir."
+        },
+        {
+          "title": "Vukuatlı Nüfus Kayıt Örneği",
+          "body": "E-Devlet üzerinden ücretsiz alınabilir. Resmi işlemlerde geçerli ve elektronik imzalı belgedir."
+        },
+        {
+          "title": "Aile Cüzdanı",
+          "body": "Evlilik sonrası çiftlere aile cüzdanı verilir. Kaybolması halinde yenisi için nüfus müdürlüğüne başvurulabilir."
+        },
+        {
+          "title": "Yurt Dışında Nüfus İşlemleri",
+          "body": "Konsolosluklar doğum, ölüm, evlenme, boşanma ve pasaport işlemlerini yürütür; işlemler Türkiye’deki nüfus kayıtlarına işlenir."
+        },
+        {
+          "title": "Kimlik Kartında Biyometrik Fotoğraf",
+          "body": "Kimlik kartı başvurularında son 6 ay içinde çekilmiş biyometrik fotoğraf zorunludur."
+        },
+        {
+          "title": "T.C. Kimlik Kartı PIN İşlemleri",
+          "body": "Kimlik kartı ile verilen PIN unutulursa nüfus müdürlüklerinde ücretsiz olarak sıfırlanabilir. Gerekli hallerde PUK kodu kullanılabilir."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "T.C. Kimlik Kartı Başvuru Randevusu",
+          "url": "https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-basvuru-randevusu"
+        },
+        {
+          "title": "T.C. Kimlik Kartı Başvuru Durumu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-basvuru-durumu-sorgulama"
+        },
+        {
+          "title": "T.C. Kimlik Kartı Kayıp Bildirimi",
+          "url": "https://www.turkiye.gov.tr/nvv-tc-kimlik-karti-kayip-bildirimi"
+        },
+        {
+          "title": "T.C. Kimlik Kartı Pin / Puk Kodu ve Kişisel Mesaj Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-tc-kimlik-karti-pin-kodu-sorgulama"
+        },
+        {
+          "title": "Geçici Kimlik Belgesi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-gecici-kimlik-belgesi-sorgulama"
+        },
+        {
+          "title": "Nüfus Kayıt Örneği Belgesi Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-nufus-kayit-ornegi-belgesi-sorgulama"
+        },
+        {
+          "title": "Mavi Kartlılar Nüfus Kayıt Örneği Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-mavi-kartlilar-nufus-kayit-ornegi-belgesi-sorgulama"
+        },
+        {
+          "title": "Pasaport Başvuru Randevusu",
+          "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-randevusu"
+        },
+        {
+          "title": "Pasaport Başvuru Durumu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-durum-sorgu"
+        },
+        {
+          "title": "Sürücü Belgesi Başvuru Randevusu",
+          "url": "https://www.turkiye.gov.tr/nvi-surucu-belgesi-basvuru-randevusu"
+        },
+        {
+          "title": "Sürücü Belgesi Başvuru Durumu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-surucu-belgesi-basvuru-durum-sorgu"
+        }
+      ]
+    },
+    {
+      "id": "adliye",
+      "title": "Adliye ve Mahkeme",
+      "info_cards": [
+        {
+          "title": "Dava Açma Başvuru Harcı",
+          "body": "Dava açma başvuru harçları (sulh/asliye/idare vb.) her yıl Resmî Gazete’de yayımlanan Harçlar Kanunu Genel Tebliği ile güncellenir. Güncel maktu tutarları dava türüne göre UYAP/Adalet Bakanlığı ekranlarından veya tebliğ eklerinden kontrol edin."
+        },
+        {
+          "title": "İstinaf ve Temyiz",
+          "body": "İstinaf başvuru harcı 1.783,70 TL; temyiz (Yargıtay) başvuru harcı 2.681,40 TL."
+        },
+        {
+          "title": "Adli Sicil Kaydı (Sabıka Kaydı)",
+          "body": "Adli sicil belgesi e-Devlet’ten ücretsiz alınabilir. Yurt dışı işlemleri için çok dilli (apostilli) seçenek sunulmaktadır."
+        },
+        {
+          "title": "E-Duruşma Uygulaması",
+          "body": "Avukatlar UYAP üzerinden e-duruşma talebinde bulunarak uzaktan video konferans yoluyla duruşmaya katılabilir."
+        },
+        {
+          "title": "UYAP Vatandaş Portalı",
+          "body": "Vatandaşlar açtıkları davaları, icra takiplerini ve tebligatlarını UYAP Vatandaş Portalı veya e-Devlet üzerinden takip edebilir."
+        },
+        {
+          "title": "Adli Yardım Hizmeti",
+          "body": "Maddi durumu yetersiz olanlara barolar tarafından ücretsiz avukat atanabilir. Başvuru için gelir durumunu gösterir belgeler sunulmalıdır."
+        },
+        {
+          "title": "İcra ve Haciz İşlemleri",
+          "body": "Borçlu ödemezse alacaklı icra dairesi aracılığıyla takip başlatabilir. Haciz, maaş veya malvarlığına yönelik yapılır; e-Haciz sistemiyle banka hesaplarına elektronik haciz uygulanabilir."
+        },
+        {
+          "title": "Elektronik Tebligat (e-Tebligat)",
+          "body": "Anonim/limited şirket ve diğer tüzel kişiler için zorunlu, gerçek kişiler için isteğe bağlıdır. Tebligatlar e-Devlet ve UYAP üzerinden görüntülenir."
+        },
+        {
+          "title": "Arabuluculuk Zorunluluğu",
+          "body": "İş, ticaret ve tüketici uyuşmazlıklarında dava açmadan önce arabulucuya başvurmak zorunludur. 2023 itibarıyla kira uyuşmazlıkları da kapsama alınmıştır."
+        },
+        {
+          "title": "Tanık Ücretleri",
+          "body": "Tanıklara yol gideri + gündelik ödenir; tutarlar yıllık tarifeye göre belirlenir (sabit bir ülke geneli rakam yoktur)."
+        },
+        {
+          "title": "Adli Tatil",
+          "body": "Her yıl 20 Temmuz–31 Ağustos arasında adli tatil uygulanır. Bu sürede sadece acele işler (ör. tutukluluk incelemeleri, nafaka davaları, iş davaları) görülür."
+        },
+        {
+          "title": "Ceza Davalarında Zamanaşımı",
+          "body": "5237 sayılı TCK’ya göre; 8 yıl (üst sınırı 5 yıla kadar veya adli para cezasını gerektiren suçlarda), 15 yıl (üst sınırı 5 yıldan fazla ve 20 yıla kadar olanlarda), 20 yıl (üst sınırı 20 yıldan fazla hapis olanlarda), 25 yıl (müebbet hapis gerektirenlerde) ve 30 yıl (ağırlaştırılmış müebbet hapis gerektirenlerde) zamanaşımı uygulanır."
+        },
+        {
+          "title": "Mahkemede Ses ve Görüntü Kaydı",
+          "body": "Mahkeme izni olmaksızın ses veya görüntü kaydı yapılması yasaktır. Resmi tutanaklar ve SEGBİS kayıtları esas alınır."
+        },
+        {
+          "title": "Bilirkişi Ücreti",
+          "body": "Bilirkişi ücretleri dosyanın türüne, bilirkişi listelerine ve görevin kapsamına göre değişir. Ücretlendirme; mahkemece belirlenen avans/masraf kalemleri içinde yer alır ve tarifeler dönemsel olarak güncellenir."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Dava Dosyası Sorgulama (Kendime Ait)",
+          "url": "https://www.turkiye.gov.tr/davalarim"
+        },
+        {
+          "title": "Hukuk Dava Dosyası Sorgulama (Mirasçısı Olduğunuz)",
+          "url": "https://www.turkiye.gov.tr/adalet-murise-ait-hukuk-dava-dosyasi-sorgulama"
+        },
+        {
+          "title": "İcra Dosyası Sorgulama",
+          "url": "https://www.turkiye.gov.tr/adalet-icra-dosyasi-sorgulama"
+        },
+        {
+          "title": "UYAP Vatandaş Portalı (Dosya & Duruşma Takibi)",
+          "url": "https://vatandas.uyap.gov.tr/"
+        },
+        {
+          "title": "Noterlik Belgesi Başvuru Sonucu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/adalet-noterlik-belgesi-basvuru-sonucu-sorgulama"
+        },
+        {
+          "title": "Danıştay Dava Dosyası Sorgulama",
+          "url": "https://www.turkiye.gov.tr/danistay-dava-dosyasi-sorgulama"
+        },
+        {
+          "title": "Yargıtay Dava Süreci Sorgulama",
+          "url": "https://www.turkiye.gov.tr/yargitay-dava-sureci-sorgulama"
+        },
+        {
+          "title": "Veraset İlamı Sorgulama",
+          "url": "https://www.turkiye.gov.tr/adalet-veraset-ilami-sorgulama"
+        },
+        {
+          "title": "Sulh Hukuk Aile Mahkemesi Vasiyetname Sorgulama",
+          "url": "https://www.turkiye.gov.tr/adalet-sulh-hukuk-mahkemelerince-acilan-vasiyetname-sorgulama"
+        },
+        {
+          "title": "Adli Sicil Silme / Düzeltme Talebi",
+          "url": "https://www.turkiye.gov.tr/adalet-adli-sicil-silme-ve-duzeltme-talebi"
+        },
+        {
+          "title": "2000 TL Altı İcraların Afları Sorgulama",
+          "url": "https://www.turkiye.gov.tr/adalet-2000-tl-alti-icra-dava-dosyalarina-ait-aflari-sorgulama"
+        },
+        {
+          "title": "Yargı Süreci İnceleme (Adalet Hizmetleri)",
+          "url": "https://www.turkiye.gov.tr/adalet-hizmetleri"
+        },
+        {
+          "title": "Adli Yardım Başvurusu (UYAP)",
+          "url": "https://vatandas.uyap.gov.tr/"
+        },
+        {
+          "title": "Tüketici Hakem Heyetlerine Başvuru İşlemi",
+          "url": "https://www.turkiye.gov.tr/tuketici-sikayeti-uygulamasi"
+        }
+      ]
+    },
+    {
+      "id": "trafik",
+      "title": "Trafik ve Emniyet",
+      "info_cards": [
+        {
+          "title": "Trafik Cezası Erken Ödeme İndirimi",
+          "body": "Tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır."
+        },
+        {
+          "title": "Ehliyet Sınıfları",
+          "body": "Türkiye’de A, A1, A2, B, BE, B1, C, CE, C1, C1E, D, DE, D1, D1E, F, G ve M olmak üzere 17 farklı ehliyet sınıfı vardır."
+        },
+        {
+          "title": "Ehliyet Yenileme Süresi",
+          "body": "Eski tip (2016 öncesi) sürücü belgelerini yeni tip ile değiştirme için son tarih 31 Ekim 2025 idi; bu tarih geçti. 2026’ta yeni tip sürücü belgesinin yenilenmesinde harç yoktur; değerli kâğıt 1.690 TL + vakıf hizmet bedeli 425 TL (toplam 2.115 TL) ödenir. İlk defa sürücü belgesi alımı / sınıf ekleme / eski tip sürücü belgesinin yenisi ile değiştirilmesi işlemlerinde ayrıca harç alınır (örn. B sınıfı: harç 6.754,60 TL + değerli kâğıt 1.690 TL + vakıf 425 TL = 8.869,60 TL). Sağlık raporu ve biyometrik fotoğraf zorunludur."
+        },
+        {
+          "title": "Trafik Sigortası Zorunluluğu",
+          "body": "Her motorlu aracın zorunlu trafik sigortası yaptırması gerekir. Sigortasız araçlar trafikten men edilir ve para cezası uygulanır."
+        },
+        {
+          "title": "Alkol Limitleri",
+          "body": "Özel araç sürücülerinde 0,50 promil, ticari araç sürücülerinde 0,20 promil üstü yasaktır. 2026’da (YDO %25,49 ile güncellenmiş tutar) limit üstü sürücülere 8.080 TL ceza kesilir ve ehliyet 6 ay süreyle alınır."
+        },
+        {
+          "title": "Hız Limitleri",
+          "body": "Otomobil için: şehir içi 50 km/s, iki yönlü şehirlerarası 90 km/s, bölünmüş yolda 110 km/s, KGM sorumluluğundaki otoyollarda 130 km/s, YİD modeliyle işletilen belirtilmiş kesimlerde 140 km/s."
+        },
+        {
+          "title": "Radar ve Hız İhlali Cezaları",
+          "body": "%10–30 aşımda 2.167 TL, %30–50 aşımda 4.512 TL, %50 üzeri aşımda 9.267 TL ceza uygulanır."
+        },
+        {
+          "title": "Emniyet Kemeri Cezası",
+          "body": "Emniyet kemeri takmamanın cezası 993 TL’dir; tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır."
+        },
+        {
+          "title": "Cep Telefonu Kullanımı",
+          "body": "Araç kullanırken telefonla konuşmak yasaktır. İhlal halinde 2026’da (tutarlar yıllık güncellenir) 1.507 TL ceza uygulanır; tebliğden itibaren 30 gün içinde ödenirse %25 indirim uygulanır."
+        },
+        {
+          "title": "Kırmızı Işık İhlali",
+          "body": "Kırmızı ışık ihlalinin cezası 2.167 TL’dir; 30 gün içinde ödenirse %25 indirim uygulanır. Aynı yıl içinde 3 kez tekrarda sürücü belgesi 30 gün geri alınır."
+        },
+        {
+          "title": "Park Cezaları",
+          "body": "Yanlış park cezası 2026’da (YDO %25,49 ile güncellenmiş tutar) 866 TL’dir; 30 gün içinde ödenirse %25 indirim uygulanır. Engelli park yerine izinsiz park edenlere 1.732 TL ceza kesilir."
+        },
+        {
+          "title": "Muayenesiz Araç Kullanımı",
+          "body": "Muayenesiz araçla trafiğe çıkmanın cezası 2026’da (YDO %25,49 ile güncellenmiş tutar) 1.891 TL’dir. Araç trafikten men edilebilir."
+        },
+        {
+          "title": "Araç Muayene Süresi",
+          "body": "Otomobiller için ilk muayene, aracın 3 yaşını doldurmasından sonra yapılır; devamında her 2 yılda bir muayene zorunludur. Ticari araçlarda muayene her yıl yapılır."
+        },
+        {
+          "title": "Ehliyet Puan Sistemi",
+          "body": "Sürücülere trafik ihlalleri için ceza puanı verilir. 1 yıl içinde 100 puana ulaşan sürücünün ehliyeti 2 ay süreyle geri alınır."
+        },
+        {
+          "title": "Acil Çağrı",
+          "body": "Polis dâhil tüm aciller için tek numara 112’dir (155 yerine 112 kullanılır)."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Trafik Para Cezası Borcu Sorgulama ve Ödeme",
+          "url": "https://www.turkiye.gov.tr/gib-intvrg-trafik-para-cezasi-borcu-sorgulama-ve-odeme"
+        },
+        {
+          "title": "Araç Plakasına Yazılan Ceza Sorgulama (Gerçek Kişi)",
+          "url": "https://www.turkiye.gov.tr/emniyet-arac-plakasina-yazilan-ceza-sorgulama"
+        },
+        {
+          "title": "Araç Plakasına Yazılan Ceza Sorgulama (Tüzel Kişi)",
+          "url": "https://www.turkiye.gov.tr/egm-arac-plakasina-yazilan-ceza-sorgulama-tuzel-kisi"
+        },
+        {
+          "title": "Sürücü Belgesi ve Yazılan Ceza (Barkodlu Belge) Sorgulama",
+          "url": "https://www.turkiye.gov.tr/emniyet-surucu-belgesi-ve-sahislara-yazilan-ceza-sorgulama"
+        },
+        {
+          "title": "Araç Muayene Durumu Sorgulama (TÜVTÜRK)",
+          "url": "https://www.turkiye.gov.tr/muayene-durum-sorgulama"
+        },
+        {
+          "title": "Araç Sigorta (Trafik Poliçesi & Hasar) Sorgulama",
+          "url": "https://www.turkiye.gov.tr/sbm-trafik-police-sorgulama"
+        },
+        {
+          "title": "HGS Geçiş ve İhlal Bilgileri Sorgulama",
+          "url": "https://www.turkiye.gov.tr/ptt-hizli-gecis-sistemi-hgs-ihlalli-gecis-bilgileri-sorgulama"
+        },
+        {
+          "title": "OGS / KGM Otoyol, Köprü ve Tünel İhlalli Geçiş ve Borç Sorgulama (Gerçek Kişi)",
+          "url": "https://www.turkiye.gov.tr/karayollari-otoyol-kopru-ve-tunel-gecis-ihlalli-gecis-ve-borc-sorgulama-plakaya-bagli-gercek-kisi"
+        },
+        {
+          "title": "Kayıp / Çalıntı İhbar Sorgulama / İptal (BTK)",
+          "url": "https://www.turkiye.gov.tr/btk-kayip-calinti-ihbar-sorgulama-iptal"
+        },
+        {
+          "title": "Sürücü Belgesi Yenileme Randevu (NVİ)",
+          "url": "https://randevu.nvi.gov.tr/"
+        },
+        {
+          "title": "Trafik Kazası Tespit Tutanağı Sorgulama (Emniyet)",
+          "url": "https://www.turkiye.gov.tr/egm-maddi-hasarli-trafik-kazasi-tespit-tutanagi-sorgulama-gercek-kisi"
+        },
+        {
+          "title": "Polis / İçişleri’ne Randevu Talep Başvurusu",
+          "url": "https://www.turkiye.gov.tr/icisleri-randevu-talep-basvuru"
+        },
+        {
+          "title": "Adıma Tescilli Araç Sorgulama",
+          "url": "https://www.turkiye.gov.tr/turkiye-noterler-birligi-adima-tescilli-arac-sorgulama"
+        },
+        {
+          "title": "Trafik ve Ulaşım Hizmetleri (Kategorik Sayfa)",
+          "url": "https://www.turkiye.gov.tr/trafik-ve-ulasim-hizmetleri"
+        },
+        {
+          "title": "Emniyet Genel Müdürlüğü (Genel Kurum Sayfası)",
+          "url": "https://www.turkiye.gov.tr/emniyet-genel-mudurlugu"
+        }
+      ]
+    },
+    {
+      "id": "belediye",
+      "title": "Belediye İşlemleri",
+      "info_cards": [
+        {
+          "title": "Emlak Vergisi Ödeme Dönemleri",
+          "body": "Her yıl iki taksitte ödenir: 1. taksit Mart–Mayıs, 2. taksit Kasım ayında. Ödemeler belediye vezneleri, e-Belediye sistemi, internet bankacılığı veya e-Devlet üzerinden yapılabilir."
+        },
+        {
+          "title": "Çevre Temizlik Vergisi (ÇTV)",
+          "body": "Konut, işyeri ve araziler için alınır. Konutlarda genellikle su faturalarına yansıtılır ve belediyeye ödenir. İşyerleri için ise ayrı beyanname verilebilir."
+        },
+        {
+          "title": "İmar Durum Belgesi",
+          "body": "Bir arsanın imar planındaki kullanım şeklini, yapılaşma koşullarını gösterir. İnşaat ve proje başvuruları için zorunludur. Belediye imar müdürlüklerinden veya e-Devlet üzerinden alınabilir."
+        },
+        {
+          "title": "İmar Barışı / Yapı Kayıt Belgesi",
+          "body": "İmar Barışı / Yapı Kayıt Belgesi için yeni başvuru alınmamaktadır. Daha önce alınmış Yapı Kayıt Belgelerinin durumu, ilgili mevzuat ve yargı kararlarına göre değerlendirilir."
+        },
+        {
+          "title": "Ruhsat Başvuruları",
+          "body": "İşyeri açma ve çalışma ruhsatı belediyelerden alınır. Gerekli belgeler arasında tapu veya kira sözleşmesi, yangın uygunluk raporu ve oda kayıt belgeleri bulunur."
+        },
+        {
+          "title": "Nikah İşlemleri",
+          "body": "Evlenmek isteyen çiftler belediye evlendirme dairesine başvurur. Gerekli belgeler: nüfus cüzdanı veya T.C. kimlik kartı, biyometrik fotoğraf, sağlık raporu."
+        },
+        {
+          "title": "Belediye Yardımları",
+          "body": "Belediyeler, ihtiyaç sahibi vatandaşlara sosyal yardım, gıda, yakacak, burs ve ücretsiz ulaşım desteği sağlayabilir. Başvurular genellikle sosyal hizmet müdürlüklerine yapılır."
+        },
+        {
+          "title": "Belediye İlan ve Reklam Vergisi",
+          "body": "Ticari ilan ve reklamlar için belediyelere vergi ödenir. Tutar, reklamın türüne, konumuna ve büyüklüğüne göre değişir."
+        },
+        {
+          "title": "İşyeri Atık Ücretleri",
+          "body": "Belediyeler, işyerlerinden kaynaklanan atıkların toplanması ve bertarafı için atık yönetim ücreti alır. Ücretler her yıl yeniden değerleme oranına göre güncellenir."
+        },
+        {
+          "title": "Hayvan Barınakları ve Rehabilitasyon",
+          "body": "Belediyeler sahipsiz hayvanlar için barınak, kısırlaştırma ve rehabilitasyon hizmeti sunar. Vatandaşlar e-Devlet, belediye çağrı merkezi veya mobil uygulamalardan ihbarda bulunabilir."
+        },
+        {
+          "title": "Zabıta Şikayetleri",
+          "body": "Belediye zabıtasına işgaliye, ruhsatsız satış, seyyar satıcı, gürültü ve çevre kirliliği gibi konularda şikayette bulunulabilir."
+        },
+        {
+          "title": "Afet ve Acil Durum Hizmetleri",
+          "body": "Belediyeler deprem, sel ve yangın gibi afetlerde tahliye, geçici barınma, sıcak yemek ve temel yardım hizmetleri sağlar. AFAD ile koordineli çalışır."
+        },
+        {
+          "title": "Mezarlık ve Defin İşlemleri",
+          "body": "Belediyeler cenaze nakli, defin ve mezarlık hizmeti sunar. Büyükşehirlerde ücretsiz taziye çadırı ve cenaze aracı hizmeti de verilebilmektedir."
+        },
+        {
+          "title": "Belediye Otobüsleri ve Ulaşım Kartı",
+          "body": "Toplu ulaşım hizmetleri belediyeler tarafından sağlanır. Öğrenci, engelli, şehit yakını ve 65 yaş üstü vatandaşlar için indirimli veya ücretsiz kart uygulamaları vardır."
+        },
+        {
+          "title": "Atık Pil ve Geri Dönüşüm",
+          "body": "Belediyeler, atık pil, elektronik eşya, cam, plastik ve kağıt için geri dönüşüm kutuları yerleştirir ve toplama merkezleri kurar. Vatandaşlar atıkları bu noktalara bırakabilir."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Belediyeler (Genel Kategori Sayfası)",
+          "url": "https://www.turkiye.gov.tr/belediyeler"
+        }
+      ]
+    },
+    {
+      "id": "yurtdisi",
+      "title": "Yurt Dışı İşlemleri",
+      "info_cards": [
+        {
+          "title": "Yurt Dışı Çıkış Harcı",
+          "body": "1/1/2026’dan itibaren yurt dışı çıkış harcı 1.250 TL’dir. Ödeme; anlaşmalı bankalar, PTT, vergi dairesi veznesi veya Dijital Vergi Dairesi/e-Devlet üzerinden yapılabilir."
+        },
+        {
+          "title": "Pasaport Süresi",
+          "body": "Birçok ülke en az 6 ay geçerlilik şartı arar. Schengen için pasaportun seyahat bitişinden sonra en az 3 ay geçerli ve son 10 yılda düzenlenmiş olması gerekir."
+        },
+        {
+          "title": "Vize Başvuruları",
+          "body": "Her ülkenin şartları farklıdır; başvurular ilgili ülkenin konsolosluğu/büyükelçiliği veya yetkili vize merkezi üzerinden yapılır."
+        },
+        {
+          "title": "Schengen Vizesi Ücreti",
+          "body": "Kısa süreli (C tipi) Schengen vizesi ücreti yetişkinler için 90 €, 6–12 yaş çocuklar için 45 € (11 Haziran 2024’ten beri)."
+        },
+        {
+          "title": "Yeşil Pasaport Avantajı",
+          "body": "Hususi (yeşil) pasaport sahipleri Schengen bölgesine 180 günde 90 günü aşmamak kaydıyla vizesiz kısa süreli seyahat edebilir; pek çok ülkeye de vizesiz giriş imkânı tanınır."
+        },
+        {
+          "title": "Çifte Vatandaşlık İşlemleri",
+          "body": "İkinci vatandaşlığı olanların durumlarını nüfus kayıtlarına işletmeleri gerekir; yurt dışındakiler dış temsilciliklere bildirim yapar."
+        },
+        {
+          "title": "Askerlik Tecili Yurt Dışında",
+          "body": "Yurt dışında ikamet eden yükümlüler, konsolosluk üzerinden askerlik tecili/dövizle askerlik başvurusu yapabilir."
+        },
+        {
+          "title": "Yurt Dışı Seçmen Kaydı",
+          "body": "Kayıt, yurt dışı adres beyanının dış temsilcilikte yapılmasıyla oluşur; e-Devlet’ten kayıt SORGULAMASI yapılabilir."
+        },
+        {
+          "title": "Konsolosluk Hizmetleri",
+          "body": "Pasaport/kimlik, evlenme-boşanma işlemleri, doğum/ölüm bildirimi ve noter işlemleri dış temsilciliklerde yapılır."
+        },
+        {
+          "title": "Apostil Belgesi",
+          "body": "Türkiye’de idari belgelerde yetkili makam Valilik/Kaymakamlık; adli belgelerde Adliyedir. e-Apostil sistemi bazı illerde kullanılmaktadır."
+        },
+        {
+          "title": "Yurt Dışında Eğitim",
+          "body": "YÖK denkliği için program/üniversite tanınırlığı aranır; mezuniyet sonrası e-Devlet/YÖK üzerinden denklik başvurusu yapılmalıdır."
+        },
+        {
+          "title": "Yurt Dışı Sağlık Sigortası",
+          "body": "Pek çok vize türünde seyahat süresini kapsayan sağlık sigortası zorunludur; Schengen’de asgari teminat şartları aranır."
+        },
+        {
+          "title": "Araçla Yurt Dışı Çıkışı",
+          "body": "Zorunlu trafik sigortasına ek olarak Yeşil Kart (Green Card) sigortası yaptırılmalıdır; Yeşil Kart sistemine üye ülkelerde geçerlidir."
+        },
+        {
+          "title": "Yurt Dışında Doğum Kaydı",
+          "body": "Yurt dışında doğan çocuk için doğum bildirimi esasen 60 gün içinde dış temsilciliğe yapılır; yapılmazsa Türkiye’de nüfus müdürlüğüne de tescil ettirilebilir."
+        },
+        {
+          "title": "Yurt Dışı Çalışma İzinleri",
+          "body": "Çalışılacak ülkede oturma/çalışma izinleri o ülke mevzuatına göre alınır; konsolosluklar başvuru sürecine ilişkin bilgilendirme yapar."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Pasaport Başvuru Randevusu",
+          "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-randevusu"
+        },
+        {
+          "title": "Pasaport Başvuru Durumu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/nvi-pasaport-basvuru-durum-sorgu"
+        },
+        {
+          "title": "Pasaport İşlemleri",
+          "url": "https://www.konsolosluk.gov.tr/Procedure/ShowProcedure/4"
+        },
+        {
+          "title": "Konsolosluk Randevu Sistemi",
+          "url": "https://www.konsolosluk.gov.tr/appointment/searchappointment"
+        },
+        {
+          "title": "IMEI Kayıt",
+          "url": "https://www.turkiye.gov.tr/btk-imei-kaydet"
+        },
+        {
+          "title": "Yurda Giriş/Çıkış Belge Sorgulama",
+          "url": "https://www.turkiye.gov.tr/emniyet-yurda-giriscikis-belge-sorgulama"
+        },
+        {
+          "title": "e-Devlet Şifresi Yurt Dışı Temini",
+          "url": "https://www.turkiye.gov.tr/bilgilendirme?konu=yardim"
+        },
+        {
+          "title": "Vize Genel Bilgileri",
+          "url": "https://www.mfa.gov.tr/vize-genel-bilgileri.tr.mfa"
+        },
+        {
+          "title": "Vize Online Önbasvuru Sistemi",
+          "url": "https://www.mfa.gov.tr/vize-online-onbasvuru-sistemi.tr.mfa"
+        },
+        {
+          "title": "Vize İşlemleri (Konsolosluk)",
+          "url": "https://www.konsolosluk.gov.tr/"
+        },
+        {
+          "title": "Vize Randevu / Ön Başvuru Sorgulama",
+          "url": "https://www.konsolosluk.gov.tr/appointment/searchappointment"
+        },
+        {
+          "title": "e-Vize Başvuru",
+          "url": "https://www.evisa.gov.tr"
+        }
+      ]
+    },
+    {
+      "id": "afet",
+      "title": "Afet ve Acil Durum",
+      "info_cards": [
+        {
+          "title": "Acil Çağrı Numarası",
+          "body": "Türkiye genelinde tüm acil durumlar için tek numara 112’dir; polis, jandarma, sağlık, itfaiye ve AFAD çağrıları bu merkezden yönlendirilir."
+        },
+        {
+          "title": "AFAD Gönüllülük Sistemi",
+          "body": "Vatandaşlar AFAD Gönüllülük Sistemi’ne e-Devlet/afad.gov.tr üzerinden kayıt olabilir; çevrim içi/uygulamalı eğitimleri tamamlayarak afetlerde görev alabilir."
+        },
+        {
+          "title": "Deprem Çantası Hazırlığı",
+          "body": "Temel içerik: su, kuru gıda, ilk yardım seti, el feneri, piller/powerbank, düdük, battaniye, maske-eldiven, nakit, yedek ilaçlar, kimlik ve önemli evrak kopyaları."
+        },
+        {
+          "title": "Afet Sigortası (DASK)",
+          "body": "Zorunlu deprem sigortası (DASK) olmadan birçok işlemde (elektrik-su aboneliği, tapu işlemleri vb.) sorun yaşanabilir. Primler; il/ilçe risk grubu, yapı tarzı, metrekare ve bina yaşı gibi kriterlere göre dönemsel olarak değişir."
+        },
+        {
+          "title": "Toplanma Alanları",
+          "body": "Afet sonrası güvenli toplanma alanları e-Devlet ve AFAD mobil uygulamasından konuma göre görüntülenebilir."
+        },
+        {
+          "title": "Deprem Anında Doğru Davranış",
+          "body": "Sarsıntıda Çök–Kapan–Tutun uygulanmalı, asansör kullanılmamalı, balkon/pencereden uzak durulmalıdır; sarsıntı bitince güvenli şekilde tahliye edilir."
+        },
+        {
+          "title": "Yangın İhbarı",
+          "body": "Yangında 112 aranmalı; dumanlı ortamda alçaktan ilerlenmeli, mümkünse elektrik/gaz kapatılarak bina hızla tahliye edilmelidir."
+        },
+        {
+          "title": "Sel ve Su Baskını Önlemleri",
+          "body": "Bodrum/zemin katlardan uzak durun, araçları yüksek alanlara çekin, elektrik panolarını kapatın; köprü altı ve akarsu kenarlarından uzaklaşın."
+        },
+        {
+          "title": "Acil Durum Çantası Belgeleri",
+          "body": "Kimlik, pasaport, tapu, sigorta poliçesi, banka bilgileri ve acil iletişim numaraları su geçirmez dosyada çantada tutulmalıdır."
+        },
+        {
+          "title": "Afet Sonrası Psikolojik Destek",
+          "body": "AFAD, Sağlık Bakanlığı ve belediyeler afetzedelere ücretsiz psikososyal destek (PSS) hizmetleri sunar; başvuru 112/AFAD veya yerel birimlerden yapılır."
+        },
+        {
+          "title": "AFAD Mobil Uygulaması",
+          "body": "Uygulamada anlık uyarılar, toplanma alanları, afet öncesi/sonrası yapılacaklar ve eğitim modülleri yer alır; çevrimdışı bilgi kartları da bulunur."
+        },
+        {
+          "title": "Tahliye ve Barınma",
+          "body": "Büyük afetlerde vatandaşlar geçici barınma merkezlerine yönlendirilir; AFAD koordinasyonunda çadır ve konteyner alanları kurulur."
+        },
+        {
+          "title": "Doğalgaz ve Elektrik Kesintisi",
+          "body": "Deprem/yangın sonrası sızıntı şüphesi varsa ana gaz vanası ve elektrik sigortaları kapatılmalı; güvenlik teyidi alınmadan yeniden açılmamalıdır."
+        },
+        {
+          "title": "İlk Yardım Eğitimi",
+          "body": "Temel ilk yardım eğitimleri Kızılay ve yetkili eğitim merkezlerinden sertifikalı olarak alınabilir; kayıtlar e-Devlet ve kurum sayfalarından yapılır."
+        },
+        {
+          "title": "Afet Tatbikatları",
+          "body": "Okullar ve kamu kurumlarında yılda en az bir kez deprem/yangın tahliye tatbikatı yapılır; ulusal tatbikat takvimi ve duyurular AFAD tarafından yayımlanır."
+        }
+      ],
+      "popular_links": [
+        {
+          "title": "Afet ve Acil Durum Toplanma Alanı Sorgulama",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama"
+        },
+        {
+          "title": "Afetzede Barınma Desteği Başvurusu",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-afetzede-barinma-destegi-basvurusu"
+        },
+        {
+          "title": "Barınma Desteği Ödeme Sonucu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-afetzede-barinma-destegi-odeme-sonucu-sorgulama"
+        },
+        {
+          "title": "Hak Sahipliği Talep ve Taahhütname Başvurusu",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-hak-sahipligi-icin-talep-ve-taahhutname-basvurusu"
+        },
+        {
+          "title": "Hak Sahipliği Kura Sonucu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/afad-hak-sahipligi-kura-sonucu-sorgulama"
+        },
+        {
+          "title": "Hane Başı Destek Ödeme Sonucu Sorgulama",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-hane-basi-destek-odeme-sonucu-sorgulama"
+        },
+        {
+          "title": "Gönüllülük Başvurusu ve Takibi",
+          "url": "https://www.turkiye.gov.tr/afad-gonulluluk-basvurusu-ve-takibi"
+        },
+        {
+          "title": "Afet Alanında Elektronik Belge Doğrulama",
+          "url": "https://www.turkiye.gov.tr/afad-ebys"
+        },
+        {
+          "title": "Deprem Bağış Kampanyası",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-deprem-bagis-kampanyasi"
+        },
+        {
+          "title": "Ahır / Samanlık İçin AFAD Kredi Başvurusu",
+          "url": "https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-ahir-samanlik-icin-afad-kredi-basvurusu"
+        },
+        {
+          "title": "Doğal Afet Sigortaları Hasar Sorgulama",
+          "url": "https://www.turkiye.gov.tr/dogal-afet-sigortalari-hasar-sorgulama"
+        }
+      ]
+    }
   ]
 }

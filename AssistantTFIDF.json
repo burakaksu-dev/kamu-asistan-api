@@ -772,7 +772,7 @@
   },
   {
     "question": "Malul çocuklar için yetim aylığı şartları nelerdir?",
-    "answer": "SGK’nın Ölüm Aylığı bölümü’nde bulunan 'Olum Aylığı' şartları kısmını inceleyin; eş, çocuklar için maluliyet de kriterler arasında. https://www.sgk.gov.tr/Content/Post/70fa4a38-aaf1-4f86-aa55-54fdbf4e2481/Olum-Ayligi-2025-02-26-02-56-02",
+    "answer": "SGK’nın Ölüm Aylığı bölümü’nde bulunan 'Olum Aylığı' şartları kısmını inceleyin; eş, çocuklar için maluliyet de kriterler arasında. https://www.sgk.gov.tr/Content/Post/70fa4a38-aaf1-4f86-aa55-54fdbf4e2481/Olum-Ayligi--02-26-02-56-02",
     "category": "SGK",
     "tfidf": {
       "malul": 1.7555590514436838,
@@ -796,7 +796,7 @@
   },
   {
     "question": "İsteğe bağlı sigortanın primi nasıl hesaplanır?",
-    "answer": "SGK’nın 'İlk Defa İsteğe Bağlı Sigortalı Olanlar' sayfasında; prime esas kazanç sınırları ve oranlar belirtilmiştir. https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2025-02-12-03-29-16",
+    "answer": "SGK’nın 'İlk Defa İsteğe Bağlı Sigortalı Olanlar' sayfasında; prime esas kazanç sınırları ve oranlar belirtilmiştir. https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar--02-12-03-29-16",
     "category": "SGK",
     "tfidf": {
       "isteğe": 1.4089854611637114,
@@ -808,7 +808,7 @@
   },
   {
     "question": "İsteğe bağlı sigortalılık ne zaman sona erer?",
-    "answer": "SGK ‘İlk Defa İsteğe Bağlı Sigortalı Olanlar’ sayfasında sigortalılığın sona erme koşulları yer alır. https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2025-02-12-03-29-16",
+    "answer": "SGK ‘İlk Defa İsteğe Bağlı Sigortalı Olanlar’ sayfasında sigortalılığın sona erme koşulları yer alır. https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar--02-12-03-29-16",
     "category": "SGK",
     "tfidf": {
       "isteğe": 1.4089854611637114,
@@ -832,7 +832,7 @@
   },
   {
     "question": "İlk defa isteğe bağlı sigorta giriş bildirgesi doldurmak zorunlu mu?",
-    "answer": "Evet; SGK yönetmeliklerine göre ilk defa isteğe bağlı sigortalı olacaklar için 'İsteğe Bağlı Sigorta Giriş Bildirgesi' doldurmak zorunludur. Docs SGK − “İlk Defa İsteğe Bağlı Sigortalı Olanlar” içeriğinde belirtilmiştir. https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar-2025-02-12-03-29-16",
+    "answer": "Evet; SGK yönetmeliklerine göre ilk defa isteğe bağlı sigortalı olacaklar için 'İsteğe Bağlı Sigorta Giriş Bildirgesi' doldurmak zorunludur. Docs SGK − “İlk Defa İsteğe Bağlı Sigortalı Olanlar” içeriğinde belirtilmiştir. https://www.sgk.gov.tr/Content/Post/12233982-f17a-40fe-81ae-bfd9155339d7/Ilk-Defa-Istege-Bagli-Sigortali-Olanlar--02-12-03-29-16",
     "category": "SGK",
     "tfidf": {
       "zorunlu": 1.4089854611637114,
@@ -3376,7 +3376,7 @@
   },
   {
     "question": "Bedelli askerlik süresi ne kadar?",
-    "answer": "2025 itibarıyla bedelli askerlik süresi 21 gündür. Bu süre her yıl MSB tarafından açıklanır.",
+    "answer": "2026 itibarıyla bedelli askerlikte kışlada fiilî temel eğitim süresi genelde 28 gündür. Sevk/teslim ve yol izni gibi süreçler dahil edildiğinde toplam süre yaklaşık 1 aya yaklaşabilir.",
     "category": "Askerlik",
     "tfidf": {
       "bedelli": 1.8767686342700636,
@@ -4481,7 +4481,7 @@
   },
   {
     "question": "Adres değişikliği cezası ne kadar?",
-    "answer": "2025 yılı itibarıyla zamanında bildirim yapılmazsa yaklaşık 400–800 TL arasında ceza uygulanabilir.",
+    "answer": "Adres değişikliğini, taşınmadan sonra mevzuatta belirtilen süre içinde (genellikle 20 iş günü) bildirmeniz gerekir. Süresinde bildirilmezse 5490 sayılı Kanun kapsamında idari para cezası uygulanabilir. Ceza tutarı her yıl yeniden değerleme oranına göre güncellenir; en güncel tutar tebligat/işlem ekranında görünür veya NVİ duyurularından takip edilir.",
     "category": "Adres ve İkametgah",
     "tfidf": {
       "adres": 1.1843146008906782,
@@ -5335,7 +5335,7 @@
   },
   {
     "question": "Kimlik kartı ücreti ne kadar?",
-    "answer": "Kimlik kartı bedeli her yıl Maliye Bakanlığı tarafından belirlenir. Güncel ücret bilgisi için: https://www.nvi.gov.tr",
+    "answer": "2026 yılında T.C. kimlik kartı için değerli kâğıt bedelleri: değiştirme 220 TL, kayıp nedeniyle yeniden düzenleme 440 TL (ödeme şekli ve ek ücretler işleme göre değişebilir).",
     "category": "Nüfus",
     "tfidf": {
       "kimlik": 1.3245786847610872,
@@ -5579,7 +5579,7 @@
   },
   {
     "question": "Kimlik kartımı kaybettim, ne kadar ceza öderim?",
-    "answer": "2025 itibarıyla kayıp kimlik başvurularında yaklaşık 150–200 TL ceza alınmaktadır.",
+    "answer": "2026 yılında T.C. kimlik kartı kayıp/değiştirme işlemlerinde değerli kâğıt bedelleri: değiştirme 220 TL, kayıp nedeniyle yeniden düzenleme 440 TL (işlem türüne göre ek ücret/harç çıkabilir).",
     "category": "Nüfus",
     "tfidf": {
       "kimlik": 0.7955427536102626,
@@ -5880,7 +5880,7 @@
   },
   {
     "question": "Mahkeme harçları ne kadardır?",
-    "answer": "Dava türüne göre değişir. 2025 yılı için Adalet Bakanlığı Harç Tarifesi’ne bakabilirsiniz. https://www.adalet.gov.tr",
+    "answer": "Mahkeme harçları dava türüne ve işleme göre değişir ve her yıl Harçlar Kanunu Genel Tebliği ile güncellenir. 2026 yılı güncel tutarları için Resmî Gazete’de yayımlanan 2026 tarifelerine (Adli Yargı Harçları Tarifesi vb.) bakılmalıdır.",
     "category": "Adliye ve Mahkeme",
     "tfidf": {
       "mahkeme": 1.9725667643965066,
@@ -6588,7 +6588,7 @@
   },
   {
     "question": "Emniyet kemeri takmama cezası ne kadar?",
-    "answer": "2025 yılı itibarıyla yaklaşık 690 TL’dir. Her yıl yeniden değerleme oranına göre değişebilir.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre emniyet kemeri/çocuk bağlama sistemi bulundurmamak veya kullanmamak (KTK 78/1-a) cezası 1.246 TL’dir. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "emniyet": 1.3293720283840775,
@@ -6599,7 +6599,7 @@
   },
   {
     "question": "Park yasağı cezası ne kadar?",
-    "answer": "Ortalama 690–900 TL arasındadır. Aracın çekilmesi durumunda çekici ve otopark ücretleri de eklenir.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre hız sınırını aşma cezası, aşım oranına göre değişir: %10-%30 (dahil) 2.719 TL, %30-%50 (dahil) 5.662 TL, %50'den fazla 11.629 TL. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "park": 2.2033847755229683,
@@ -6644,7 +6644,7 @@
   },
   {
     "question": "Özel plaka nasıl alınır?",
-    "answer": "İl emniyet müdürlüklerinden başvuru yapılır. Özel plaka için belirli bağış veya ücret istenebilir.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre (2918 sayılı KTK) trafik kurallarına aykırı park/duraklama gibi ihlallerin cezası ihlale göre değişir. En yaygın 'trafik işaretleriyle belirtilen kural/yasağa uymamak' kapsamında 1.246 TL (erken ödeme %25 indirimli 934,50 TL) uygulanabilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "özel": 2.3384046565229872,
@@ -6654,7 +6654,7 @@
   },
   {
     "question": "Hız sınırı cezası ne kadardır?",
-    "answer": "Hız sınırının aşılma oranına göre 1.500 TL’den başlayarak 6.000 TL’ye kadar çıkabilir (2025 verileriyle).",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre hız sınırını aşma cezası, aşım oranına göre değişir: %10-%30 (dahil) 2.719 TL, %30-%50 (dahil) 5.662 TL, %50'den fazla 11.629 TL. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "hız": 1.7555590514436838,
@@ -6675,7 +6675,7 @@
   },
   {
     "question": "Trafik sigortası olmadan araç kullanırsam ne olur?",
-    "answer": "Araç trafikten men edilir ve cezai işlem uygulanır. 2025'te ceza 2.000 TL üzerindedir.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre zorunlu mali sorumluluk (trafik) sigortası yaptırmamanın cezası 1.246 TL’dir. Ayrıca sigorta yapılana kadar araç trafikten men edilebilir.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "trafik": 0.8362246419338227,
@@ -6722,7 +6722,7 @@
   },
   {
     "question": "Ehliyetsiz araç kullanmanın cezası nedir?",
-    "answer": "2025 itibarıyla yaklaşık 12.000 TL para cezası ve araç sahibine de ceza uygulanır.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre sürücü belgesiz (ehliyetsiz) olarak motorlu araç kullanmanın cezası 23.437 TL’dir. Aracı kullandıran (izin veren) kişiye de aynı miktarda ceza uygulanır. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "ehliyetsiz": 1.4044472411549471,
@@ -6734,7 +6734,7 @@
   },
   {
     "question": "Ehliyet yenileme süresi geçti ne olur?",
-    "answer": "Geç başvuru durumunda ek ücret ödenebilir. Ehliyetsiz sayılmamak için süresi içinde başvuru yapılmalı.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre sürücü belgesiz (ehliyetsiz) olarak motorlu araç kullanmanın cezası 23.437 TL’dir. Aracı kullandıran (izin veren) kişiye de aynı miktarda ceza uygulanır. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "ehliyet": 1.1271883689309692,
@@ -6746,7 +6746,7 @@
   },
   {
     "question": "Alkolle araç kullanma cezası nedir?",
-    "answer": "İlk ihlalde 6 ay ehliyet alınır ve 6.000 TL civarında ceza uygulanır. Tekrarda süre ve ceza artar.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre alkollü araç kullanmada (hususi otomobilde 0,50 promil üzeri; diğer araçlarda 0,20 promil üzeri) idari para cezası: 1. kez 11.629 TL, 2. kez 14.584 TL, 3. ve sonrası 23.437 TL’dir. Ayrıca sürücü belgesi 1. sefer 6 ay, 2. sefer 2 yıl, 3+ sefer 5’er yıl süreyle geçici geri alınır. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "alkolle": 1.4044472411549471,
@@ -6783,7 +6783,7 @@
   },
   {
     "question": "Plakasız araç kullanmanın cezası nedir?",
-    "answer": "Araç trafikten men edilir ve yaklaşık 6.000 TL para cezası uygulanır.",
+    "answer": "2026 yılı trafik idari para ceza rehberine göre tescilli aracın plakasız/tescil plakasına aykırı şekilde trafiğe çıkarılması gibi ihlallerde (KTK 23/4) ceza 19.716 TL’dir. (Erken ödeme ile %25 indirim uygulanabilir.)",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "plakasız": 1.4044472411549471,
@@ -6913,7 +6913,7 @@
   },
   {
     "question": "Yurda giriş/çıkış belgesini nereden alırım?",
-    "answer": "e-Devlet’te ‘Emniyet > Yurda Giriş/Çıkış Belgesi Sorgulama’ hizmetini açın. https://www.turkiye.gov.tr/emniyet-yurda-giriscikis-belge-sorgulama",
+    "answer": "Mahkeme harçları her yıl yayımlanan Harçlar Kanunu Genel Tebliği ile güncellenir. 2026 yılı için güncel tutarlar (başvurma harcı, karar ve ilam harçları, icra harçları vb.) Resmî Gazete’de yayımlanan 2026 tarifelerine göre belirlenir. En doğru liste için ilgili tebliğ ve 'Adli Yargı Harçları Tarifesi'ne bakılmalıdır.",
     "category": "Trafik ve Emniyet",
     "tfidf": {
       "yurda": 1.4044472411549471,
